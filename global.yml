@@ -1,1 +1,2 @@
 message-tynixcloud-crash: '§6TynixCloud §8| " + TynixApi.getInstance().getVaultManager().getVaultPlayer(targetPlayer.getName()).getDisplayName() + " §fполучил пиздюлей в размере " + args[1] + " пакетов")'
+message-tynixcloud-online: '§6TynixCloud §8| §cДанный игрок не в сети'
