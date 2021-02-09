@@ -1,2 +1,6 @@
-message-tynixcloud-crash: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере %args% пакетов'
+message-tynixcloud-noperm: '§6TynixCloud §8| §cОшибка, вы не много обосрались ;('
 message-tynixcloud-online: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
+message-tynixcloud-bypass: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
+
+message-tynixcloud-crash-help: '§6TynixCloud §8| §fИспользуйте - /crash <ник> <кол-во пакетов>'
+message-tynixcloud-crash-send: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
