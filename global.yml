@@ -16,6 +16,12 @@ message-tynixcloud-crash-send: '§6TynixCloud §8| %player% §fполучил п
 message-tynixcloud-alert: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
 message-tynixcloud-find: '§6TynixCloud §8| §fИспользуйте - §6/find <ник>'
 message-tynixcloud-info: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
+message-tynixcloud-vk: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
+
+message-tynixcloud-server: '§6TynixCloud §8| §fИспользуйте - §6/server <сервер>'
+message-tynixcloud-send: '§6TynixCloud §8| §fИспользуйте - §6/send <ник> <сервер>'
 
 message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
 message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
+
+message-tynixcloud-rules: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
