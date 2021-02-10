@@ -5,7 +5,7 @@ message-tynixcloud-bypass: '§6TynixCloud §8| §cОшибка, игрок им�
 message-tynixcloud-no-vk: '§8▪ §fВКонтакте - §cНе привязан'
 message-tynixcloud-no-player: '§6TynixCloud §8| §fДанный игрок ранее не играл на нашем сервере'
 
-message-tynixcloud-online: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
+message-tynixcloud-offline: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
 
 message-tynixcloud-onlyauth: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
 message-tynixcloud-use-login-server: '§6TynixCloud §8| §cОшибка, данная команда на этом сервере запрещена!'
