@@ -4,3 +4,5 @@ message-tynixcloud-bypass: '§6TynixCloud §8| §cОшибка, игрок им�
 
 message-tynixcloud-crash-help: '§6TynixCloud §8| §fИспользуйте - /crash <ник> <кол-во пакетов>'
 message-tynixcloud-crash-send: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
+
+message-tynixcloud-alert: '§cОшибка, пишите §8» §6/alert <сообщение>'
