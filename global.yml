@@ -1,6 +1,11 @@
 message-tynixcloud-noperm: '§6TynixCloud §8| §cОшибка, вы не много обосрались ;('
-message-tynixcloud-online: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
+message-tynixcloud-minimalperm: '§6TynixCloud §8| §cОшибка, вы не много обосрались, Вам нужен статус %group% или выше!'
 message-tynixcloud-bypass: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
+
+message-tynixcloud-online: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
+
+message-tynixcloud-onlyauth: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
+message-tynixcloud-use-login-server: '§6TynixCloud §8| §cОшибка, данная команда на этом сервере запрещена!'
 
 message-tynixcloud-crash-help: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник> <кол-во пакетов>'
 message-tynixcloud-crash-send: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
