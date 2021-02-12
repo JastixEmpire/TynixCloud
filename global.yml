@@ -18,9 +18,6 @@ message-tynixcloud-find: '§6TynixCloud §8| §fИспользуйте - §6/fin
 message-tynixcloud-info: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
 message-tynixcloud-vk: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
 
-message-tynixcloud-fw-help: '§6TynixCloud §8| §fИспользуйте - §6/fw <ник>'
-message-tynixcloud-fw: '§6TynixCloud §8| §fВы успешно отправили фейверк игроку %name%'
-
 message-tynixcloud-server: '§6TynixCloud §8| §fИспользуйте - §6/server <сервер>'
 message-tynixcloud-send: '§6TynixCloud §8| §fИспользуйте - §6/send <ник> <сервер>'
 
