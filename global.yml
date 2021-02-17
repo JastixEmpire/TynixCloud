@@ -29,3 +29,13 @@ message-tynixcloud-rules: '§6TynixCloud §8| §fПолный список пр�
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
+
+FRIEND_ADD_USAGE: '§6TynixCloud §8| §fИспользуйте - §6/f add <ник>'
+FRIEND_ADD_ERROR_DUPLICATE: '§6TynixCloud §8| §cОшибка, Вы не можете добавлять в друзья самого себя!'
+FRIEND_ADD_ERROR_IS_FRIEND: '§6TynixCloud §8| §cОшибка, данный игрок уже является Вашим другом!'
+FRIEND_ADD_ERROR_HAS_REQUEST: '§6TynixCloud §8| §cОшибка, Вы уже подавали заявку на добавление в друзья данному игроку!'
+FRIEND_ADD_SUCCESS_SENDER: '§6Друзья §8| §fВы успешно приняли заявку в друзья от %player%'
+FREIND_ADD_SUCCESS_FRIEND: '§6Друзья §8| %player% §fпринял Вашу заявку в друзья'
+
+FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §fпредлагает стать Вашим другом'
+FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fВы успешно отправили заявку %player% §f, ожидате его ответа!'
