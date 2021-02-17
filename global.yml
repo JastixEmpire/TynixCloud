@@ -29,5 +29,3 @@ message-tynixcloud-rules: '§6TynixCloud §8| §fПолный список пр�
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
-
-message-tynixcloud-guild-help: '§6TynixCloud §8| §fИспользуйте - §6/guild create <Название гильдии> <Тэг гильдии>'
