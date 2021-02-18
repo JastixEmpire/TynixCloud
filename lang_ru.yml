@@ -13,7 +13,7 @@ message-tynixcloud-use-login-server: '§6TynixCloud §8| §cОшибка, дан
 message-tynixcloud-crash-help: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник> <кол-во пакетов>'
 message-tynixcloud-crash-send: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
 
-message-tynixcloud-aler: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
+message-tynixcloud-alert: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
 message-tynixcloud-find: '§6TynixCloud §8| §fИспользуйте - §6/find <ник>'
 message-tynixcloud-info: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
 message-tynixcloud-vk: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
@@ -29,6 +29,8 @@ message-tynixcloud-rules: '§6TynixCloud §8| §fПолный список пр�
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
+
+LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
 
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'

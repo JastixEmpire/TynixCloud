@@ -30,6 +30,8 @@ message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
 
+LANGUAGE_SELECT_MENU_TITLE: 'Select language'
+
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'
   - '§6* §fОтправить запрос на дружбу - §e/friends add <ник>'
