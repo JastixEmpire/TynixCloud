@@ -1,34 +1,21 @@
-message-tynixcloud-noperm: '§6TynixCloud §8| §cОшибка, вы не много обосрались ;('
-message-tynixcloud-minimalperm: '§6TynixCloud §8| §cОшибка, вы не много обосрались, Вам нужен статус %group% или выше!'
-message-tynixcloud-bypass: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
+NO_PERM: '§6TynixCloud §8| §cОшибка, вы не много обосрались ;('
+MINIMAL_PERM: '§6TynixCloud §8| §cОшибка, вы не много обосрались, Вам нужен статус %group% или выше!'
+USE_LOGIN_SERVER: '§6TynixCloud §8| §cОшибка, данная команда на этом сервере запрещена!'
+NO_PLAYER: '§6TynixCloud §8| §fДанный игрок ранее не играл на нашем сервере'
+NO_VK: '§8▪ §fВКонтакте - §cНе привязан'
+PLAYER_OFFLINE: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
+USE_ONLY_AUTH: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
+PLAYER_BYPASS: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
 
-message-tynixcloud-no-vk: '§8▪ §fВКонтакте - §cНе привязан'
-message-tynixcloud-no-player: '§6TynixCloud §8| §fДанный игрок ранее не играл на нашем сервере'
+CRASH_HELP: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник> <кол-во пакетов>'
+CRASH_SEND: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
 
-message-tynixcloud-offline: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
-
-message-tynixcloud-onlyauth: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
-message-tynixcloud-use-login-server: '§6TynixCloud §8| §cОшибка, данная команда на этом сервере запрещена!'
-
-message-tynixcloud-crash-help: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник> <кол-во пакетов>'
-message-tynixcloud-crash-send: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
-
-message-tynixcloud-alert: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
-message-tynixcloud-find: '§6TynixCloud §8| §fИспользуйте - §6/find <ник>'
-message-tynixcloud-info: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
-message-tynixcloud-vk: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
-
-message-tynixcloud-server: '§6TynixCloud §8| §fИспользуйте - §6/server <сервер>'
-message-tynixcloud-send: '§6TynixCloud §8| §fИспользуйте - §6/send <ник> <сервер>'
-
-message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
-message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
-
-message-tynixcloud-rules: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
-
-message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
-message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
-message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
+ALERT_HELP: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
+FIND_HELP: '§6TynixCloud §8| §fИспользуйте - §6/find <ник>'
+INFO_HELP: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
+VK_HELP: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
+SERVER_HELP: '§6TynixCloud §8| §fИспользуйте - §6/server <сервер>'
+SEND_HELP: '§6TynixCloud §8| §fИспользуйте - §6/send <ник> <сервер>'
 
 LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
 
@@ -49,3 +36,12 @@ FRIEND_ADD_SUCCESS_SENDER: '§6Друзья §8| §fВы успешно прин
 FREIND_ADD_SUCCESS_FRIEND: '§6Друзья §8| %player% §fпринял Вашу заявку в друзья'
 FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §fпредлагает стать Вашим другом'
 FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fВы успешно отправили заявку %player% §f, ожидате его ответа!'
+
+message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
+message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
+
+message-tynixcloud-rules: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
+
+message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
+message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
+message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
