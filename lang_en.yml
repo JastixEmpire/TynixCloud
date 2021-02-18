@@ -17,15 +17,24 @@ VK_HELP: '§6TynixCloud §8| §fUse - §6/vk <nickname>'
 SERVER_HELP: '§6TynixCloud §8| §fUse - §6/server <server>'
 SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <nickname> <server>'
 
-LANGUAGE_SELECT_MENU_TITLE: 'Select language'
-
-LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §cEnglish!'
-
 INFO:
   - '§6TynixCloud §8| §fInformation about the player %player%'
   - '§8▪ §fUnique ID - §c%id%'
   - '§8▪ §fGroup - %group%'
   - '§8▪ §fLanguage - §c%language%'
+INFO_ONLINE:
+  - ''
+  - '§8▪ §fAt the moment - §aOnline'
+  - '§8▪ §fCurrent Server - §d%server%'
+INFO_OFFLINE:
+  - ''
+  - '§8▪ §fAt the moment - §cOffline'
+  - '§8▪ §fLast server - §d%server%'
+  - '§8▪ §fI was online §c%date% ago'
+
+LANGUAGE_SELECT_MENU_TITLE: 'Select language'
+LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §cEnglish!'
+LANG_RELOAD: 'EPONA MAMA OBOSRAKA => /core stop'
 
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
@@ -33,9 +42,14 @@ FRIEND_HELP:
   - '§6* §fRemove a player from friends - §e/friends remove <nickname>'
   - '§6* §fList of friends - §e/friends list'
   - '§6* §fList of Friend requests- §e/friends requests'
-
-LANG_RELOAD: 'EPONA MAMA OBOSRAKA => /core stop'
-
+FRIEND_MENU_LIST_TITLE: 'Friend list'
+FRIEND_MENU_LIST_INFO:
+  - ''
+  - '§fOnline: §%is_online%'
+  - ''
+  - '§fLanguage: §c%language%'
+  - ''
+  - '§fClick, to teleport to a friend!'
 FRIEND_ADD_USAGE: '§6TynixCloud §8| §fUse - §6/f add <nickname>'
 FRIEND_ADD_ERROR_DUPLICATE: '§6TynixCloud §8| §cError, you can t add yourself as a friend!'
 FRIEND_ADD_ERROR_IS_FRIEND: '§6TynixCloud §8| §cError, this player is already your friend!'
@@ -48,17 +62,6 @@ FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fYou have successfully submitted 
 RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
 
 VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
-
-INFO_ONLINE:
-  - ''
-  - '§8▪ §fAt the moment - §aOnline'
-  - '§8▪ §fCurrent Server - §d%server%'
-
-INFO_OFFLINE:
-  - ''
-  - '§8▪ §fAt the moment - §cOffline'
-  - '§8▪ §fLast server - §d%server%'
-  - '§8▪ §fI was online §c%date% ago'
 
 message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
 message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
