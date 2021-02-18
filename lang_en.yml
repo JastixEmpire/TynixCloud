@@ -19,7 +19,7 @@ SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <nickname> <server>'
 
 LANGUAGE_SELECT_MENU_TITLE: 'Select language'
 
-LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §cEnglish'
+LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §cEnglish!'
 
 INFO:
   - '§6TynixCloud §8| §fInformation about the player %player%'
