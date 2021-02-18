@@ -13,7 +13,7 @@ message-tynixcloud-use-login-server: '§6TynixCloud §8| §cОшибка, дан
 message-tynixcloud-crash-help: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник> <кол-во пакетов>'
 message-tynixcloud-crash-send: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
 
-message-tynixcloud-alert: '§6TynixCloud §8| §fUse TESTT - §6/alert <message>'
+message-tynixcloud-alert: '§6TynixCloud §8| §fUse - §6/alert <message>'
 message-tynixcloud-find: '§6TynixCloud §8| §fИспользуйте - §6/find <ник>'
 message-tynixcloud-info: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
 message-tynixcloud-vk: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
