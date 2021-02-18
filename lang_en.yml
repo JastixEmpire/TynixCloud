@@ -2,7 +2,7 @@ NO_PERM: '§6TynixCloud §8| §cError, you dont have permission ;('
 MINIMAL_PERM: '§6TynixCloud §8| §cError, you dont have permission buy %group% or higher!'
 USE_LOGIN_SERVER: '§6TynixCloud §8| §cError, this command is not allowed on this server!'
 NO_PLAYER: '§6TynixCloud §8| §fThis player has not played on our server before'
-NO_VK: '§8▪ §fВКонтакте - §cНе привязан'
+NO_VK: '§8▪ §fВКонтакте - §cNot linked'
 PLAYER_OFFLINE: '§6TynixCloud §8| §cError, player offline!'
 USE_ONLY_AUTH: '§6TynixCloud §8| §cError, you are not logged in yet!'
 PLAYER_BYPASS: '§6TynixCloud §8| §cError, the player has immunity!'
@@ -19,7 +19,13 @@ SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <nickname> <server>'
 
 LANGUAGE_SELECT_MENU_TITLE: 'Select language'
 
-LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §c%language%'
+LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §cEnglish'
+
+INFO:
+  - '§6TynixCloud §8| §fInformation about the player %player%'
+  - '§8▪ §fUnique ID - §c%id%'
+  - '§8▪ §fGroup - %group%'
+  - '§8▪ §fLanguage - §c%language%'
 
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
@@ -40,6 +46,19 @@ FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §foffers to become your f
 FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fYou have successfully submitted your application %player% §f, wait for his response!'
 
 RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
+
+VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
+
+INFO_ONLINE:
+  - ''
+  - '§8▪ §fAt the moment - §aOnline'
+  - '§8▪ §fCurrent Server - §d%server%'
+
+INFO_OFFLINE:
+  - ''
+  - '§8▪ §fAt the moment - §cOffline'
+  - '§8▪ §fLast server - §d%server%'
+  - '§8▪ §fI was online §c%date% ago'
 
 message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
 message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'

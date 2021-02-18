@@ -21,7 +21,13 @@ LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
 
 LANG_RELOAD: 'Епона мама обосрака => /core stop'
 
-LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на: §c%language%'
+LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на: §cРусский'
+
+INFO:
+  - '§6TynixCloud §8| §fИнформация о игроке %player%'
+  - '§8▪ §fУникальный ID - §c%id%'
+  - '§8▪ §fПривилегия - %group%'
+  - '§8▪ §fЯзык - §c%language%'
 
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'
@@ -40,6 +46,19 @@ FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §fпредлагает с
 FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fВы успешно отправили заявку %player% §f, ожидате его ответа!'
 
 RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
+
+VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
+
+INFO_ONLINE:
+  - ''
+  - '§8▪ §fНа данный момент - §aOnline'
+  - '§8▪ §fТекущий сервер - §d%server%'
+
+INFO_OFFLINE:
+  - ''
+  - '§8▪ §fНа данный момент - §cOffline'
+  - '§8▪ §fПоследний сервер - §d%server%'
+  - '§8▪ §fБыл в сети §c%date% назад'
 
 message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
 message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
