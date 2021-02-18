@@ -19,7 +19,7 @@ SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <nickname> <server>'
 
 LANGUAGE_SELECT_MENU_TITLE: 'Select language'
 
-LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to : §c%language%'
+LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §c%language%'
 
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
@@ -39,10 +39,10 @@ FREIND_ADD_SUCCESS_FRIEND: '§6Друзья §8| %player% §faccepted your appli
 FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §foffers to become your friend'
 FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fYou have successfully submitted your application %player% §f, wait for his response!'
 
+RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
+
 message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
 message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
-
-message-tynixcloud-rules: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
 
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
