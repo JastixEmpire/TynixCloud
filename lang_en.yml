@@ -49,7 +49,7 @@ FRIEND_MENU_LIST_INFO:
   - ''
   - '§fLanguage: §c%language%'
   - ''
-  - '§fClick, to teleport to a friend!'
+  - '§fClick to teleport a friend!'
 FRIEND_ADD_USAGE: '§6TynixCloud §8| §fUse - §6/f add <nickname>'
 FRIEND_ADD_ERROR_DUPLICATE: '§6TynixCloud §8| §cError, you can t add yourself as a friend!'
 FRIEND_ADD_ERROR_IS_FRIEND: '§6TynixCloud §8| §cError, this player is already your friend!'
