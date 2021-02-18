@@ -21,6 +21,8 @@ LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
 
 LANG_RELOAD: 'Епона мама обосрака => /core stop'
 
+LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на : §c%language%'
+
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'
   - '§6* §fОтправить запрос на дружбу - §e/friends add <ник>'

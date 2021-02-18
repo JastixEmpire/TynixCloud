@@ -19,6 +19,8 @@ SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <nickname> <server>'
 
 LANGUAGE_SELECT_MENU_TITLE: 'Select language'
 
+LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to : §c%language%'
+
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
   - '§6* §fSend a Friend request - §e/friends add <nickname>'
