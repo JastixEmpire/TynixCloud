@@ -32,6 +32,8 @@ message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §
 
 LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
 
+LANG_RELOAD: 'EPONA MAMA OBOSRAKA => /core stop'
+
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'
   - '§6* §fОтправить запрос на дружбу - §e/friends add <ник>'
