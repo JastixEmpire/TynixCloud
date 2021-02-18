@@ -43,7 +43,7 @@ FRIEND_ADD_ERROR_HAS_REQUEST: '§6TynixCloud §8| §cError, you have already sub
 FRIEND_ADD_SUCCESS_SENDER: '§6Друзья §8| §fYou have successfully accepted a friend request from %player%'
 FREIND_ADD_SUCCESS_FRIEND: '§6Друзья §8| %player% §faccepted your application as a friend'
 FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §foffers to become your friend'
-FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fYou have successfully submitted your application %player% §f, wait for his response!'
+FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
 
 RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
 
