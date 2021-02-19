@@ -49,7 +49,7 @@ FRIEND_MENU_LIST_INFO:
   - ''
   - '§fЯзык игрока: §c%language%'
   - ''
-  - '§fНажмите, для телепортации к другу!'
+  - '§fНажмите для телепортации к другу!'
 FRIEND_ADD_USAGE: '§6TynixCloud §8| §fИспользуйте - §6/f add <ник>'
 FRIEND_ADD_ERROR_DUPLICATE: '§6TynixCloud §8| §cОшибка, Вы не можете добавлять в друзья самого себя!'
 FRIEND_ADD_ERROR_IS_FRIEND: '§6TynixCloud §8| §cОшибка, данный игрок уже является Вашим другом!'
