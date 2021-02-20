@@ -6,6 +6,7 @@ NO_VK: '§8▪ §fVK - §cNot linked'
 PLAYER_OFFLINE: '§6TynixCloud §8| §cError, player offline!'
 USE_ONLY_AUTH: '§6TynixCloud §8| §cError, you are not logged in yet!'
 PLAYER_BYPASS: '§6TynixCloud §8| §cError, the player has immunity!'
+ARLEADY_CONNECTION: '§6TynixCloud §8| §cError, you are already on this server!'
 
 CRASH_HELP: '§6TynixCloud §8| §fUse - §6/crash <nickname> <number of packages>'
 CRASH_SEND: '§6TynixCloud §8| %player% §freceived §c%args% §fpackages'
@@ -77,6 +78,7 @@ FRIEND_ADD_SUCCESS_SENDER: '§6Friends §8| §fYou have successfully accepted a 
 FREIND_ADD_SUCCESS_FRIEND: '§6Friends §8| %player% §faccepted your application as a friend'
 FRIEND_SUCCESS_SENDER: '§6Friends §8| %player% §foffers to become your friend'
 FRIEND_SUCCESS_FRIEND: '§6Friends §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
+FRIEND_SUCCESS_REMOVE_FRIEND: '§6Friends §8| §fYou have successfully removed from friends %player%§f!'
 
 PARTY_HELP:
   - '§6Party §8| §fHelp commands:'

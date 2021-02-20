@@ -6,6 +6,7 @@ NO_VK: '§8▪ §fВКонтакте - §cНе привязан'
 PLAYER_OFFLINE: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
 USE_ONLY_AUTH: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
 PLAYER_BYPASS: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
+ARLEADY_CONNECTION: '§6TynixCloud §8| §cОшибка, вы уже находитесь на этом сервере!'
 
 CRASH_HELP: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник> <кол-во пакетов>'
 CRASH_SEND: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
@@ -77,6 +78,7 @@ FRIEND_ADD_SUCCESS_SENDER: '§6Друзья §8| §fВы успешно прин
 FREIND_ADD_SUCCESS_FRIEND: '§6Друзья §8| %player% §fпринял Вашу заявку в друзья'
 FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §fпредлагает стать Вашим другом'
 FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fВы успешно отправили заявку %player% §f, ожидате его ответа!'
+FRIEND_SUCCESS_REMOVE_FRIEND: '§6Друзья §8| §fВы успешно удалили из друзей %player%§f!'
 
 RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
 
