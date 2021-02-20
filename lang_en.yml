@@ -43,8 +43,8 @@ FRIEND_HELP:
   - '§6* §fList of friends - §e/friends list'
   - '§6* §fList of Friend requests- §e/friends requests'
 FRIEND_MENU_LIST_TITLE: 'Friend list'
-FRIEND_MENU_TITLE_LIST: 'General information'
 REQUEST_MENU_LIST_TITLE: 'Requests list'
+FRIEND_MENU_TITLE_LIST: '§aGeneral information'
 FRIEND_MENU_TITLE_LORE:
   - '§7Total friends: §e%friends%'
 FRIEND_MENU_LIST_ONLINE_INFO:
