@@ -48,6 +48,7 @@ REQUEST_MENU_LIST_TITLE: 'Список запросов'
 FRIEND_MENU_TITLE_LIST: '§aОбщая информация'
 FRIEND_MENU_TITLE_LORE:
   - '§7Всего друзей: §e%friends%'
+
 FRIEND_MENU_LIST_ONLINE_INFO:
   - ''
   - '§fВ сети: §aДа'
