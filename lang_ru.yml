@@ -43,6 +43,7 @@ FRIEND_HELP:
   - '§6* §fСписок друзей - §e/friends list'
   - '§6* §fСписок запросов в друзья - §e/friends requests'
 FRIEND_MENU_LIST_TITLE: 'Список друзей'
+REQUEST_MENU_LIST_TITLE: 'Список запросов'
 FRIEND_MENU_LIST_ONLINE_INFO:
   - ''
   - '§fВ сети: §aДа'
