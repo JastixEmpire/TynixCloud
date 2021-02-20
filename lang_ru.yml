@@ -45,6 +45,10 @@ FRIEND_HELP:
   - '§6* §fСписок запросов в друзья - §e/friends requests'
 FRIEND_MENU_LIST_TITLE: 'Список друзей'
 REQUEST_MENU_LIST_TITLE: 'Список запросов'
+FRIEND_MENU_NO_FRIENDS_TITLE: '§cЛошара, а где твои друзья?'
+FRIEND_MENU_NO_FRIENDS_LORE:
+  - '§cУ вас отсутствуют друзья!'
+  - '§cПриобретите их в ближайшем магазине...'
 FRIEND_MENU_TITLE_LIST: '§aОбщая информация '
 FRIEND_MENU_TITLE_LORE:
   - '§7Всего друзей: §e%friends%'
