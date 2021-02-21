@@ -47,7 +47,7 @@ FRIEND_MENU_LIST_TITLE: 'Friend list'
 REQUEST_MENU_LIST_TITLE: 'Requests list'
 FRIEND_MENU_NO_FRIENDS_TITLE: '§cError 404'
 FRIEND_MENU_NO_FRIENDS_LORE:
-  - '§cYou dont have any friends!'
+  - '§cYou don t have any friends!'
   - '§cBuy them at your nearest store...'
 FRIEND_MENU_TITLE_LIST: '§aGeneral information'
 FRIEND_MENU_TITLE_LORE:
@@ -87,9 +87,9 @@ FRIEND_SUCCESS_REMOVE_FRIEND: '§6Friends §8| §fYou have successfully removed 
 PARTY_HELP:
   - '§6Party §8| §fHelp commands:'
   - '§6* §fSend a Party request - §e/party invite <nickname>'
-  - '§6* §fRemove a player from friends - §e/friends remove <nickname>'
-  - '§6* §fList of friends - §e/friends list'
-  - '§6* §fList of Friend requests- §e/friends requests'
+  - '§6* §fRemove a player from party - §e/party remove <nickname>'
+  - '§6* §fList of friends - §e/party list'
+  - '§6* §fList of Friend requests- §e/party requests'
 PARTY_MENU_LIST_TITLE: 'Party list'
 PARTY_MENU_LIST_ONLINE_INFO:
   - ''
@@ -104,11 +104,12 @@ PARTY_MENU_LIST_ONLINE_INFO:
 PARTY_ADD_USAGE: '§6TynixCloud §8| §fUse - §6/party invite <nickname>'
 PARTY_ADD_ERROR_DUPLICATE: '§6Party §8| §cError, you can t add yourself as a PARTY!'
 PARTY_ADD_ERROR_IS_PARTY: '§6Party §8| §cError, this player is already your PARTY!'
-PARTY_ADD_ERROR_HAS_REQUEST: '§6Party §8| §cError, you have already submitted a request to add this player as a party!'
+PARTY_ADD_ERROR_HAS_REQUEST: '§6Party §8| §cError, you have already submitted a request to add this player as a party'
 PARTY_ADD_SUCCESS_SENDER: '§6Party §8| §fYou have successfully accepted a party request from %player%'
-PARTY_ADD_SUCCESS_MEMBER: '§6Party §8| %player% §faccepted your application as a PARTY!'
-PARTY_SUCCESS_MEMBER: '§6Party §8| %player% §foffers to become your PARTY!'
-PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
+PARTY_ADD_SUCCESS_MEMBER: '§6Party §8| %player% §faccepted your application as a PARTY'
+PARTY_SUCCESS_MEMBER: '§6Party §8| %player% §foffers to become your PARTY'
+PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your application %player% §f, wait for his response'
+PARTY_ALERT: '§6Party §8| %player% §fjoined to the party'
 
 RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
 

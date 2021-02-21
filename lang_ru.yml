@@ -84,6 +84,33 @@ FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §fпредлагает с
 FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fВы успешно отправили заявку %player% §f, ожидате его ответа!'
 FRIEND_SUCCESS_REMOVE_FRIEND: '§6Друзья §8| §fВы успешно удалили из друзей %player%§f!'
 
+PARTY_HELP:
+  - '§6Party §8| §fПомощь по командам:'
+  - '§6* §fОтправить запрос - §e/party invite <nickname>'
+  - '§6* §fУдалить игрока из группы - §e/party remove <nickname>'
+  - '§6* §fСписок игроков в группе - §e/party list'
+  - '§6* §fСписок приглашений в группу - §e/party requests'
+PARTY_MENU_LIST_TITLE: 'Party list'
+PARTY_MENU_LIST_ONLINE_INFO:
+  - ''
+  - '§fOnline: §a%online%'
+  - ''
+  - '§fVK: §c%vk%'
+  - '§fLanguage: §c%language%'
+  - ''
+  - '§fServer: §c%server%'
+  - ''
+  - '§cClick to remove a party'
+PARTY_ADD_USAGE: '§6TynixCloud §8| §fUse - §6/party invite <nickname>'
+PARTY_ADD_ERROR_DUPLICATE: '§6Party §8| §cError, you can t add yourself as a PARTY!'
+PARTY_ADD_ERROR_IS_PARTY: '§6Party §8| §cError, this player is already your PARTY!'
+PARTY_ADD_ERROR_HAS_REQUEST: '§6Party §8| §cError, you have already submitted a request to add this player as a party!'
+PARTY_ADD_SUCCESS_SENDER: '§6Party §8| §fYou have successfully accepted a party request from %player%'
+PARTY_ADD_SUCCESS_MEMBER: '§6Party §8| %player% §faccepted your application as a PARTY!'
+PARTY_SUCCESS_MEMBER: '§6Party §8| %player% §foffers to become your PARTY!'
+PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
+PARTY_ALERT: '§6Party §8| %player% §fприсоединился к группе'
+
 RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
 
 VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
