@@ -7,6 +7,7 @@ PLAYER_OFFLINE: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
 USE_ONLY_AUTH: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
 PLAYER_BYPASS: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
 ARLEADY_CONNECTION: '§6TynixCloud §8| §cОшибка, вы уже находитесь на этом сервере!'
+SERVER_NOT_FOUND: '§6TynixCloud §8| §cОшибка, данный сервер не подключен к Core!'
 
 CRASH_HELP: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник> <кол-во пакетов>'
 CRASH_SEND: '§6TynixCloud §8| %player% §fполучил пиздюлей в размере §c%args% §fпакетов'
