@@ -19,6 +19,8 @@ VK_HELP: '§6TynixCloud §8| §fUse - §6/vk <nickname>'
 SERVER_HELP: '§6TynixCloud §8| §fUse - §6/server <server>'
 SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <nickname> <server>'
 
+FIND_MESSAGE: '§6TynixCloud §8| %player% §flocated on the server %server%'
+
 INFO:
   - '§6TynixCloud §8| §fInformation about the player %player%'
   - '§8▪ §fUnique ID - §c%id%'
