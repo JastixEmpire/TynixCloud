@@ -80,7 +80,9 @@ FRIEND_ADD_ERROR_IS_FRIEND: '§6TynixCloud §8| §cОшибка, данный и
 FRIEND_ADD_ERROR_HAS_REQUEST: '§6TynixCloud §8| §cОшибка, Вы уже подавали заявку на добавление в друзья данному игроку!'
 FRIEND_ADD_SUCCESS_SENDER: '§6Друзья §8| §fВы успешно приняли заявку в друзья от %player%'
 FRIEND_ADD_SUCCESS_FRIEND: '§6Друзья §8| %player% §fпринял Вашу заявку в друзья'
-FRIEND_SUCCESS_SENDER: '§6Друзья §8| %player% §fпредлагает стать Вашим другом'
+FRIEND_SUCCESS_SENDER:
+  - '§6Друзья §8| %player% §fпредлагает стать Вашим другом'
+  - '§6* §fДля ответа пишите - §a/f requests'
 FRIEND_SUCCESS_FRIEND: '§6Друзья §8| §fВы успешно отправили заявку %player% §f, ожидате его ответа!'
 FRIEND_SUCCESS_REMOVE_FRIEND: '§6Друзья §8| §fВы успешно удалили из друзей %player%§f!'
 

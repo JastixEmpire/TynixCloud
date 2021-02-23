@@ -83,7 +83,9 @@ FRIEND_ADD_ERROR_IS_FRIEND: '§6TynixCloud §8| §cError, this player is already
 FRIEND_ADD_ERROR_HAS_REQUEST: '§6TynixCloud §8| §cError, you have already submitted a request to add this player as a friend!'
 FRIEND_ADD_SUCCESS_SENDER: '§6Friends §8| §fYou have successfully accepted a friend request from %player%'
 FRIEND_ADD_SUCCESS_FRIEND: '§6Friends §8| %player% §faccepted your application as a friend'
-FRIEND_SUCCESS_SENDER: '§6Friends §8| %player% §foffers to become your friend'
+FRIEND_SUCCESS_SENDER:
+  - '§6Friends §8| %player% §foffers to become your friend'
+  - '§6* §fFor an answer use - §a/f requests'
 FRIEND_SUCCESS_FRIEND: '§6Friends §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
 FRIEND_SUCCESS_REMOVE_FRIEND: '§6Friends §8| §fYou have successfully removed from friends %player%§f!'
 
