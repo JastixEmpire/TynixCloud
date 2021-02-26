@@ -24,6 +24,7 @@ FIND_MESSAGE: '§6TynixCloud §8| %player% §flocated on the server %server%'
 INFO:
   - '§6TynixCloud §8| §fInformation about the player %player%'
   - '§8▪ §fUnique ID - §c%id%'
+  - '§8▪ §fMoney - §a%money%'
   - '§8▪ §fGroup - %group%'
   - '§8▪ §fLanguage - §c%language%'
 INFO_ONLINE:
