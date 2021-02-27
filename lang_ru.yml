@@ -4,10 +4,34 @@ USE_LOGIN_SERVER: '§6TynixCloud §8| §cОшибка, данная команд
 NO_PLAYER: '§6TynixCloud §8| §fДанный игрок ранее не играл на нашем сервере'
 NO_VK: '§8▪ §fВКонтакте - §cНе привязан'
 PLAYER_OFFLINE: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
+PLAYER_NOT_AUTH: '§6Авторизация §8| §cОшибка, Вы не вошли в аккаунт'
+PLAYER_NOT_REGISTER: '§6Авторизация §8| §cОшибка, Вы не зарегестрированы'
+PLAYER_WRONG_PASSWORD: '§6Авторизация §8| §cОшибка, вы ввели не правильный пароль'
+PLAYER_SUCCESS_CHANGE_PASSWORD: '§6Авторизация §8| §7Ваш пароль был успешно изменён!'
+PLAYER_ALREADY_AUTH: '§6Авторизация §8| §cОшибка, Вы уже авторизированы, приятной игры!'
 USE_ONLY_AUTH: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
 PLAYER_BYPASS: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
 ALREADY_CONNECTION: '§6TynixCloud §8| §cОшибка, вы уже находитесь на этом сервере!'
 SERVER_NOT_FOUND: '§6TynixCloud §8| §cОшибка, данный сервер не подключен к Core!'
+
+CHANGE_PASSWORD_USAGE: '§6Авторизация §8| §fИспользуйте - §6/changepassword <старый_пароль> <новый_пароль>'
+LOGIN_USAGE: '§6Авторизация §8| §fИспользуйте - §6/login <пароль>'
+REGISTER_USAGE: '§6Авторизация §8| §fИспользуйте - §6/register <пароль> <повтор пароля>'
+UNREGISTER_USAGE: '§6Авторизация §8| §fИспользуйте - §6/unregister <игрок>'
+UNREGISTER_SUCCESS: '§6Авторизация §8| §fВы успешно разрегистрировали игрока'
+PASSWORD_NOT_VALID: '§6Авторизация §8| §cПароль должен содержать не меньше 6 и не больше 16 символов'
+PASSWORD_NOT_MATCH: '§6Авторизация §8| §cОшибка, Ваши пароли не совпадают!'
+ACCOUNT_NOT_LINKED_VK:
+  - ''
+  - '§c§l⚠ Внимание! §fУ Вас не привязана страница §bВКонтакте §fк своему аккаунту.'
+  - 'Сделав это, вы сможете управлять аккаунтом.'
+  - 'Если вас взломают, то вы легко сможете восстановить свой аккаунт!'
+  - 'Сделайте это прямо сейчас, написав в сообщения группы: §evk.com/TynixCloud'
+  - 'Команда - §6!привязать [ник] [пароль]'
+PLAYER_SUCCESS_AUTH:
+  - ''
+  - '"§6Авторизация §8| §fАвторизация §aуспешно §fпройдена'
+  - ''
 
 ALERT_HELP: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
 FIND_HELP: '§6TynixCloud §8| §fИспользуйте - §6/find <ник>'
@@ -15,7 +39,6 @@ INFO_HELP: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
 VK_HELP: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
 SERVER_HELP: '§6TynixCloud §8| §fИспользуйте - §6/server <сервер>'
 SEND_HELP: '§6TynixCloud §8| §fИспользуйте - §6/send <ник> <сервер>'
-
 FIND_MESSAGE: '§6TynixCloud §8| %player% §fнаходится на сервере %server%'
 
 INFO:
@@ -37,6 +60,9 @@ INFO_OFFLINE:
 LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
 LANG_RELOAD: 'Епона мама обосрака => /core stop'
 LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на: §cРусский!'
+LANG_JOIN:
+  - '§6TynixCloud §8| §fУ вас установлен язык §cРусский'
+  - '§6* §fСменить язык - §e/lang'
 
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'
@@ -115,11 +141,7 @@ PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your app
 PARTY_ALERT: '§6Party §8| %player% §fприсоединился к группе'
 
 RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
-
 VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
-
-message-tynixcloud-random: '§6TynixCloud §8| §fРандомный долбаеб - %player%'
-message-tynixcloud-fly: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
 
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
