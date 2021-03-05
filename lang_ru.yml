@@ -143,6 +143,8 @@ PARTY_ALERT: '§6Party §8| %player% §fприсоединился к групп
 RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
 VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
 
+CRASH_USE: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник>'
+
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
