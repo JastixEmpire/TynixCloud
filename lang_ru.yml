@@ -30,7 +30,7 @@ ACCOUNT_NOT_LINKED_VK:
   - 'Команда - §6!привязать [ник] [пароль]'
 PLAYER_SUCCESS_AUTH:
   - ''
-  - '"§6Авторизация §8| §fАвторизация §aуспешно §fпройдена'
+  - '§6Авторизация §8| §fАвторизация §aуспешно §fпройдена'
   - ''
 
 ALERT_HELP: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
@@ -39,6 +39,7 @@ INFO_HELP: '§6TynixCloud §8| §fИспользуйте - §6/info <ник>'
 VK_HELP: '§6TynixCloud §8| §fИспользуйте - §6/vk <ник>'
 SERVER_HELP: '§6TynixCloud §8| §fИспользуйте - §6/server <сервер>'
 SEND_HELP: '§6TynixCloud §8| §fИспользуйте - §6/send <ник> <сервер>'
+CRASH_HELP: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник>'
 FIND_MESSAGE: '§6TynixCloud §8| %player% §fнаходится на сервере %server%'
 
 INFO:
@@ -143,7 +144,14 @@ PARTY_ALERT: '§6Party §8| %player% §fприсоединился к групп
 RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
 VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
 
-CRASH_USE: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник>'
+CHAT_HOVER:
+  - '&7Статистика %prefix%%player%&7:'
+  - ' &6* &fЯзык: %level%'
+  - ' &6* &fБаланс: &a⛂%balance%'
+  - ' &6* &fУровень: &d%level%'
+  - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
+  - ''
+  - '&e▸ Нажмите, чтобы отправить личное сообщение'
 
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
