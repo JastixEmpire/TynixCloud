@@ -49,6 +49,17 @@ MONEY_MESSAGE:
   - '%golds%'
 RANDOM_MESSAGE: '§6TynixCloud §8| §fРандомный человек - %player%'
 AUTO_FLY_MESSAGE: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
+EXT_MESSAGE: '§6TynixCloud §8| §fВы §aуспешно §fпотушили себя!'
+FEED_MESSAGE: '§6TynixCloud §8| §fВы §aуспешно §fнакормили себя!'
+FLY_MESSAGE: '§6TynixCloud §8| §fРазрешение на полёт: %fly%'
+HEAL_MESSAGE: '§6TynixCloud §8| §fВаше здоровье §aуспешно §fвосстановлено!'
+HELP_SURVIVAL:
+  - 'Помощь по выживанию от §6TynixCloud§f:'
+  - ' [Основные команды]:'
+  - '  - Телепортироваться домой - §e/home'
+  - '  - Установить точку дома - §e/sethome'
+  - '  - Удалить точку дома - §e/removehome'
+  - ''
 
 INFO:
   - '§6TynixCloud §8| §fИнформация о игроке %player%'
