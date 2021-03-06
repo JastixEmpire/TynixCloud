@@ -13,6 +13,8 @@ USE_ONLY_AUTH: '§6TynixCloud §8| §cОшибка, Вы еще не автор�
 PLAYER_BYPASS: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
 ALREADY_CONNECTION: '§6TynixCloud §8| §cОшибка, вы уже находитесь на этом сервере!'
 SERVER_NOT_FOUND: '§6TynixCloud §8| §cОшибка, данный сервер не подключен к Core!'
+RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
+VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
 
 CHANGE_PASSWORD_USAGE: '§6Авторизация §8| §fИспользуйте - §6/changepassword <старый_пароль> <новый_пароль>'
 LOGIN_USAGE: '§6Авторизация §8| §fИспользуйте - §6/login <пароль>'
@@ -41,6 +43,10 @@ SERVER_HELP: '§6TynixCloud §8| §fИспользуйте - §6/server <сер�
 SEND_HELP: '§6TynixCloud §8| §fИспользуйте - §6/send <ник> <сервер>'
 CRASH_HELP: '§6TynixCloud §8| §fИспользуйте - §6/crash <ник>'
 FIND_MESSAGE: '§6TynixCloud §8| %player% §fнаходится на сервере %server%'
+MONEY_MESSAGE:
+  - '§6TynixCloud §8| Ваш текущий баланс:'
+  - '%money%'
+  - '%golds%'
 
 INFO:
   - '§6TynixCloud §8| §fИнформация о игроке %player%'
@@ -148,9 +154,6 @@ PARTY_ADD_SUCCESS_MEMBER: '§6Party §8| %player% §faccepted your application a
 PARTY_SUCCESS_MEMBER: '§6Party §8| %player% §foffers to become your PARTY!'
 PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
 PARTY_ALERT: '§6Party §8| %player% §fприсоединился к группе'
-
-RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
-VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
 
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'

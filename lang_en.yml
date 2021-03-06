@@ -13,6 +13,8 @@ USE_ONLY_AUTH: '§6TynixCloud §8| §cError, you are not logged in yet!'
 PLAYER_BYPASS: '§6TynixCloud §8| §cError, the player has iAuthorizationmmunity!'
 ALREADY_CONNECTION: '§6TynixCloud §8| §cError, you are already on this server!'
 SERVER_NOT_FOUND: '§6TynixCloud §8| §cError, this server is not connected to Core!'
+RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
+VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
 
 CHANGE_PASSWORD_USAGE: '§6Authorization §8| §fUse - §6/changepassword <Old Password> <New Password>'
 LOGIN_USAGE: '§6Authorization §8| §fUse - §6/login <Password>'
@@ -41,6 +43,10 @@ SERVER_HELP: '§6TynixCloud §8| §fUse - §6/server <server>'
 SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <player> <server>'
 CRASH_HELP: '§6TynixCloud §8| §fUse - §6/crash <player>'
 FIND_MESSAGE: '§6TynixCloud §8| %player% §flocated on the server %server%'
+MONEY_MESSAGE:
+  - '§6TynixCloud §8| Ваш текущий баланс:'
+  - '%money%'
+  - '%golds%'
 
 INFO:
   - '§6TynixCloud §8| §fInformation about the player %player%'
@@ -72,7 +78,6 @@ CHAT_HOVER:
   - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
   - ''
   - '&e▸ Нажмите, чтобы отправить личное сообщение'
-
 
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
@@ -149,9 +154,6 @@ PARTY_ADD_SUCCESS_MEMBER: '§6Party §8| %player% §faccepted your application a
 PARTY_SUCCESS_MEMBER: '§6Party §8| %player% §foffers to become your PARTY'
 PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your application %player% §f, wait for his response'
 PARTY_ALERT: '§6Party §8| %player% §fjoined to the party'
-
-RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
-VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
 
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
