@@ -64,6 +64,14 @@ LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на: §cРу
 LANG_JOIN:
   - '§6TynixCloud §8| §fУ вас установлен язык §cРусский'
   - '§6* §fСменить язык - §e/lang'
+CHAT_HOVER:
+  - '&7Статистика %prefix% %player%&7:'
+  - ' &6* &fЯзык: %language%'
+  - ' &6* &fБаланс: &a⛂%balance%'
+  - ' &6* &fУровень: &d%level%'
+  - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
+  - ''
+  - '&e▸ Нажмите, чтобы отправить личное сообщение'
 
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'
@@ -143,15 +151,6 @@ PARTY_ALERT: '§6Party §8| %player% §fприсоединился к групп
 
 RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
 VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
-
-CHAT_HOVER:
-  - '&7Статистика %prefix% %player%&7:'
-  - ' &6* &fЯзык: %language%'
-  - ' &6* &fБаланс: &a⛂%balance%'
-  - ' &6* &fУровень: &d%level%'
-  - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
-  - ''
-  - '&e▸ Нажмите, чтобы отправить личное сообщение'
 
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
