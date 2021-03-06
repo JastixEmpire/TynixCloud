@@ -48,6 +48,7 @@ MONEY_MESSAGE:
   - '%money%'
   - '%golds%'
 RANDOM_MESSAGE: '§6TynixCloud §8| §fРандомный человек - %player%'
+AUTO_FLY_MESSAGE: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
 
 INFO:
   - '§6TynixCloud §8| §fИнформация о игроке %player%'
