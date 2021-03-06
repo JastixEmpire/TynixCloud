@@ -44,9 +44,10 @@ SEND_HELP: '§6TynixCloud §8| §fUse - §6/send <player> <server>'
 CRASH_HELP: '§6TynixCloud §8| §fUse - §6/crash <player>'
 FIND_MESSAGE: '§6TynixCloud §8| %player% §flocated on the server %server%'
 MONEY_MESSAGE:
-  - '§6TynixCloud §8| Ваш текущий баланс:'
+  - '§6TynixCloud §8| §fВаш текущий баланс:'
   - '%money%'
   - '%golds%'
+RANDOM_MESSAGE: '§6TynixCloud §8| §fРандомный человек - %player%'
 
 INFO:
   - '§6TynixCloud §8| §fInformation about the player %player%'
