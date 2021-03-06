@@ -142,7 +142,6 @@ PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your app
 PARTY_ALERT: '§6Party §8| %player% §fjoined to the party'
 
 RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
-
 VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
 
 CHAT_HOVER:
@@ -153,7 +152,6 @@ CHAT_HOVER:
   - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
   - ''
   - '&e▸ Нажмите, чтобы отправить личное сообщение'
-
 
 message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
