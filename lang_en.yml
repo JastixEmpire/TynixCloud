@@ -145,7 +145,7 @@ RULES: '§6TynixCloud §8| §fFull list of server rules: §dhttps://vk.com/topic
 VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
 
 CHAT_HOVER:
-  - '&7Статистика %prefix%%player%&7:'
+  - '&7Статистика %prefix% %player%&7:'
   - ' &6* &fЯзык: %language%'
   - ' &6* &fБаланс: &a⛂%balance%'
   - ' &6* &fУровень: &d%level%'
