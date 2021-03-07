@@ -50,9 +50,9 @@ MONEY_MESSAGE:
 RANDOM_MESSAGE: '§6TynixCloud §8| §fRandom player - %player%'
 AUTO_FLY_MESSAGE: '§6TynixCloud §8| §fAutomatic Fly is turned on for you!'
 EXT_MESSAGE: '§6TynixCloud §8| §fВы §asuccessfully §fextinguished!'
-FEED_MESSAGE: '§6TynixCloud §8| §fВы §aуспешно §fнакормили себя!'
+FEED_MESSAGE: '§6TynixCloud §8| §fYou §successfully §ffeed yourself!'
 FLY_MESSAGE: '§6TynixCloud §8| §fFlight mode: %fly%'
-HEAL_MESSAGE: '§6TynixCloud §8| §fВаше здоровье §aуспешно §fвосстановлено!'
+HEAL_MESSAGE: '§6TynixCloud §8| §fYour health §asuccess §frecovered!'
 HELP_SURVIVAL_BASE:
   - 'Помощь по выживанию от §6TynixCloud§f:'
   - ' [Основные команды]:'
@@ -104,13 +104,13 @@ LANG_JOIN:
   - '§6TynixCloud §8| §fYou have the language §cEnglish'
   - '§6* §fChange language - §e/lang'
 CHAT_HOVER:
-  - '&7Статистика %prefix% %player%&7:'
-  - ' &6* &fЯзык: %language%'
-  - ' &6* &fБаланс: &a⛂%balance%'
-  - ' &6* &fУровень: &d%level%'
+  - '&7Statistics of %prefix% %player%&7:'
+  - ' &6* &fLanguage: %language%'
+  - ' &6* &fBalance: &a⛂%balance%'
+  - ' &6* &fLevel: &d%level%'
   - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
   - ''
-  - '&e▸ Нажмите, чтобы отправить личное сообщение'
+  - '&e▸ Click to send post message'
 
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
