@@ -67,7 +67,7 @@ HUB_BOARD_TITLE:
   - '&8» &b&lTynixCloud'
 HUB_BOARD_LINES:
   - '&1'
-  - '&fInformation:'
+  - '&7Information:'
   - ' &fStatus: %status%'
   - ' &fBalance: &a%balance%'
   - ' &fGolds: &a%golds%'
