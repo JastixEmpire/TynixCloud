@@ -61,6 +61,26 @@ HELP_SURVIVAL_BASE:
   - '  - Удалить точку дома - §e/removehome'
   - ''
 
+HUB_BOARD_TITLE:
+  - '&8» &6&lTynixCloud'
+  - '&8» &e&lTynixCloud'
+  - '&8» &b&lTynixCloud'
+HUB_BOARD_LINES:
+  - ''
+  - '&fИнформация:'
+  - ' &fСтатус: %status%'
+  - ' &fМонет: &a%balance%'
+  - ' &fУровень: &d%level%'
+  - ' &fEXP: &a%level_exp%&8/&c%level_max_exp%'
+  - ''
+  - '&fПрогресс уровня: &a%level_exp_percent%'
+  - '&a↪ %level_bar%'
+  - ''
+  - ' &fОнлайн: &a%online%'
+  - ' &fСервер: &7%server_name%'
+  - ''
+  - '&6&lwww.TynixCloud.ru'
+
 INFO:
   - '§6TynixCloud §8| §fИнформация о игроке %player%'
   - '§8▪ §fУникальный ID - §c%id%'
