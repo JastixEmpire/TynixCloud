@@ -88,6 +88,7 @@ SURVIVAL_BOARD_TITLE:
   - '&8» &b&lTynixCloud'
 SURVIVAL_BOARD_LINES:
   - '&1'
+  - '&fИнформация:'
   - ' &fБаланс: &a%balance%'
   - ' &fЗолото: &a%golds%'
   - ' &fУровень: &d%level%'
@@ -95,7 +96,7 @@ SURVIVAL_BOARD_LINES:
   - '&fСтатистика:'
   - ' &fУбийств: &e%kills%'
   - ' &fСмертей: &c%deaths%'
-  - '&6'
+  - '&9'
   - ' &fОнлайн: &a%online%'
   - ' &fСервер: &7%server_name%'
   - '&a'
