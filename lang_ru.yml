@@ -114,6 +114,42 @@ SURVIVAL_BOARD_LINES:
   - '&a'
   - '&6&lwww.TynixCloud.ru'
 
+INFO:
+  - '§6TynixCloud §8| §fИнформация о игроке %player%'
+  - '§8▪ §fУникальный ID - §c%id%'
+  - '§8▪ §fПривилегия - %group%'
+  - '§8▪ §fБаланс - §a%money%'
+  - '§8▪ §fЗолота - §a%golds%'
+  - '§8▪ §fУровень - §d%level%'
+  - '§8▪ §fЯзык - §c%language%'
+  - '§8▪ §fEXP - §e%exp%§8/§c%max_exp%'
+INFO_ONLINE:
+  - ''
+  - '§8▪ §fНа данный момент - §aOnline'
+  - '§8▪ §fТекущий сервер - §d%server%'
+  - '§8▪ §fВерсия - §d%version%'
+INFO_OFFLINE:
+  - ''
+  - '§8▪ §fНа данный момент - §cOffline'
+  - '§8▪ §fПоследний сервер - §d%server%'
+  - '§8▪ §fБыл в сети §c%date% назад'
+
+LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
+LANG_RELOAD: 'Епона мама обосрака => /core stop'
+LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на: §cРусский!'
+LANG_JOIN:
+  - '§6TynixCloud §8| §fУ вас установлен язык §cРусский'
+  - '§6* §fСменить язык - §e/lang'
+CHAT_HOVER:
+  - '&7Статистика %prefix% %player%&7:'
+  - ' &6* &fЯзык: %language%'
+  - ' &6* &fБаланс: &a⛂%balance%'
+  - ' &6* &fЗолота: &a⛂%golds%'
+  - ' &6* &fУровень: &d%level%'
+  - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
+  - ''
+  - '&e▸ Нажмите, чтобы отправить личное сообщение'
+
 PROFILE_MENU_TITLE: '§fПрофиль'
 PROFILE_MENU_BASE_TITLE: '§6Общая информация'
 PROFILE_MENU_BASE_LINES:
@@ -168,42 +204,6 @@ PROFILE_MENU_JOINER_LINES:
   - '§7Доступно от §e§lWOOD'
   - ''
   - '§e▸ Нажмите чтобы настроить сообщение'
-
-INFO:
-  - '§6TynixCloud §8| §fИнформация о игроке %player%'
-  - '§8▪ §fУникальный ID - §c%id%'
-  - '§8▪ §fПривилегия - %group%'
-  - '§8▪ §fБаланс - §a%money%'
-  - '§8▪ §fЗолота - §a%golds%'
-  - '§8▪ §fУровень - §d%level%'
-  - '§8▪ §fЯзык - §c%language%'
-  - '§8▪ §fEXP - §e%exp%§8/§c%max_exp%'
-INFO_ONLINE:
-  - ''
-  - '§8▪ §fНа данный момент - §aOnline'
-  - '§8▪ §fТекущий сервер - §d%server%'
-  - '§8▪ §fВерсия - §d%version%'
-INFO_OFFLINE:
-  - ''
-  - '§8▪ §fНа данный момент - §cOffline'
-  - '§8▪ §fПоследний сервер - §d%server%'
-  - '§8▪ §fБыл в сети §c%date% назад'
-
-LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
-LANG_RELOAD: 'Епона мама обосрака => /core stop'
-LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на: §cРусский!'
-LANG_JOIN:
-  - '§6TynixCloud §8| §fУ вас установлен язык §cРусский'
-  - '§6* §fСменить язык - §e/lang'
-CHAT_HOVER:
-  - '&7Статистика %prefix% %player%&7:'
-  - ' &6* &fЯзык: %language%'
-  - ' &6* &fБаланс: &a⛂%balance%'
-  - ' &6* &fЗолота: &a⛂%golds%'
-  - ' &6* &fУровень: &d%level%'
-  - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
-  - ''
-  - '&e▸ Нажмите, чтобы отправить личное сообщение'
 
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'

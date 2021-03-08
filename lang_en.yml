@@ -114,6 +114,42 @@ SURVIVAL_BOARD_LINES:
   - '&a'
   - '&6&lwww.TynixCloud.ru'
 
+INFO:
+  - '§6TynixCloud §8| §fPlayer information %player%'
+  - '§8▪ §fUnique ID - §c%id%'
+  - '§8▪ §fGroup - %group%'
+  - '§8▪ §fBalance - §a%money%'
+  - '§8▪ §fGolds - §a%golds%'
+  - '§8▪ §fLevel - §d%level%'
+  - '§8▪ §fLanguage - §c%language%'
+  - '§8▪ §fEXP - §e%exp%§8/§c%max_exp%'
+INFO_ONLINE:
+  - ''
+  - '§8▪ §fAt the moment - §aOnline'
+  - '§8▪ §fCurrent server - §d%server%'
+  - '§8▪ §fVersion - §d%version%'
+INFO_OFFLINE:
+  - ''
+  - '§8▪ §fAt the moment - §cOffline'
+  - '§8▪ §fLast server - §d%server%'
+  - '§8▪ §fI was online §c%date% ago'
+
+LANGUAGE_SELECT_MENU_TITLE: 'Select language'
+LANG_RELOAD: 'EPONA MAMA OBOSRAKA => /core stop'
+LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §cEnglish!'
+LANG_JOIN:
+  - '§6TynixCloud §8| §fYou have the language §cEnglish'
+  - '§6* §fChange language - §e/lang'
+CHAT_HOVER:
+  - '&7Statistics of %prefix% %player%&7:'
+  - ' &6* &fLanguage: %language%'
+  - ' &6* &fBalance: &a⛂%balance%'
+  - ' &6* &fGolds: &a⛂%golds%'
+  - ' &6* &fLevel: &d%level%'
+  - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
+  - ''
+  - '&e▸ Click to send post message'
+
 PROFILE_MENU_TITLE: '§fПрофиль'
 PROFILE_MENU_BASE_TITLE: '§bОбщая информация'
 PROFILE_MENU_BASE_LINES:
@@ -168,42 +204,6 @@ PROFILE_MENU_JOINER_LINES:
   - '§7Доступно от §e§lWOOD'
   - ''
   - '§e▸ Нажмите чтобы настроить сообщение'
-
-INFO:
-  - '§6TynixCloud §8| §fPlayer information %player%'
-  - '§8▪ §fUnique ID - §c%id%'
-  - '§8▪ §fGroup - %group%'
-  - '§8▪ §fBalance - §a%money%'
-  - '§8▪ §fGolds - §a%golds%'
-  - '§8▪ §fLevel - §d%level%'
-  - '§8▪ §fLanguage - §c%language%'
-  - '§8▪ §fEXP - §e%exp%§8/§c%max_exp%'
-INFO_ONLINE:
-  - ''
-  - '§8▪ §fAt the moment - §aOnline'
-  - '§8▪ §fCurrent server - §d%server%'
-  - '§8▪ §fVersion - §d%version%'
-INFO_OFFLINE:
-  - ''
-  - '§8▪ §fAt the moment - §cOffline'
-  - '§8▪ §fLast server - §d%server%'
-  - '§8▪ §fI was online §c%date% ago'
-
-LANGUAGE_SELECT_MENU_TITLE: 'Select language'
-LANG_RELOAD: 'EPONA MAMA OBOSRAKA => /core stop'
-LANG_SELECT: '§6TynixCloud §8| §fYour language has been changed to: §cEnglish!'
-LANG_JOIN:
-  - '§6TynixCloud §8| §fYou have the language §cEnglish'
-  - '§6* §fChange language - §e/lang'
-CHAT_HOVER:
-  - '&7Statistics of %prefix% %player%&7:'
-  - ' &6* &fLanguage: %language%'
-  - ' &6* &fBalance: &a⛂%balance%'
-  - ' &6* &fGolds: &a⛂%golds%'
-  - ' &6* &fLevel: &d%level%'
-  - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
-  - ''
-  - '&e▸ Click to send post message'
 
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
