@@ -68,7 +68,6 @@ PLAY_STATS_MESSAGE:
   - '  - §fMob kills: §a%mob_kills%'
   - '  - §fJump: §e%jump%'
   - '  - §fChest opened: §6%chest_opened%'
-  - '  - §fShulker opened: §6%shulker_box_opened%'
   - ' [Classifications]:'
 
 HUB_BOARD_TITLE:
