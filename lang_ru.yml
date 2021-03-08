@@ -60,6 +60,18 @@ HELP_SURVIVAL_BASE:
   - '  - Установить точку дома - §e/sethome'
   - '  - Удалить точку дома - §e/removehome'
   - ''
+PLAY_STATS_MESSAGE:
+  - '§fСтатистика игрока: %player%'
+  - ' §f[Статистика режима]:'
+  - '  - §fСмертей: §c%deaths%'
+  - '  - §fИгроков убито: §a%player_kills%'
+  - '  - §fМобов убито: §a%mob_kills%'
+  - '  - §fСломано предметов: §e%break_item%'
+  - '  - §fПрыжков: §e%jump%'
+  - '  - §fСундуков открыто: §6%chest_opened%'
+  - '  - §fШалкеров открыто: §6%shulker_box_opened%'
+  - '  - §fПредметов создано: §6%craft_item%'
+  - ' [Классификации]:'
 
 HUB_BOARD_TITLE:
   - '&8» &6&lTynixCloud'
