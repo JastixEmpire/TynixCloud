@@ -66,11 +66,9 @@ PLAY_STATS_MESSAGE:
   - '  - §fDeaths: §c%deaths%'
   - '  - §fPlayer kills: §a%player_kills%'
   - '  - §fMob kills: §a%mob_kills%'
-  - '  - §fBreak item: §e%break_item%'
   - '  - §fJump: §e%jump%'
   - '  - §fChest opened: §6%chest_opened%'
   - '  - §fShulker opened: §6%shulker_box_opened%'
-  - '  - §fCraft item: §6%craft_item%'
   - ' [Classifications]:'
 
 HUB_BOARD_TITLE:
