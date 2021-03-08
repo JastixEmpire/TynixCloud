@@ -137,7 +137,7 @@ PROFILE_MENU_LANGUAGE_LINES:
   - '§6* §fРусский §7[100%]'
   - '§6* §fEnglish §7[67%]'
   - ''
-  - '§e▶ Нажмите, чтобы выбрать язык.'
+  - '§e▶ Нажмите чтобы выбрать язык.'
 PROFILE_MENU_SOCIAL_TITLE: '§6Социальные сети'
 PROFILE_MENU_SOCIAL_LINES:
   - ''
@@ -145,7 +145,7 @@ PROFILE_MENU_SOCIAL_LINES:
   - ' §fСсылки на социальные сети'
   - ' §fнашего сервера.'
   - ''
-  - '§e▶ Нажмите, чтобы открыть.'
+  - '§e▶ Нажмите чтобы открыть.'
 PROFILE_MENU_FASTMESSAGE_TITLE: '§6Быстрые сообщения'
 PROFILE_MENU_FASTMESSAGE_LINES:
   - '§8Эмодзи и всё такое'
@@ -158,7 +158,7 @@ PROFILE_MENU_FASTMESSAGE_LINES:
   - '§7Для быстрого открытия меню используйте'
   - '§7команду §a/fm §7или §a/fastmessage'
   - ''
-  - '§e▶ Нажмите, чтобы открыть.'
+  - '§e▶ Нажмите чтобы открыть.'
 PROFILE_MENU_JOINER_TITLE: '§6Сообщения при входе'
 PROFILE_MENU_JOINER_LINES:
   - '§7Станьте реально крутым донатером'
@@ -167,7 +167,7 @@ PROFILE_MENU_JOINER_LINES:
   - ''
   - '§7Доступно от §e§lWOOD'
   - ''
-  - '§e▸ Нажмите, чтобы настроить сообщение'
+  - '§e▸ Нажмите чтобы настроить сообщение'
 
 INFO:
   - '§6TynixCloud §8| §fPlayer information %player%'
