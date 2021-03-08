@@ -115,7 +115,7 @@ SURVIVAL_BOARD_LINES:
   - '&6&lwww.TynixCloud.ru'
 
 PROFILE_MENU_TITLE: '§fПрофиль'
-PROFILE_MENU_BASE_TITLE: '§bОбщая информация'
+PROFILE_MENU_BASE_TITLE: '§6Общая информация'
 PROFILE_MENU_BASE_LINES:
   - ''
   - '§fУникальный ID: §e%id%'
@@ -129,6 +129,15 @@ PROFILE_MENU_BASE_LINES:
   - '§fЯзык: §c%language%'
   - '§fВерсия: §c%version%'
   - ''
+PROFILE_MENU_LANGUAGE_TITLE: '§6Выбор языка'
+PROFILE_MENU_LANGUAGE_LINES:
+  - ''
+  - '&7Доступные языки:'
+  - ''
+  - '&6* &fРусский &7[100%]'
+  - '&6* &fEnglish &7[67\%]'
+  - ''
+  - '&e▶ Нажмите, чтобы выбрать язык.'
 
 INFO:
   - '§6TynixCloud §8| §fИнформация о игроке %player%'
