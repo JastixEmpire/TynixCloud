@@ -102,6 +102,19 @@ SURVIVAL_BOARD_LINES:
   - '&a'
   - '&6&lwww.TynixCloud.ru'
 
+PROFILE_MENU_TITLE: '§fПрофиль'
+PROFILE_MENU_BASE_TITLE: '§fПрофиль игрока '
+PROFILE_MENU_BASE_LINES:
+  - ''
+  - '§7Общая статистика:'
+  - '§fСтатус: %status%'
+  - '§fБаланс: §a%balance%'
+  - '§fЗолото: §a%golds%'
+  - '§fЯзык: §c%language%'
+  - '§fУровень: §d%level%'
+  - '§fEXP: §e%exp%§8/§c%max_exp%'
+  - ''
+
 INFO:
   - '§6TynixCloud §8| §fИнформация о игроке %player%'
   - '§8▪ §fУникальный ID - §c%id%'
