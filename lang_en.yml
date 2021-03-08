@@ -103,7 +103,7 @@ SURVIVAL_BOARD_LINES:
   - '&6&lwww.TynixCloud.ru'
 
 PROFILE_MENU_TITLE: '§fПрофиль'
-PROFILE_MENU_BASE_TITLE: '§fПрофиль игрока '
+PROFILE_MENU_BASE_TITLE: '§fПрофиль игрока'
 PROFILE_MENU_BASE_LINES:
   - ''
   - '§7Общая статистика:'
