@@ -107,6 +107,7 @@ PROFILE_MENU_BASE_TITLE: '§bОбщая информация'
 PROFILE_MENU_BASE_LINES:
   - ''
   - '§fСтатус: %status%'
+  - '§fID: §e%id%'
   - ''
   - '§fБаланс: §a%balance%'
   - '§fЗолота: §a%golds%'
