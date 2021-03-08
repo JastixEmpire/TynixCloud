@@ -146,8 +146,8 @@ PROFILE_MENU_SOCIAL_LINES:
   - ' §fнашего сервера.'
   - ''
   - '§e▶ Нажмите, чтобы открыть.'
-PROFILE_MENU_FAST_MESSAGE_TITLE: '§6Быстрые сообщения'
-PROFILE_MENU_FAST_MESSAGE_LINES:
+PROFILE_MENU_FASTMESSAGE_TITLE: '§6Быстрые сообщения'
+PROFILE_MENU_FASTMESSAGE_LINES:
   - '§8Эмодзи и всё такое'
   - ''
   - '§7Покажи всем какой ты сегодня'
