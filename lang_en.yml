@@ -141,8 +141,8 @@ LANG_JOIN:
 CHAT_HOVER:
   - '&7Statistics of %prefix% %player%&7:'
   - ' &6* &fLanguage: %language%'
-  - ' &6* &fBalance: &a⛂%balance%'
-  - ' &6* &fGolds: &a⛂%golds%'
+  - ' &6* &fBalance: &a%balance% ⛂'
+  - ' &6* &fGolds: &a%golds% ⛂'
   - ' &6* &fLevel: &d%level%'
   - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
   - ''
