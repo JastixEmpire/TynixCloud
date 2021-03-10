@@ -106,6 +106,8 @@ SURVIVAL_BOARD_LINES:
   - ' &fKills: &e%kills%'
   - ' &fDeaths: &c%deaths%'
   - '&9'
+  - '&fGuild: &cN/A'
+  - '&e'
   - ' &fOnline: &a%online%'
   - ' &fServer: &7%server_name%'
   - '&a'

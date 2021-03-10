@@ -106,6 +106,8 @@ SURVIVAL_BOARD_LINES:
   - ' &fУбийств: &e%kills%'
   - ' &fСмертей: &c%deaths%'
   - '&9'
+  - '&fГильдия: &cN/A'
+  - '&e'
   - ' &fОнлайн: &a%online%'
   - ' &fСервер: &7%server_name%'
   - '&a'
