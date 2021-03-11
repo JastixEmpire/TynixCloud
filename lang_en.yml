@@ -219,7 +219,7 @@ PROFILE_MENU_LEVEL_LINES:
   - ' §fи получения особых наград.'
   - ''
   - ' §fУровень: §d%level%'
-  - ' §fEXP: &e%level_exp%§8/§c%level_max_exp%'
+  - ' §fEXP: §e%level_exp%§8/§c%level_max_exp%'
 PROFILE_MENU_REWARD_TITLE: '§6Награды'
 PROFILE_MENU_REWARD_LINES:
   - ''
