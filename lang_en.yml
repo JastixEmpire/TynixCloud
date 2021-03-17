@@ -273,7 +273,7 @@ SOCIAL_MENU_SITE_LINES:
 SOCIAL_MENU_VK_TITLE: '§bVKontakte'
 SOCIAL_MENU_VK_LINES:
   - ''
-  - '§fLink to our§bvkontakte§f:'
+  - '§fLink to our §bvkontakte§f:'
   - ' §8◉ §bvk.com/TynixCloud'
   - ''
   - '§e▶ Click to get link.'
