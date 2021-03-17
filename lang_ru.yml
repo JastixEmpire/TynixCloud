@@ -30,10 +30,7 @@ ACCOUNT_NOT_LINKED_VK:
   - 'Если вас взломают, то вы легко сможете восстановить свой аккаунт!'
   - 'Сделайте это прямо сейчас, написав в сообщения группы: §evk.com/TynixCloud'
   - 'Команда - §6!привязать [ник] [пароль]'
-PLAYER_SUCCESS_AUTH:
-  - ''
-  - '§6Авторизация §8| §fАвторизация §aуспешно §fпройдена'
-  - ''
+PLAYER_SUCCESS_AUTH: '§6Авторизация §8| §fАвторизация §aуспешно §fпройдена'
 
 ALERT_HELP: '§6TynixCloud §8| §fИспользуйте - §6/alert <сообщение>'
 FIND_HELP: '§6TynixCloud §8| §fИспользуйте - §6/find <ник>'
@@ -98,6 +95,27 @@ HUB_BOARD_LINES:
   - '&a'
   - '&6&lwww.TynixCloud.ru'
 
+MMORPG_BOARD_TITLE:
+  - '&8» &6&lTynixCloud'
+  - '&8» &e&lTynixCloud'
+  - '&8» &b&lTynixCloud'
+MMORPG_BOARD_LINES:
+  - '&1'
+  - '&7Информация:'
+  - ' &fБаланс: &a%balance%'
+  - ' &fЗолота: &a%golds%'
+  - ' &fУровень: &d%level%'
+  - ' &fГильдия: &cN/A'
+  - '&6'
+  - '&7Статистика:'
+  - ' &fУбийств: &e%kills%'
+  - ' &fСмертей: &c%deaths%'
+  - '&9'
+  - ' &fОнлайн: &a%online%'
+  - ' &fСервер: &7%server_name%'
+  - '&a'
+  - '&6&lwww.TynixCloud.ru'
+
 SURVIVAL_BOARD_TITLE:
   - '&8» &6&lTynixCloud'
   - '&8» &e&lTynixCloud'
@@ -155,7 +173,7 @@ CHAT_HOVER:
   - ''
   - '&e▸ Нажмите, чтобы отправить личное сообщение'
 
-PROFILE_MENU_TITLE: '§fПрофиль'
+PROFILE_MENU_TITLE: '§8Профиль'
 PROFILE_MENU_BASE_TITLE: '§6Общая информация'
 PROFILE_MENU_BASE_LINES:
   - ''
@@ -236,6 +254,47 @@ PROFILE_MENU_GADGET_LINES:
   - ' §fТогда воспользуйся игровой косметикой!'
   - ''
   - '§e▶ Нажмите, чтобы открыть меню гаджетов.'
+
+SOCIAL_MENU_TITLE: '§8Профиль ▸Социальные сети'
+SOCIAL_MENU_DISCORD_TITLE: '§9Дискорд'
+SOCIAL_MENU_DISCORD_LINES:
+  - ''
+  - '§fСсылка на наш §9дискорд§f:'
+  - ' §8◉ §9discord.io/TynixCloud'
+  - ''
+  - '§e▶ Нажмите, чтобы получить ссылку.'
+SOCIAL_MENU_SITE_TITLE: '§6Сайт'
+SOCIAL_MENU_SITE_LINES:
+  - ''
+  - '§fСсылка на наш §6сайт§f:'
+  - ' §8◉ §6www.TynixCloud.ru'
+  - ''
+  - '§e▶ Нажмите, чтобы получить ссылку.'
+SOCIAL_MENU_VK_TITLE: '§bВКонтакте'
+SOCIAL_MENU_VK_LINES:
+  - ''
+  - '§fСсылка на наш §bВКонтакте§f:'
+  - ' §8◉ §bvk.com/TynixCloud'
+  - ''
+  - '§e▶ Нажмите, чтобы получить ссылку.'
+
+BACK_TITLE: '§cНазад'
+BACK_LINES:
+  - ''
+  - '§e▶ Нажмите, чтобы вернуться в предыдущее меню.'
+
+DISCORD_MESSAGE:
+  - ''
+  - '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
+  - ''
+SITE_MESSAGE:
+  - ''
+  - '§8◦ §fСайт §8▸ §6http://TynixCloud.ru'
+  - ''
+VK_MESSAGE:
+  - ''
+  - '§8◦ §fВКонтакте §8▸ §bhttps://vk.com/TynixCloud'
+  - ''
 
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'

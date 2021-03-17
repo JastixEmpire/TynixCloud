@@ -30,10 +30,7 @@ ACCOUNT_NOT_LINKED_VK:
   - 'If you get hacked, you can easily restore your account!'
   - 'Do it now by writing in group messages: §evk.com/TynixCloud'
   - 'Command - §6!привязать [player] [password]'
-PLAYER_SUCCESS_AUTH:
-  - ''
-  - '§6Authorization §8| §fLogin §asuccessful §fpassed'
-  - ''
+PLAYER_SUCCESS_AUTH: '§6Authorization §8| §fLogin §asuccessful §fpassed'
 
 ALERT_HELP: '§6TynixCloud §8| §fUse - §6/alert <message>'
 FIND_HELP: '§6TynixCloud §8| §fUse - §6/find <player>'
@@ -93,6 +90,27 @@ HUB_BOARD_LINES:
   - '&fLevel progress: &a%level_exp_percent%'
   - ' &a↪ %level_bar%'
   - '&6'
+  - ' &fOnline: &a%online%'
+  - ' &fServer: &7%server_name%'
+  - '&a'
+  - '&6&lwww.TynixCloud.ru'
+
+MMORPG_BOARD_TITLE:
+  - '&8» &6&lTynixCloud'
+  - '&8» &e&lTynixCloud'
+  - '&8» &b&lTynixCloud'
+MMORPG_BOARD_LINES:
+  - '&1'
+  - '&7Information:'
+  - ' &fBalance: &a%balance%'
+  - ' &fGolds: &a%golds%'
+  - ' &fLevel: &d%level%'
+  - ' &fGuild: &cN/A'
+  - '&6'
+  - '&7Statistic:'
+  - ' &fKills: &e%kills%'
+  - ' &fDeaths: &c%deaths%'
+  - '&9'
   - ' &fOnline: &a%online%'
   - ' &fServer: &7%server_name%'
   - '&a'
@@ -236,6 +254,47 @@ PROFILE_MENU_GADGET_LINES:
   - ' §fТогда воспользуйся игровой косметикой!'
   - ''
   - '§e▶ Нажмите, чтобы открыть меню гаджетов.'
+
+SOCIAL_MENU_TITLE: '§8Profile ▸Socials'
+SOCIAL_MENU_DISCORD_TITLE: '§9Discord'
+SOCIAL_MENU_DISCORD_LINES:
+  - ''
+  - '§fLink to our §9discord§f:'
+  - ' §8◉ §9discord.io/TynixCloud'
+  - ''
+  - '§e▶ Click to get link.'
+SOCIAL_MENU_SITE_TITLE: '§6Site'
+SOCIAL_MENU_SITE_LINES:
+  - ''
+  - '§fLink to our §6site§f:'
+  - ' §8◉ §6www.TynixCloud.ru'
+  - ''
+  - '§e▶ Click to get link.'
+SOCIAL_MENU_VK_TITLE: '§bVKontakte'
+SOCIAL_MENU_VK_LINES:
+  - ''
+  - '§fLink to our§bvkontakte§f:'
+  - ' §8◉ §bvk.com/TynixCloud'
+  - ''
+  - '§e▶ Click to get link.'
+
+BACK_TITLE: '§cBack'
+BACK_LINES:
+  - ''
+  - '§e▶ Press to return to the previous menu.'
+
+DISCORD_MESSAGE:
+  - ''
+  - '§8◦ §fDiscord §8▸ §9https://discord.io/TynixCloud'
+  - ''
+SITE_MESSAGE:
+  - ''
+  - '§8◦ §fSite §8▸ §6http://TynixCloud.ru'
+  - ''
+VK_MESSAGE:
+  - ''
+  - '§8◦ §fVKontakte §8▸ §bhttps://vk.com/TynixCloud'
+  - ''
 
 FRIEND_HELP:
   - '§6Friends §8| §fHelp commands:'
