@@ -284,17 +284,17 @@ BACK_LINES:
   - '§e▶ Нажмите, чтобы вернуться в предыдущее меню.'
 
 DISCORD_MESSAGE:
-  - ''
+  - '§a'
   - '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
-  - ''
+  - '§b'
 SITE_MESSAGE:
-  - ''
+  - '§a'
   - '§8◦ §fСайт §8▸ §6http://TynixCloud.ru'
-  - ''
+  - '§b'
 VK_MESSAGE:
-  - ''
+  - '§a'
   - '§8◦ §fВКонтакте §8▸ §bhttps://vk.com/TynixCloud'
-  - ''
+  - '§b'
 
 FRIEND_HELP:
   - '§6Друзья §8| §fПомощь по командам:'
