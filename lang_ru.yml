@@ -449,7 +449,7 @@ SKYWARS_BOARDS_WAITING_LINES:
   - 'До начала игры:'
   - ' &e%game_status'
   - '&3'
-  - '&ewww.google.com'
+  - '&6www.TynixCloud.ru'
 SKYWARS_BOARDS_GAME_NAME:
   - '&6&lSkyWars'
 SKYWARS_BOARDS_GAME_LINES:
@@ -466,7 +466,7 @@ SKYWARS_BOARDS_GAME_LINES:
   - 'Игроков в &e20 &fблоках от Вас:'
   - ' &a%near_players игроков'
   - '&4'
-  - '&ewww.google.com'
+  - '&6www.TynixCloud.ru'
 SKYWARS_BOARDS_END_NAME:
   - '&6&lSkyWars'
 SKYWARS_BOARDS_END_LINES:
@@ -475,7 +475,7 @@ SKYWARS_BOARDS_END_LINES:
   - 'Победители:'
   - ' %winners'
   - '&2'
-  - '&ewww.google.com'
+  - '&6www.TynixCloud.ru'
 
 #SkyWars kits messages.
 SKYWARS_KITS_DEFAULT_NAME: 'Стандартный'
