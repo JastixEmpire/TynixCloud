@@ -1,3 +1,4 @@
+# Base server commands.
 NO_PERM: '§6TynixCloud §8| §cYou don`t have permission!'
 MINIMAL_GROUP: '§6TynixCloud §8| §cError, you dont have permission buy %group% or higher!'
 USE_LOGIN_SERVER: '§6TynixCloud §8| §cError, this command is not allowed on this server!'
@@ -169,6 +170,9 @@ CHAT_HOVER:
   - ' &6* &fEXP: &e%exp%&8/&c%max_exp%'
   - ''
   - '&e▸ Click to send post message'
+
+#Menu messages.
+MENU_TITLE: '§8Gaming menu'
 
 PROFILE_MENU_TITLE: '§8Profile'
 PROFILE_MENU_BASE_TITLE: '§bBasical information'
