@@ -274,6 +274,7 @@ BACK_TITLE: '§cBack'
 BACK_LINES:
   - ''
   - '§e▶ Press to return to the previous menu.'
+FASTMESSAGE_MENU_TITLE: '§8Profile › §6§lFast Messages'
 
 DISCORD_MESSAGE: '§8◦ §fDiscord §8▸ §9https://discord.io/TynixCloud'
 SITE_MESSAGE: '§8◦ §fSite §8▸ §6http://TynixCloud.ru'

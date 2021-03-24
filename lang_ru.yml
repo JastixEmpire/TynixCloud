@@ -286,6 +286,7 @@ BACK_TITLE: '§cНазад'
 BACK_LINES:
   - ''
   - '§e▶ Нажмите, чтобы вернуться в предыдущее меню.'
+FASTMESSAGE_MENU_TITLE: '§8Профиль › §6§lБыстрые сообщения'
 
 # Links.
 DISCORD_MESSAGE: '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
