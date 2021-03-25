@@ -165,6 +165,12 @@ CHAT_HOVER:
   - ''
   - '§e▸ Click to send post message'
 
+#Menu messages.
+MENU_TITLE: 'Игровое меню'
+
+#Donate menu messages
+DONATE_MENU_TITLE: 'Профиль ▸ Донат'
+
 PROFILE_MENU_TITLE: 'Profile'
 PROFILE_MENU_BASE_TITLE: '§bGeneral information'
 PROFILE_MENU_BASE_LINES:
