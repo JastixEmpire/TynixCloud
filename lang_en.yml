@@ -178,7 +178,7 @@ PROFILE_MENU_BASE_LINES:
   - ''
   - '§7Language: §f%language%'
   - ''
-  - '§7Версия: §f%version%'
+  - '§7Game version: §f%version%'
 PROFILE_MENU_LANGUAGE_TITLE: '§6Switch language'
 PROFILE_MENU_LANGUAGE_LINES:
   - '&7Change default server language'
