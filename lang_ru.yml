@@ -173,7 +173,10 @@ CHAT_HOVER:
   - '§e▸ Нажмите, чтобы отправить личное сообщение'
 
 #Menu messages.
-MENU_TITLE: '§8Игровое меню'
+MENU_TITLE: 'Игровое меню'
+
+#Donate menu messages
+DONATE_MENU_TITLE: 'Профиль ▸ Донат'
 
 # Profile messages.
 PROFILE_MENU_TITLE: 'Профиль'
