@@ -171,6 +171,9 @@ CHAT_HOVER:
   - ''
   - '&e▸ Нажмите, чтобы отправить личное сообщение'
 
+#Menu messages.
+MENU_TITLE: '§8Игровое меню'
+
 # Profile messages.
 PROFILE_MENU_TITLE: 'Профиль'
 PROFILE_MENU_BASE_TITLE: '§6Общая информация'
