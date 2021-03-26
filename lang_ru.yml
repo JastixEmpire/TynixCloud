@@ -161,7 +161,7 @@ INFO_OFFLINE:
 
 # Language chat messages.
 LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
-LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на: §cРусский!'
+LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на §cРусский!'
 LANG_JOIN:
   - '§6TynixCloud §8| §fУ вас установлен язык §cРусский'
 CHAT_HOVER:
