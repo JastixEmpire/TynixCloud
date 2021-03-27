@@ -32,9 +32,9 @@ ACCOUNT_NOT_LINKED_VK:
   - 'Command - §6!привязать [player] [password]'
 PLAYER_SUCCESS_AUTH: '§6Authorization §8| §fLogin §asuccessful §fpassed'
 
-ALERT_HELP: '§6§lTynixCloud §8:: §8| §fUse - §e/alert <message>'
-FIND_HELP: '§6§lTynixCloud §8:: §8| §fUse - §e/find <player>'
-INFO_HELP: '§6§lTynixCloud §8:: §8| §fUse - §e/info <player>'
+ALERT_HELP: '§6§lTynixCloud §8:: §fUse - §e/alert <message>'
+FIND_HELP: '§6§lTynixCloud §8:: §fUse - §e/find <player>'
+INFO_HELP: '§6§lTynixCloud §8:: §fUse - §e/info <player>'
 SERVER_HELP: '§6§lTynixCloud §8:: §fUse - §e/server <server>'
 SEND_HELP: '§6§lTynixCloud §8:: §fUse - §e/send <player> <server>'
 CRASH_HELP: '§6§lTynixCloud §8:: §fUse - §e/crash <player>'
