@@ -1,20 +1,20 @@
 # Base server commands.
-NO_PERM: '§6TynixCloud §8| §cОшибка, у Вас недостаточно прав!'
-MINIMAL_GROUP: '§6TynixCloud §8| §cОшибка, для выполнения данной команды необходим статус %group% §cили выше!'
-USE_LOGIN_SERVER: '§6TynixCloud §8| §cОшибка, данная команда на этом сервере запрещена!'
-NO_PLAYER: '§6TynixCloud §8| §fДанный игрок ранее не играл на нашем сервере'
+NO_PERM: '§6§lTynixCloud §8:: §cОшибка, у Вас недостаточно прав!'
+MINIMAL_GROUP: '§6§lTynixCloud §8:: §cОшибка, для выполнения данной команды необходим статус %group% §cили выше!'
+USE_LOGIN_SERVER: '§6§lTynixCloud §8:: §cОшибка, данная команда на этом сервере запрещена!'
+NO_PLAYER: '§6§lTynixCloud §8:: §fДанный игрок ранее не играл на нашем сервере'
 NO_VK: '§8▪ §fВКонтакте - §cНе привязан'
 PLAYER_OFFLINE: '§6TynixCloud §8| §cОшибка, игрок оффлайн!'
-PLAYER_NOT_AUTH: '§6Авторизация §8| §cОшибка, Вы не вошли в аккаунт'
+PLAYER_NOT_AUTH: '§6§lTynixCloud §8:: §cОшибка, Вы не вошли в аккаунт'
 PLAYER_NOT_REGISTER: '§6Авторизация §8| §cОшибка, Вы не зарегестрированы'
 PLAYER_WRONG_PASSWORD: '§6Авторизация §8| §cОшибка, вы ввели не правильный пароль'
 PLAYER_SUCCESS_CHANGE_PASSWORD: '§6Авторизация §8| §7Ваш пароль был успешно изменён!'
 PLAYER_ALREADY_AUTH: '§6Авторизация §8| §cОшибка, Вы уже авторизированы, приятной игры!'
-USE_ONLY_AUTH: '§6TynixCloud §8| §cОшибка, Вы еще не авторизированы!'
-PLAYER_BYPASS: '§6TynixCloud §8| §cОшибка, игрок имеет имунитет от пиздюлей!'
-ALREADY_CONNECTION: '§6TynixCloud §8| §cОшибка, вы уже находитесь на этом сервере!'
-SERVER_NOT_FOUND: '§6TynixCloud §8| §cОшибка, данный сервер не подключен к Core!'
-RULES: '§6TynixCloud §8| §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
+USE_ONLY_AUTH: '§6§lTynixCloud §8:: §cОшибка, Вы еще не авторизированы!'
+PLAYER_BYPASS: '§6§lTynixCloud §8:: §cОшибка, игрок имеет имунитет от пиздюлей!'
+ALREADY_CONNECTION: '§6§lTynixCloud §8:: §cОшибка, вы уже находитесь на этом сервере!'
+SERVER_NOT_FOUND: '§6§lTynixCloud §8:: §cОшибка, данный сервер не подключен к Core!'
+RULES: '§6§lTynixCloud §8:: §fПолный список правил: §dhttps://vk.com/topic-196564626_46728627'
 VK_URL: '§8▪ §fВКонтакте - §ahttps://vk.com/id%vkId%'
 
 CHANGE_PASSWORD_USAGE: '§6Авторизация §8| §fИспользуйте - §6/changepassword <старый_пароль> <новый_пароль>'
@@ -33,20 +33,20 @@ ACCOUNT_NOT_LINKED_VK:
   - 'Команда - §6!привязать [ник] [пароль]'
 PLAYER_SUCCESS_AUTH: '§6Авторизация §8| §fАвторизация §aуспешно §fпройдена'
 
-ALERT_HELP: '§6TynixCloud §8| §fИспользуйте - §e/alert <сообщение>'
-FIND_HELP: '§6TynixCloud §8| §fИспользуйте - §e/find <ник>'
-INFO_HELP: '§6TynixCloud §8| §fИспользуйте - §e/info <ник>'
-SERVER_HELP: '§6TynixCloud §8| §fИспользуйте - §e/server <сервер>'
-SEND_HELP: '§6TynixCloud §8| §fИспользуйте - §e/send <ник> <сервер>'
-CRASH_HELP: '§6TynixCloud §8| §fИспользуйте - §e/crash <ник>'
-FIND_MESSAGE: '§6TynixCloud §8| %player% §fнаходится на сервере §e%server%'
-MONEY_MESSAGE: '§6TynixCloud §8| §fВаш баланс: §e%money% монет §fи §6%golds% золота'
-RANDOM_MESSAGE: '§6TynixCloud §8| §fРандомный человек - %player%'
-AUTO_FLY_MESSAGE: '§6TynixCloud §8| §fДля Вас включён автоматический Fly!'
-EXT_MESSAGE: '§6TynixCloud §8| §fВы §aуспешно §fпотушили себя!'
-FEED_MESSAGE: '§6TynixCloud §8| §fВы §aуспешно §fнакормили себя!'
-FLY_MESSAGE: '§6TynixCloud §8| §fРазрешение на полёт: %fly%'
-HEAL_MESSAGE: '§6TynixCloud §8| §fВаше здоровье §aуспешно §fвосстановлено!'
+ALERT_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/alert <сообщение>'
+FIND_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/find <ник>'
+INFO_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/info <ник>'
+SERVER_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/server <сервер>'
+SEND_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/send <ник> <сервер>'
+CRASH_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/crash <ник>'
+FIND_MESSAGE: '§6§lTynixCloud §8:: %player% §fнаходится на сервере §e%server%'
+MONEY_MESSAGE: '§6§lTynixCloud §8:: §fВаш баланс: §e%money% монет §fи §6%golds% золота'
+RANDOM_MESSAGE: '§6§lTynixCloud §8:: §fРандомный человек - %player%'
+AUTO_FLY_MESSAGE: '§6§lTynixCloud §8:: §fДля Вас включён автоматический Fly!'
+EXT_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fпотушили себя!'
+FEED_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fнакормили себя!'
+FLY_MESSAGE: '§6§lTynixCloud §8:: §fРазрешение на полёт: %fly%'
+HEAL_MESSAGE: '§6§lTynixCloud §8:: §fВаше здоровье §aуспешно §fвосстановлено!'
 HELP_SURVIVAL_BASE:
   - 'Помощь по выживанию от §6TynixCloud§f:'
   - ' [Основные команды]:'
@@ -64,13 +64,13 @@ PLAY_STATS_MESSAGE:
   - '  - §fСундуков открыто: §6%chest_opened%'
   - ' [Классификации]:'
 TELEPORT_MESSAGE:
-  - '§6TynixCloud §8| §fСписок доступных команд:'
+  - '§6§lTynixCloud §8:: §fСписок доступных команд:'
   - '§6* §fТелепортироваться к игроку - §e/teleport <ник игрока>'
   - '§6* §fТелепортировать одного игрока к другому - §e/teleport <игрок> <игрок>'
   - '§6* §fТелепортация по координатам - §e/teleport <x> <y> <z>'
   - '§6* §fТелепортация игрока по координатам - §e/teleport <ник игрока> <x> <y> <z>'
 
-TELEPORT_SUCCESS_TELEPORT: '§6TynixCloud §8| §fВы были §aуспешно §fтелепортированы к игроку %player%'
+TELEPORT_SUCCESS_TELEPORT: '§6§lTynixCloud §8:: §fВы были §aуспешно §fтелепортированы к игроку %player%'
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
@@ -140,7 +140,7 @@ SURVIVAL_BOARD_LINES:
 
 # Core player info messages.
 INFO:
-  - '§6TynixCloud §8| §fИнформация о игроке %player%'
+  - '§6§lTynixCloud §8:: §fИнформация о игроке %player%'
   - '§8▪ §fУникальный ID - §c%id%'
   - '§8▪ §fПривилегия - %group%'
   - '§8▪ §fБаланс - §a%money%'
@@ -161,9 +161,9 @@ INFO_OFFLINE:
 
 # Language chat messages.
 LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
-LANG_SELECT: '§6TynixCloud §8| §fВаш язык изменен на §cРусский!'
+LANG_SELECT: '§6§lTynixCloud §8:: §fВаш язык изменен на §cРусский!'
 LANG_JOIN:
-  - '§6TynixCloud §8| §fУ вас установлен язык §cРусский'
+  - '§6§lTynixCloud §8:: §fУ вас установлен язык §cРусский'
 CHAT_HOVER:
   - '§7Статистика %prefix% %player%§7:'
   - ' §8| §7Уровень: §d%level%'
@@ -374,9 +374,9 @@ PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your app
 PARTY_ALERT: '§6Party §8| %player% §fприсоединился к группе'
 
 # Core online messages.
-message-tynixcloud-online-global: '§6TynixCloud §8| §fОбщий онлайн сервера - §e%online%'
-message-tynixcloud-online-prefix: '§6TynixCloud §8| §fОбщий серверов по префиксу §e%prefix% - §e%online%'
-message-tynixcloud-online: '§6TynixCloud §8| §fОнлайн сервера §e%prefix% - §e%online%'
+message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онлайн сервера - §e%online%'
+message-tynixcloud-online-prefix: '§6§lTynixCloud §8:: §fОбщий серверов по префиксу §e%prefix% - §e%online%'
+message-tynixcloud-online: '§6§lTynixCloud §8:: §fОнлайн сервера §e%prefix% - §e%online%'
 
 
 # SkyWars messages.
