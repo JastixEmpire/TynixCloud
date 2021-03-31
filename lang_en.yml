@@ -276,6 +276,11 @@ BACK_LINES:
   - '§e▶ Press to return to the previous menu.'
 FASTMESSAGE_MENU_TITLE: '§8Profile ▸ Fast Messages'
 
+# Links.
+DISCORD_MESSAGE: '§8◦ §fDiscord §8▸ §9https://discord.io/TynixCloud'
+SITE_MESSAGE: '§8◦ §fSite §8▸ §6http://TynixCloud.ru'
+VK_MESSAGE: '§8◦ §fVKontakte §8▸ §bhttps://vk.com/TynixCloud'
+
 #Donate messages.
 DONATE_MENU_TITLE: 'Профиль ▸ Донат'
 
@@ -291,89 +296,37 @@ DONATE_BUY_MESSAGE:
   - '§8◦ §fПокупка на сайте  §8▸  §6www.TynixCloud.ru'
   - '§9'
 
-DISCORD_MESSAGE: '§8◦ §fDiscord §8▸ §9https://discord.io/TynixCloud'
-SITE_MESSAGE: '§8◦ §fSite §8▸ §6http://TynixCloud.ru'
-VK_MESSAGE: '§8◦ §fVKontakte §8▸ §bhttps://vk.com/TynixCloud'
-
+// TODO: Перевести эту залупу
+# Core friends messages.
+FRIENDS_ADD_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/f add <ник игрока>'
+FRIENDS_REMOVE_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/f remove <ник друга>'
+FRIENDS_ACCEPT_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/f accept <ник игрока>'
+FRIENDS_DENY_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/f deny <ник игрока>'
 FRIEND_HELP:
-  - '§6Friends §8| §fHelp commands:'
-  - ' §7Send a Friend request - §e/friends add <player>'
-  - ' §7Remove a player from friends - §e/friends remove <player>'
-  - ' §7List of friends - §e/friends list'
-  - ' §7List of Friend requests- §e/friends requests'
-FRIEND_MENU_LIST_TITLE: 'Friend list'
-REQUEST_MENU_LIST_TITLE: 'Requests list'
-FRIEND_MENU_NO_FRIENDS_TITLE: '§cError 404'
-FRIEND_MENU_NO_FRIENDS_LORE:
-  - '§cYou don t have any friends!'
-  - '§cBuy them at your nearest store...'
-FRIEND_MENU_TITLE_LIST: '§aGeneral information'
-FRIEND_MENU_TITLE_LORE:
-  - '§7Total friends: §e%friends%'
-FRIEND_MENU_LIST_ONLINE_INFO:
-  - ''
-  - '§fOnline: §aYes'
-  - ''
-  - '§fVK: §c%vk%'
-  - '§fLanguage: §c%language%'
-  - ''
-  - '§fServer: §c%server%'
-  - ''
-  - '§eClick to teleport a friend'
-  - '§cClick to remove a friend'
-FRIEND_MENU_LIST_OFFLINE_INFO:
-  - ''
-  - '§fOnline: §cNo'
-  - ''
-  - '§fVK: §c%vk%'
-  - '§fLanguage: §c%language%'
-  - ''
-  - '§fLast server - §d%server%'
-  - '§fI was online §c%last_online% ago'
-  - ''
-  - '§cClick to remove a friend'
-FRIEND_ADD_USAGE: '§6§lTynixCloud §8:: §fUse - §6/f add <player>'
-FRIEND_ADD_ERROR_DUPLICATE: '§6§lTynixCloud §8:: §cError, you can t add yourself as a friend!'
-FRIEND_ADD_ERROR_IS_FRIEND: '§6§lTynixCloud §8:: §cError, this player is already your friend!'
-FRIEND_ADD_ERROR_HAS_REQUEST: '§6§lTynixCloud §8:: §cError, you have already submitted a request to add this player as a friend!'
-FRIEND_ADD_SUCCESS_SENDER: '§6Friends §8| §fYou have successfully accepted a friend request from %player%'
-FRIEND_ADD_SUCCESS_FRIEND: '§6Friends §8| %player% §faccepted your application as a friend'
-FRIEND_SUCCESS_SENDER:
-  - '§6Friends §8| %player% §foffers to become your friend'
-  - '§6* §fFor an answer use - §a/f requests'
-FRIEND_SUCCESS_FRIEND: '§6Friends §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
-FRIEND_SUCCESS_REMOVE_FRIEND: '§6Friends §8| §fYou have successfully removed from friends %player%§f!'
-
-PARTY_HELP:
-  - '§6Party §8| §fHelp commands:'
-  - '§6* §fSend a Party request - §e/party invite <player>'
-  - '§6* §fRemove a player from party - §e/party remove <player>'
-  - '§6* §fList of friends - §e/party list'
-  - '§6* §fList of Friend requests- §e/party requests'
-PARTY_MENU_LIST_TITLE: 'Party list'
-PARTY_MENU_LIST_ONLINE_INFO:
-  - ''
-  - '§fOnline: §a%online%'
-  - ''
-  - '§fVK: §c%vk%'
-  - '§fLanguage: §c%language%'
-  - ''
-  - '§fServer: §c%server%'
-  - ''
-  - '§cClick to remove a party'
-PARTY_ADD_USAGE: '§6TynixCloud §8| §fUse - §6/party invite <player>'
-PARTY_ADD_ERROR_DUPLICATE: '§6Party §8| §cError, you can t add yourself as a PARTY!'
-PARTY_ADD_ERROR_IS_PARTY: '§6Party §8| §cError, this player is already your PARTY!'
-PARTY_ADD_ERROR_HAS_REQUEST: '§6Party §8| §cError, you have already submitted a request to add this player as a party'
-PARTY_ADD_SUCCESS_SENDER: '§6Party §8| §fYou have successfully accepted a party request from %player%'
-PARTY_ADD_SUCCESS_MEMBER: '§6Party §8| %player% §faccepted your application as a PARTY'
-PARTY_SUCCESS_MEMBER: '§6Party §8| %player% §foffers to become your PARTY'
-PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your application %player% §f, wait for his response'
-PARTY_ALERT: '§6Party §8| %player% §fjoined to the party'
-
-message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онлайн сервера - §e%online%'
-message-tynixcloud-online-prefix: '§6§lTynixCloud §8:: §fОбщий серверов по префиксу §e%prefix% - §e%online%'
-message-tynixcloud-online: '§6§lTynixCloud §8:: §fОнлайн сервера §e%prefix% - §e%online%'
+  - '§e§lДрузья §8:: §fПомощь по командам:'
+  - ' §7Добавить игрока в друзья - §e/friends add <ник>'
+  - ' §7Удалить игрока из друзей - §e/friends remove <ник>'
+  - ' §7Принять запрос в друзья - §e/friends accept <ник>'
+  - ' §7Отклонить запрос в друзья - §e/friends deny <ник>'
+  - ' §7Посмотреть список своих друзей - §e/friends list'
+  - ' §7Посмотреть список запросов в друзья - §e/friends requests'
+FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lДрузья §8:: §fДанный игрок уже приглашал Вас в друзья'
+FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lДрузья §8:: §cОшибка, Вы уже запрашивали дружбу у данного игрока, ожидайте ответа от него!'
+FRIEND_ADD_ERROR_IS_FRIEND: '§e§lДрузья §8:: §cОшибка, данный игрок уже является Вашим другом!'
+FRIEND_ADD_SUCCESS_SEND: '§e§lДрузья §8:: §fПриглашение на дружбу было отправлено для %player%'
+FRIEND_REMOVE_ERROR_HAS_FRIEND: '§e§lДрузья §8:: §cОшибка, данный игрок не является Вашим другом!'
+FRIEND_SUCCESS_REMOVE_FRIEND: '§e§lДрузья §8:: §fВы успешно удалили из друзей %player%'
+FRIENDS_DONT_HAVE_INVITES: '§e§lДрузья §8:: §fНа данный момент у Вас нет акутальных запросов в друзья!'
+FRIEND_LIST: "§e§lДрузья §8:: §fСписок Ваших друзей: §e(%count%)"
+FRIEND_LIST_NO_FRIENDS:
+  - "§cПростите, но список Ваших друзей пуст :("
+  - "§cПополните его, добавив их командой /friends add <ник игрока>"
+FRIEND_LIST_REQUESTS: "§e§lДрузья §8:: §fСписок актуальных запросов: §e(%count%)"
+FRIENDS_NEW_FRIEND: '§e§lДрузья §8:: §fПоздравляем! Вы стали друзьями с игроком %player%'
+FRIENDS_YOU_REJECTED_REQUEST: '§e§lДрузья §8:: §fВы отклонили запрос в друзья от игрока %player%'
+FRIENDS_REQUEST_REJECTED: '§e§lДрузья §8:: §fИгрок %player% §fотклонил Ваш запрос в друзья'
+FRIENDS_ALREADY_FRIENDS: '§e§lДрузья §8:: §cОшибка, Вы уже являетесь друзьями!'
+FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lДрузья §8:: §cОшибка, данный игрок не отправлял Вам приглашение на дружбу!'
 
 # SkyWars messages.
 SKYWARS_PLAYER_JOIN: '§6SkyWars §8| {player} §fjoined the game §7({online}/{max})'
