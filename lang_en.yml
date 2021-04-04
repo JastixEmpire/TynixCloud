@@ -70,6 +70,7 @@ TELEPORT_MESSAGE:
   - '§6* §fТелепортация игрока по координатам - §e/teleport <player> <x> <y> <z>'
 TELEPORT_SUCCESS_TELEPORT: '§6TynixCloud §8| §fВы были §aуспешно §fтелепортированы к игроку %player%'
 
+# Hub scoreboard.
 HUB_BOARD_TITLE:
   - '§8» §6§lTynixCloud'
   - '§8» §e§lTynixCloud'
@@ -91,6 +92,7 @@ HUB_BOARD_LINES:
   - '§a'
   - '§6§lwww.TynixCloud.ru'
 
+# MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
   - '§8» §6§lTynixCloud'
   - '§8» §e§lTynixCloud'
@@ -112,6 +114,7 @@ MMORPG_BOARD_LINES:
   - '§a'
   - '§6§lwww.TynixCloud.ru'
 
+# Vanilla scoreboard.
 SURVIVAL_BOARD_TITLE:
   - '§8» §6§lTynixCloud'
   - '§8» §e§lTynixCloud'
@@ -133,6 +136,29 @@ SURVIVAL_BOARD_LINES:
   - '§a'
   - '§6§lwww.TynixCloud.ru'
 
+# SkyWars scoreboard.
+SKYWARS_BOARD_TITLE:
+  - '§8» §6§lTynixCloud'
+  - '§8» §e§lTynixCloud'
+  - '§8» §b§lTynixCloud'
+SKYWARS_BOARD_LINES:
+  - '§1'
+  - ' §fРейтинг: §a%rating%'
+  - ' §fДивизия: §7-'
+  - '§2'
+  - '§7Solo:'
+  - ' §fУбийств: §e%Solo_Kills%'
+  - ' §fПобед: §e%Solo_Wins%'
+  - ' §fСмертей: §e%Solo_Deaths%'
+  - '§6'
+  - '§7Doubles:'
+  - ' §fУбийств: §e%Doubles_Kills%'
+  - ' §fПобед: §e%Doubles_Wins%'
+  - ' §fСмертей: §e%Doubles_Deaths%'
+  - '§9'
+  - '§6§lwww.TynixCloud.ru'
+
+# Core player info messages.
 INFO:
   - '§6§lTynixCloud §8:: §fPlayer information %player%'
   - '§8▪ §fUnique ID - §c%id%'
@@ -153,6 +179,7 @@ INFO_OFFLINE:
   - '§8▪ §fLast server - §d%server%'
   - '§8▪ §fI was online §c%date% ago'
 
+# Language chat messages.
 LANGUAGE_SELECT_MENU_TITLE: 'Switch language'
 LANG_SELECT: '§6§lTynixCloud §8:: §fYour language has been changed to §cEnglish!'
 LANG_JOIN:
@@ -168,6 +195,7 @@ CHAT_HOVER:
 #Menu messages.
 MENU_TITLE: 'Game Menu'
 
+# Profile messages.
 PROFILE_MENU_TITLE: 'Profile'
 PROFILE_MENU_BASE_TITLE: '§bGeneral information'
 PROFILE_MENU_BASE_LINES:
