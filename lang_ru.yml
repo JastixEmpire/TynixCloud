@@ -286,7 +286,14 @@ BACK_TITLE: '§cНазад'
 BACK_LINES:
   - ''
   - '§e▶ Нажмите, чтобы вернуться в предыдущее меню.'
+
+#Fastmessage
 FASTMESSAGE_MENU_TITLE: 'Профиль ▸ Быстрые сообщения'
+
+#Joiner
+JOINER_MENU_TITLE: 'Сообщения о входе'
+JOINER_SELECT_MESSAGE: '§6TynixCloud §8| §fВы выбрали §eСообщение #%id% §fиз категории %category%'
+JOINER_BUY_MESSAGE: '§6TynixCloud §8| Вы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
 
 # Links.
 DISCORD_MESSAGE: '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
