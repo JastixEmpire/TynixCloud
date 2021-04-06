@@ -32,6 +32,7 @@ ACCOUNT_NOT_LINKED_VK:
   - 'Command - §6!привязать [player] [password]'
 PLAYER_SUCCESS_AUTH: '§6Authorization §8| §fLogin §asuccessful §fpassed'
 
+# Core messages
 ALERT_HELP: '§6§lTynixCloud §8:: §fUse - §e/alert <message>'
 FIND_HELP: '§6§lTynixCloud §8:: §fUse - §e/find <player>'
 INFO_HELP: '§6§lTynixCloud §8:: §fUse - §e/info <player>'
@@ -46,6 +47,8 @@ EXT_MESSAGE: '§6§lTynixCloud §8:: §fВы §asuccessfully §fextinguished!'
 FEED_MESSAGE: '§6§lTynixCloud §8:: §fYou §successfully §ffeed yourself!'
 FLY_MESSAGE: '§6§lTynixCloud §8:: §fFlight mode: %fly%'
 HEAL_MESSAGE: '§6§lTynixCloud §8:: §fYour health §asuccess §frecovered!'
+
+# Survival
 HELP_SURVIVAL_BASE:
   - 'Survival help from §6TynixCloud§f:'
   - ' [Basic commands]:'
@@ -330,6 +333,15 @@ DONATE_BUY_MESSAGE:
   - '§e'
   - '§8◦ §fПокупка на сайте  §8▸  §6www.TynixCloud.ru'
   - '§9'
+
+# Core chat system.
+DONATE_CHAT_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/donatechat <сообщение>'
+DONATE_CHAT_ERROR_DUPLICATE_ON: '§6§lTynixCloud §8:: §cЧат донатеров для Вас уже включен!'
+DONATE_CHAT_ERROR_DUPLICATE_OFF: '§6§lTynixCloud §8:: §cЧат донатеров для Вас уже выключен!'
+DONATE_CHAT_SUCCESS_ON: '§6§lTynixCloud §8:: §fЧат донатеров был успешно включен!'
+DONATE_CHAT_SUCCESS_OFF: '§6§lTynixCloud §8:: §fЧат донатеров был успешно выключен!'
+DONATE_CHAT_OFF: '§6§lTynixCloud §8:: §cЧат донатеров отключен, Вы не можете сюда писать!'
+DONATE_CHAT_COOLDOWN: '§6§lTynixCloud §8:: §cОшибка, до повторного использования данной команды подождите еще %time%'
 
 # TODO: Перевести эту залупу
 # Core friends messages.
