@@ -161,6 +161,28 @@ SKYWARS_BOARD_LINES:
   - '§9'
   - '§6§lwww.TynixCloud.ru'
 
+# SkyBlock OneBlock scoreboard.
+SKYBLOCK_ONEBLOCK_BOARD_TITLE:
+  - '§8» §6§lSkyBlock OneBlock'
+  - '§8» §6§lSkyBlock OneBlock'
+  - '§8» §6§lSkyBlock OneBlock'
+SKYBLOCK_ONEBLOCK_BOARD_LINES:
+  - '§7%date%'
+  - '§1'
+  - '§fБаланс: §a%balance%'
+  - '§fЗолота: §a%golds%'
+  - '§2'
+  - '§7[Остров]:'
+  - ' Уровень: §b%level%'
+  - ' Сломано: §e%%'
+  - ' Смертей: §c%deaths%'
+  - ''
+  - 'Онлайн сервера: §a%online%'
+  - 'Сервер: §a%server%'
+  - ''
+  - '§7Меню острова - §b/is'
+  - '§6§lwww.TynixCloud.ru'
+
 # Core player info messages.
 INFO:
   - '§6§lTynixCloud §8:: §fPlayer information %player%'
