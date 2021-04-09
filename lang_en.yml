@@ -48,6 +48,18 @@ FEED_MESSAGE: '§6§lTynixCloud §8:: §fYou §successfully §ffeed yourself!'
 FLY_MESSAGE: '§6§lTynixCloud §8:: §fFlight mode: %fly%'
 HEAL_MESSAGE: '§6§lTynixCloud §8:: §fYour health §asuccess §frecovered!'
 
+# Whitelist message
+WHITELIST_KICK_MESSAGE:
+  - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  - '§1'
+  - '§cСервер находится на стадии тестирования!'
+  - '§2'
+  - '§3'
+  - '§aДля игры на сервере необходимо подать заявку в группу вк'
+  - '§9vk.com/tynixcloud'
+  - '§4'
+  - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
 # Survival
 HELP_SURVIVAL_BASE:
   - 'Survival help from §6TynixCloud§f:'
