@@ -225,7 +225,6 @@ CHAT_HOVER:
   - '§7Statistics of %prefix% %player%§7:'
   - ' §8| §7Level: §d%level%'
   - ' §8| §7EXP: §e%exp%§8/§c%max_exp%'
-  - ' §8| §7Game version: &f%version%'
   - ''
   - '§e▸ Click to send post message'
 
@@ -345,8 +344,8 @@ FASTMESSAGE_MENU_TITLE: '§8Profile ▸ Fast Messages'
 
 #Joiner
 JOINER_MENU_TITLE: 'Joiner'
-JOINER_SELECT_MESSAGE: '§6TynixCloud §8| §fВы выбрали §eСообщение #%id% §fиз категории %category%'
-JOINER_BUY_MESSAGE: '§6TynixCloud §8| Вы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
+JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fВы выбрали §eСообщение #%id% §fиз категории %category%'
+JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: Вы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
 
 # Links.
 DISCORD_MESSAGE: '§8◦ §fDiscord §8▸ §9https://discord.io/TynixCloud'
