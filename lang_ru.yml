@@ -266,28 +266,6 @@ PROFILE_MENU_SOCIAL_LINES:
   - '§fнашего сервера.'
   - ''
   - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_FASTMESSAGE_TITLE: '§6Быстрые сообщения'
-PROFILE_MENU_FASTMESSAGE_LINES:
-  - '§8Эмодзи и всё такое'
-  - ''
-  - '§7Покажи всем какой ты сегодня'
-  - '§7используя эти быстрые сообщения.'
-  - ''
-  - '§7Доступно от §6§lGOLD §7и выше'
-  - ''
-  - '§7Для быстрого открытия меню используйте'
-  - '§7команду §a/fm §7или §a/fastmessage'
-  - ''
-  - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_JOINER_TITLE: '§6Сообщения при входе'
-PROFILE_MENU_JOINER_LINES:
-  - '§7Станьте реально крутым донатером'
-  - '§7у которого при-входе на сервер'
-  - '§7своё личное сообщение'
-  - ''
-  - '§7Доступно от §e§lWOOD'
-  - ''
-  - '§e▸ Нажмите чтобы настроить сообщение'
 PROFILE_MENU_LEVEL_TITLE: '§6Уровни'
 PROFILE_MENU_LEVEL_LINES:
   - ''
@@ -341,21 +319,44 @@ BACK_LINES:
   - ''
   - '§e▶ Нажмите, чтобы вернуться в предыдущее меню.'
 
-#Fastmessage
-FASTMESSAGE_MENU_TITLE: 'Профиль ▸ Быстрые сообщения'
-
-#Joiner
-JOINER_MENU_TITLE: 'Сообщения о входе'
-JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fВы выбрали §eСообщение #%id% §fиз категории %category%'
-JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: Вы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
-
 # Links.
 DISCORD_MESSAGE: '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
 SITE_MESSAGE: '§8◦ §fСайт §8▸ §6http://TynixCloud.ru'
 VK_MESSAGE: '§8◦ §fВКонтакте §8▸ §bhttps://vk.com/TynixCloud'
 
-#Donate messages.
-DONATE_MENU_TITLE: 'Профиль ▸ Донат'
+# Donate Menu
+DONATE_MENU_TITLE: 'Донат меню'
+DONATE_MENU_FASTMESSAGE_TITLE: '§eБыстрые сообщения'
+DONATE_MENU_FASTMESSAGE_LINES:
+  - '§7Покажи всем какой ты сегодня'
+  - '§7используя эти быстрые сообщения.'
+  - ''
+  - '§7Доступно от §6§lGOLD §7и выше'
+  - ''
+  - '§7Для быстрого открытия меню используйте'
+  - '§7команду §a/fm §7или §a/fastmessage'
+  - ''
+  - '§e▶ Нажмите чтобы открыть.'
+DONATE_MENU_JOINER_TITLE: '§eСообщения при входе'
+DONATE_MENU_JOINER_LINES:
+  - '§7Станьте реально крутым донатером'
+  - '§7у которого при-входе на сервер'
+  - '§7своё личное сообщение'
+  - ''
+  - '§7Доступно от §e§lWOOD'
+  - ''
+  - '§e▸ Нажмите чтобы настроить сообщение'
+
+# Fastmessage
+FASTMESSAGE_MENU_TITLE: '§8Donate Menu ▸ Fast Messages'
+
+# Joiner
+JOINER_MENU_TITLE: '§8Donate Menu ▸ Joiner'
+JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fВы выбрали §eСообщение #%id% §fиз категории %category%'
+JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: Вы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
+
+# Status messages.
+STATUS_MENU_TITLE: 'Профиль ▸ Донат'
 
 DONATE_WOOD_TITLE: 'Донат ▸ WOOD'
 DONATE_GOLD_TITLE: 'Донат ▸ GOLD'
