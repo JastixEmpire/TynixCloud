@@ -245,7 +245,7 @@ PROFILE_MENU_BASE_LINES:
   - '§7Language: §f%language%'
   - ''
   - '§7Game version: §f%version%'
-PROFILE_MENU_LANGUAGE_TITLE: '§6Switch language'
+PROFILE_MENU_LANGUAGE_TITLE: '§bSwitch language'
 PROFILE_MENU_LANGUAGE_LINES:
   - '§7Change default server language'
   - '§7Translation and language will be added if the future!'
@@ -259,9 +259,11 @@ PROFILE_MENU_LANGUAGE_LINES:
   - '§e▶ Click to switch language'
 PROFILE_MENU_SOCIAL_TITLE: '§6Social network'
 PROFILE_MENU_SOCIAL_LINES:
+  - '§8Вы можете найти нас тут :)'
   - ''
-  - '§fLinks to social networks'
-  - '§four server.'
+  - '§fСсылки на наши группы, сайты,'
+  - '§fфорумы и много чего другого'
+  - '§fчтобы связаться с нами'
   - ''
   - '§e▶ Click to open.'
 PROFILE_MENU_LEVEL_TITLE: '§6Levels'
