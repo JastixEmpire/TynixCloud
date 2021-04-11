@@ -257,6 +257,23 @@ PROFILE_MENU_LANGUAGE_LINES:
   - '§cWARNING! Translation can be uncorrected.'
   - ''
   - '§e▶ Click to switch language'
+PROFILE_MENU_BOOSTER_TITLE: '§eУскоритель §cВ РАЗРАБОТКЕ'
+PROFILE_MENU_BOOSTER_LINES:
+  - '§8Персональный бустер'
+  - ''
+  - '§7Активировать персональный'
+  - '§7ускоритель для ускоренного'
+  - '§7получение опыта и монет'
+  - ''
+  - '§e▶ Нажмите чтобы открыть.'
+PROFILE_MENU_STATISTIC_TITLE: '§eСтатистика режимов §cВ РАЗРАБОТКЕ'
+PROFILE_MENU_STATISTIC_LINES:
+  - '§8Статистика со всех режимов'
+  - ''
+  - '§7Ваша статистика которая'
+  - '§7собрана со всех наших режимов'
+  - ''
+  - '§e▶ Нажмите чтобы открыть.'
 PROFILE_MENU_SOCIAL_TITLE: '§6Social network'
 PROFILE_MENU_SOCIAL_LINES:
   - '§8Вы можете найти нас тут :)'
