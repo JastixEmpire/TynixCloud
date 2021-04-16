@@ -175,12 +175,12 @@ SKYWARS_BOARD_LINES:
   - '§9'
   - '§6§lwww.TynixCloud.ru'
 
-# SkyBlock OneBlock scoreboard.
-SKYBLOCK_ONEBLOCK_BOARD_TITLE:
+# OneBlock scoreboard.
+ONEBLOCK_BOARD_TITLE:
   - '§8» §6§lSkyBlock OneBlock'
   - '§8» §6§lSkyBlock OneBlock'
   - '§8» §6§lSkyBlock OneBlock'
-SKYBLOCK_ONEBLOCK_BOARD_LINES:
+ONEBLOCK_BOARD_LINES:
   - '§7%date%'
   - '§1'
   - '§fБаланс: §a%balance%'
@@ -247,6 +247,24 @@ PROFILE_MENU_BASE_LINES:
   - '§7Язык: §f%language%'
   - ''
   - '§7Игровая версия: §f%version%'
+PROFILE_MENU_DONATE_TITLE: '§6Привилегии'
+PROFILE_MENU_DONATE_LINES:
+  - '§8Список донат привилегий'
+  - ''
+  - '§7Все возможности привилегий'
+  - '§7расписаны в этом разделе.'
+  - ''
+  - '§e▸ Нажми, чтобы открыть меню'
+PROFILE_MENU_DONATEMENU_TITLE: '§dДонат-меню'
+PROFILE_MENU_DONATEMENU_LINES:
+  - '§8Плюшки для донатеров'
+  - ''
+  - '§7Кастомизация игрока на сервере.'
+  - '§7В этом меню вы сможете отправить быстрое'
+  - '§7сообщение, сообщение при'
+  - '§7заходе и многое другое.'
+  - ''
+  - '§e▸ Нажми, чтобы открыть меню'
 PROFILE_MENU_LANGUAGE_TITLE: '§bВыбор языка'
 PROFILE_MENU_LANGUAGE_LINES:
   - '§7Cмена дефолтного языка на сервере'
@@ -338,12 +356,99 @@ BACK_LINES:
   - ''
   - '§e▶ Нажмите, чтобы вернуться в предыдущее меню.'
 
+# Donate Inventory
+DONATE_STATUS_TITLE: '§7Информация'
+DONATE_STATUS_LINE:
+  - '§fВсего статусов: §c§l7'
+  - '§eДонат статусов: §c§l6'
+  - ''
+  - '§7Все деньги полученные с покупок'
+  - '§7доната, идут на развитие проекта:'
+  - ''
+  - '§a↪ §fРеклама §a●●●●●§7●●●●● §750%'
+  - '§a↪ §fОборудование §a●●●§7●●●●●●●● §730%'
+  - '§a↪ §fРазработка режимов §a●●§7●●●●●●●●● §720%'
+  - ''
+DONATE_STATUS_WOOD_TITLE: '§fСтатус §e§lWOOD'
+DONATE_STATUS_WOOD_LORE:
+  - ''
+  - '§8§l· §fУникальные возможности'
+  - '§8§l· §fВозможность зайти на полный сервер'
+  - '§8§l· §fМножитель монет §cx1.2'
+  - ''
+  - ' §fЦена: §a§l100 §aрублей'
+  - ''
+  - '§e▸ Нажмите, чтобы узнать подробнее'
+DONATE_STATUS_GOLD_TITLE: '§fСтатус §6§lGOLD'
+DONATE_STATUS_GOLD_LORE:
+  - ''
+  - '§8§l· §fУникальные возможности'
+  - '§8§l· §fВозможность зайти на полный сервер'
+  - '§8§l· §fМножитель монет §cx1.4'
+  - ''
+  - ' §fЦена: §a§l240 §aрублей'
+  - ''
+  - '§e▸ Нажмите, чтобы узнать подробнее'
+DONATE_STATUS_SUPREME_TITLE: '§fСтатус §9§lSUPREME §6§l§nBEST'
+DONATE_STATUS_SUPREME_LORE:
+  - ''
+  - '§8§l· §fУникальные возможности'
+  - '§8§l· §fВозможность зайти на полный сервер'
+  - '§8§l· §fМножитель монет §cx1.6'
+  - ''
+  - ' §fЦена: §a§l370 §aрублей'
+  - ''
+  - '§e▸ Нажмите, чтобы узнать подробнее'
+DONATE_STATUS_QUANTUM_TITLE: '§fСтатус §a§lQUANTUM'
+DONATE_STATUS_QUANTUM_LORE:
+  - ''
+  - '§8§l· §fУникальные возможности'
+  - '§8§l· §fВозможность зайти на полный сервер'
+  - '§8§l· §fМножитель монет §cx1.8'
+  - ''
+  - ' §fЦена: §a§l620 §aрублей'
+  - ''
+  - '§e▸ Нажмите, чтобы узнать подробнее'
+DONATE_STATUS_RUBY_TITLE: '§fСтатус §d§lRUBY'
+DONATE_STATUS_RUBY_LORE:
+  - ''
+  - '§8§l· §fУникальные возможности'
+  - '§8§l· §fВозможность зайти на полный сервер'
+  - '§8§l· §fМножитель монет §cx2.0'
+  - ''
+  - ' §fЦена: §a§l950 §aрублей'
+  - ''
+  - '§e▸ Нажмите, чтобы узнать подробнее'
+DONATE_STATUS_AVENGER_TITLE: '§fСтатус §c§lAVENGER §c§l§nNEW'
+DONATE_STATUS_AVENGER_LORE:
+  - ''
+  - '§8§l· §fУникальные возможности'
+  - '§8§l· §fВозможность зайти на полный сервер'
+  - '§8§l· §fМножитель монет §cx2.5'
+  - ''
+  - ' §fЦена: §a§l1500 §aрублей'
+  - ''
+  - '§e▸ Нажмите, чтобы узнать подробнее'
+DONATE_STATUS_YOUTUBE_TITLE: '§fСтатус §6§lYOUTUBE'
+DONATE_STATUS_YOUTUBE_LORE:
+  - ''
+  - '§7Как получить данный статус?'
+  - ''
+  - '§8* §7Получение статуса §6§lYOUTUBE§8:'
+  - '§7- §fОт §c500 §fподписчиков'
+  - '§7- §fОт §e250 §fпросмотров на роликах'
+  - ''
+  - '§7Основные требования при публикации контента:'
+  - '§fВ описании и название видео или стрима'
+  - '§fдолжен быть указан IP и сайт проекта:'
+  - '§6www.TynixCloud.ru, mc.tynixcloud.ru'
+
 # Links.
 DISCORD_MESSAGE: '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
 SITE_MESSAGE: '§8◦ §fСайт §8▸ §6http://TynixCloud.ru'
 VK_MESSAGE: '§8◦ §fВКонтакте §8▸ §bhttps://vk.com/TynixCloud'
 
-# Donate Menu
+# DonateMenu Inventory
 DONATE_MENU_TITLE: 'Донат меню'
 DONATE_MENU_FASTMESSAGE_TITLE: '§eБыстрые сообщения'
 DONATE_MENU_FASTMESSAGE_LINES:
