@@ -475,7 +475,7 @@ FASTMESSAGE_MENU_TITLE: '§8Donate Menu ▸ Fast Messages'
 # Joiner
 JOINER_MENU_TITLE: '§8Donate Menu ▸ Joiner'
 JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fВы выбрали §eСообщение #%id% §fиз категории %category%'
-JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: Вы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
+JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: §fВы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
 
 # Status messages.
 STATUS_MENU_TITLE: 'Profile ▸ Donate'
