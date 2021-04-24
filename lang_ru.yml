@@ -547,7 +547,7 @@ SKYWARS_TIMER_TICK: '§6SkyWars §8| §fИгра начнется через §e
 SKYWARS_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cОшибка, у Вас недостаточно средств для покупки данного предмета!'
 SKYWARS_BOUGHT_ITEM_SUCCESS_BUY: '§aВы успешно купили §e{item_name}'
 
-SKYWARS_PLAYER_DEATH_CAUSE_SUICIDE: 'SKYWARS_PLAYER_DEATH_CAUSE_SUICIDE'
+SKYWARS_PLAYER_DEATH_CAUSE_SUICIDE: '§6SkyWars §8| {player} §fумер от суецида'
 SKYWARS_PLAYER_DEATH_CAUSE_PROJECTILE: '§6SkyWars §8| {player} §fбыл застрелен'
 SKYWARS_PLAYER_DEATH_CAUSE_FALL: '§6SkyWars §8| {player} §fразбился насмерть'
 SKYWARS_PLAYER_DEATH_CAUSE_LAVA: '§6SkyWars §8| {player} §fсгорел заживо'
@@ -557,6 +557,7 @@ SKYWARS_PLAYER_DEATH_CAUSE_MAGIC: '§6SkyWars §8| {player} §fбыл убит �
 SKYWARS_PLAYER_DEATH_CAUSE_WITCH: '§6SkyWars §8| {player} §fбыл убит при помощи магии'
 SKYWARS_PLAYER_DEATH_CAUSE_ENTITY_ATTACK: '§6SkyWars §8| {killer} §fубил {player}'
 SKYWARS_PLAYER_DEATH_CAUSE_VOID: '§6SkyWars §8| {player} §fупал в бездну'
+SKYWARS_PLAYER_DEATH_CAUSE_CUSTOM: '§6SkyWars §8| {player} §fумер не известной смертью'
 
 SKYWARS_PVP_ACTIVE: '§aPVP активировано, теперь можно лутать сундуки'
 

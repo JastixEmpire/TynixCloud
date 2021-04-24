@@ -550,6 +550,7 @@ SKYWARS_PLAYER_DEATH_CAUSE_MAGIC: '§6SkyWars §8| {player} §fkilled by magic'
 SKYWARS_PLAYER_DEATH_CAUSE_WITCH: '§6SkyWars §8| {player} §fkilled by magic'
 SKYWARS_PLAYER_DEATH_CAUSE_ENTITY_ATTACK: '§6SkyWars §8| {killer} §fkill {player}'
 SKYWARS_PLAYER_DEATH_CAUSE_VOID: '§6SkyWars §8| {player} §ffall'
+SKYWARS_PLAYER_DEATH_CAUSE_CUSTOM: '§6SkyWars §8| {player} §fkilled by custom death'
 
 SKYWARS_PVP_ACTIVE: '§aPVP has been activated. You can open chests!'
 
