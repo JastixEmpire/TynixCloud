@@ -311,9 +311,9 @@ PROFILE_MENU_LEVEL_LINES:
   - ''
   - ' §7Current level: §d%level%'
   - ''
-  - ' §7Progress §f↷'
-  - ' §с↪ §7Собрано §e%level_progress%% §7опыта до следующего уровня'
-  - ' §с↪ §7До §a%level_nextlvl% §7уровня необходимо еще §d%level_exp_required% §7EXP (%level_percent%%)'
+  - ' §fProgress §e↷'
+  - ' §c↪ §7Собрано §e%level_progress%% §7опыта до следующего уровня'
+  - ' §c↪ §7До §a%level_nextlvl% §7уровня необходимо еще §d%level_exp_required% §7EXP (%level_percent%%)'
   - ''
 PROFILE_MENU_REWARD_TITLE: '§bRewards §8§k§l|'
 PROFILE_MENU_REWARD_LINES:
