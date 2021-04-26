@@ -517,6 +517,7 @@ FRIEND_HELP:
 FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lFriends §8:: §fДанный игрок уже приглашал Вас в друзья'
 FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lFriends §8:: §cОшибка, Вы уже запрашивали дружбу у данного игрока, ожидайте ответа от него!'
 FRIEND_ADD_ERROR_IS_FRIEND: '§e§lFriends §8:: §cОшибка, данный игрок уже является Вашим другом!'
+FRIEND_ADD_ERROR_YOURSELF_AS_FRIEND: '§e§lДрузья §8:: §cОшибка, Вы не можете отправить заявку в друзья самому себе'
 FRIEND_ADD_SUCCESS_SEND: '§e§lFriends §8:: §fПриглашение на дружбу было отправлено для %player%'
 FRIEND_REMOVE_ERROR_HAS_FRIEND: '§e§lFriends §8:: §cОшибка, данный игрок не является Вашим другом!'
 FRIEND_SUCCESS_REMOVE_FRIEND: '§e§lFriends §8:: §fВы успешно удалили из друзей %player%'
