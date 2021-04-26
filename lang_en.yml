@@ -233,7 +233,7 @@ MENU_TITLE: 'Game Menu'
 
 # Profile messages.
 PROFILE_MENU_TITLE: 'Profile'
-PROFILE_MENU_BASE_TITLE: '§bGeneral information'
+PROFILE_MENU_BASE_TITLE: '§bGeneral information §8§k§l|'
 PROFILE_MENU_BASE_LINES:
   - '§7Rank: %status%'
   - ''
@@ -245,7 +245,7 @@ PROFILE_MENU_BASE_LINES:
   - '§7Language: §f%language%'
   - ''
   - '§7Game version: §f%version%'
-PROFILE_MENU_DONATE_TITLE: '§6Привилегии'
+PROFILE_MENU_DONATE_TITLE: '§bDonate §8§k§l|'
 PROFILE_MENU_DONATE_LINES:
   - '§8Список донат привилегий'
   - ''
@@ -253,7 +253,7 @@ PROFILE_MENU_DONATE_LINES:
   - '§7расписаны в этом разделе.'
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
-PROFILE_MENU_DONATEMENU_TITLE: '§dДонат-меню'
+PROFILE_MENU_DONATEMENU_TITLE: '§dDonate-Menu §8§k§l|'
 PROFILE_MENU_DONATEMENU_LINES:
   - '§8Плюшки для донатеров'
   - ''
@@ -263,7 +263,7 @@ PROFILE_MENU_DONATEMENU_LINES:
   - '§7заходе и многое другое.'
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
-PROFILE_MENU_LANGUAGE_TITLE: '§bSwitch language'
+PROFILE_MENU_LANGUAGE_TITLE: '§bSwitch language §8§k§l|'
 PROFILE_MENU_LANGUAGE_LINES:
   - '§7Change default server language'
   - '§7Translation and language will be added if the future!'
@@ -275,7 +275,7 @@ PROFILE_MENU_LANGUAGE_LINES:
   - '§cWARNING! Translation can be uncorrected.'
   - ''
   - '§e▶ Click to switch language'
-PROFILE_MENU_BOOSTER_TITLE: '§eУскоритель §cВ РАЗРАБОТКЕ'
+PROFILE_MENU_BOOSTER_TITLE: '§eBooster §8§k§l|'
 PROFILE_MENU_BOOSTER_LINES:
   - '§8Персональный бустер'
   - ''
@@ -284,7 +284,7 @@ PROFILE_MENU_BOOSTER_LINES:
   - '§7получение опыта и монет'
   - ''
   - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_STATISTIC_TITLE: '§eСтатистика режимов §cВ РАЗРАБОТКЕ'
+PROFILE_MENU_STATISTIC_TITLE: '§eСтатистика режимов §8§k§l|'
 PROFILE_MENU_STATISTIC_LINES:
   - '§8Статистика со всех режимов'
   - ''
@@ -292,7 +292,7 @@ PROFILE_MENU_STATISTIC_LINES:
   - '§7собрана со всех наших режимов'
   - ''
   - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_SOCIAL_TITLE: '§6Social network'
+PROFILE_MENU_SOCIAL_TITLE: '§bSocial network §8§k§l|'
 PROFILE_MENU_SOCIAL_LINES:
   - '§8Вы можете найти нас тут :)'
   - ''
@@ -301,7 +301,7 @@ PROFILE_MENU_SOCIAL_LINES:
   - '§fчтобы связаться с нами'
   - ''
   - '§e▶ Click to open.'
-PROFILE_MENU_LEVEL_TITLE: '§6Levels'
+PROFILE_MENU_LEVEL_TITLE: '§bLevels §8§k§l|'
 PROFILE_MENU_LEVEL_LINES:
   - ''
   - '§fBy playing on the server, you get'
@@ -309,16 +309,20 @@ PROFILE_MENU_LEVEL_LINES:
   - '§fto raise your level'
   - '§fand receive special rewards.'
   - ''
-  - '§fLevel: §d%level%'
-  - '§fEXP: §e%level_exp%§8/§c%level_max_exp%'
-PROFILE_MENU_REWARD_TITLE: '§6Rewards'
+  - ' §7Current level: §d%level%'
+  - ''
+  - ' §7Progress §f↷'
+  - ' §с↪ §7Собрано §e%level_progress%% §7опыта до следующего уровня'
+  - ' §с↪ §7До §a%level_nextlvl% §7уровня необходимо еще §d%level_exp_required% §7EXP (%level_percent%%)'
+  - ''
+PROFILE_MENU_REWARD_TITLE: '§bRewards §8§k§l|'
 PROFILE_MENU_REWARD_LINES:
   - ''
   - '§fRegular coin bonuses,'
   - '§fexperience and chests for everything!'
   - ''
   - '§e▶ Click to open the rewards menu.'
-PROFILE_MENU_GADGET_TITLE: '§6Gadgets'
+PROFILE_MENU_GADGET_TITLE: '§bGadgets §8§k§l|'
 PROFILE_MENU_GADGET_LINES:
   - ''
   - '§fTired of just running around the lobby?'

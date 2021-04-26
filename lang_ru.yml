@@ -235,7 +235,7 @@ MENU_TITLE: 'Игровое меню'
 
 # Profile messages.
 PROFILE_MENU_TITLE: 'Профиль'
-PROFILE_MENU_BASE_TITLE: '§bОбщая информация'
+PROFILE_MENU_BASE_TITLE: '§bОбщая информация §8§k§l|'
 PROFILE_MENU_BASE_LINES:
   - '§7Статус: %status%'
   - ''
@@ -247,7 +247,7 @@ PROFILE_MENU_BASE_LINES:
   - '§7Язык: §f%language%'
   - ''
   - '§7Игровая версия: §f%version%'
-PROFILE_MENU_DONATE_TITLE: '§6Привилегии'
+PROFILE_MENU_DONATE_TITLE: '§bПривилегии §8§k§l|'
 PROFILE_MENU_DONATE_LINES:
   - '§8Список донат привилегий'
   - ''
@@ -255,7 +255,7 @@ PROFILE_MENU_DONATE_LINES:
   - '§7расписаны в этом разделе.'
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
-PROFILE_MENU_DONATEMENU_TITLE: '§dДонат-меню'
+PROFILE_MENU_DONATEMENU_TITLE: '§dДонат-меню §8§k§l|'
 PROFILE_MENU_DONATEMENU_LINES:
   - '§8Плюшки для донатеров'
   - ''
@@ -265,7 +265,7 @@ PROFILE_MENU_DONATEMENU_LINES:
   - '§7заходе и многое другое.'
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
-PROFILE_MENU_LANGUAGE_TITLE: '§bВыбор языка'
+PROFILE_MENU_LANGUAGE_TITLE: '§bВыбор языка §8§k§l|'
 PROFILE_MENU_LANGUAGE_LINES:
   - '§7Cмена дефолтного языка на сервере'
   - '§7Перевод и языки будут дополняться!'
@@ -277,7 +277,7 @@ PROFILE_MENU_LANGUAGE_LINES:
   - '§cВНИМАНИЕ! Перевод может быть некорректным.'
   - ''
   - '§e▶ Нажмите чтобы выбрать язык.'
-PROFILE_MENU_BOOSTER_TITLE: '§eУскоритель §cВ РАЗРАБОТКЕ'
+PROFILE_MENU_BOOSTER_TITLE: '§eУскоритель §8§k§l|'
 PROFILE_MENU_BOOSTER_LINES:
   - '§8Персональный бустер'
   - ''
@@ -286,7 +286,7 @@ PROFILE_MENU_BOOSTER_LINES:
   - '§7получение опыта и монет'
   - ''
   - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_STATISTIC_TITLE: '§eСтатистика режимов §cВ РАЗРАБОТКЕ'
+PROFILE_MENU_STATISTIC_TITLE: '§eСтатистика режимов §8§k§l|'
 PROFILE_MENU_STATISTIC_LINES:
   - '§8Статистика со всех режимов'
   - ''
@@ -294,7 +294,7 @@ PROFILE_MENU_STATISTIC_LINES:
   - '§7собрана со всех наших режимов'
   - ''
   - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_SOCIAL_TITLE: '§6Социальные сети'
+PROFILE_MENU_SOCIAL_TITLE: '§bСоциальные сети §8§k§l|'
 PROFILE_MENU_SOCIAL_LINES:
   - '§8Вы можете найти нас тут :)'
   - ''
@@ -303,7 +303,7 @@ PROFILE_MENU_SOCIAL_LINES:
   - '§fчтобы связаться с нами'
   - ''
   - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_LEVEL_TITLE: '§6Уровни'
+PROFILE_MENU_LEVEL_TITLE: '§bУровень §8§k§l|'
 PROFILE_MENU_LEVEL_LINES:
   - ''
   - '§fИграя на сервере, вы получаете'
@@ -311,16 +311,20 @@ PROFILE_MENU_LEVEL_LINES:
   - '§fдля поднятия вашего уровня'
   - '§fи получения особых наград.'
   - ''
-  - '§fУровень: §d%level%'
-  - '§fEXP: §e%level_exp%§8/§c%level_max_exp%'
-PROFILE_MENU_REWARD_TITLE: '§6Награды'
+  - ' §7Ваш уровень: §d%level%'
+  - ''
+  - ' §7Прогресс уровня §f↷'
+  - ' §с↪ §7Собрано §e%level_progress%% §7опыта до следующего уровня'
+  - ' §с↪ §7До §a%level_nextlvl% §7уровня необходимо еще §d%level_exp_required% §7EXP (%level_percent%%)'
+  - ''
+PROFILE_MENU_REWARD_TITLE: '§bНаграды §8§k§l|'
 PROFILE_MENU_REWARD_LINES:
   - ''
   - '§fРегулярные бонусы с монетами,'
   - '§fопытом и сундуками для всех!'
   - ''
   - '§e▶ Нажмите, чтобы открыть меню наград.'
-PROFILE_MENU_GADGET_TITLE: '§6Гаджеты'
+PROFILE_MENU_GADGET_TITLE: '§bГаджеты §8§k§l|'
 PROFILE_MENU_GADGET_LINES:
   - ''
   - '§fНадоело просто бегать по лобби?'
@@ -359,8 +363,8 @@ BACK_LINES:
 # Donate Inventory
 DONATE_STATUS_TITLE: '§7Информация'
 DONATE_STATUS_LINE:
-  - '§fВсего статусов: §c§l7'
-  - '§eДонат статусов: §c§l6'
+  - '§fВсего статусов: §e§l7'
+  - '§fДонат статусов: §c§l6'
   - ''
   - '§7Все деньги полученные с покупок'
   - '§7доната, идут на развитие проекта:'
