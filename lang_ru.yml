@@ -539,6 +539,34 @@ FRIENDS_REQUEST_REJECTED: '§e§lДрузья §8:: §fИгрок %player% §fо
 FRIENDS_ALREADY_FRIENDS: '§e§lДрузья §8:: §cОшибка, Вы уже являетесь друзьями!'
 FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lДрузья §8:: §cОшибка, данный игрок не отправлял Вам приглашение на дружбу!'
 
+# Party messages.
+PARTY_HELP:
+  - '§6Party §8| §fПомощь по командам:'
+  - '§6* §fОтправить запрос - §e/party invite <nickname>'
+  - '§6* §fУдалить игрока из группы - §e/party remove <nickname>'
+  - '§6* §fСписок игроков в группе - §e/party list'
+  - '§6* §fСписок приглашений в группу - §e/party requests'
+PARTY_MENU_LIST_TITLE: 'Party list'
+PARTY_MENU_LIST_ONLINE_INFO:
+  - ''
+  - '§fOnline: §a%online%'
+  - ''
+  - '§fVK: §c%vk%'
+  - '§fLanguage: §c%language%'
+  - ''
+  - '§fServer: §c%server%'
+  - ''
+  - '§cClick to remove a party'
+PARTY_ADD_USAGE: '§6TynixCloud §8| §fUse - §6/party invite <nickname>'
+PARTY_ADD_ERROR_DUPLICATE: '§6Party §8| §cError, you can t add yourself as a PARTY!'
+PARTY_ADD_ERROR_IS_PARTY: '§6Party §8| §cError, this player is already your PARTY!'
+PARTY_ADD_ERROR_HAS_REQUEST: '§6Party §8| §cError, you have already submitted a request to add this player as a party!'
+PARTY_ADD_SUCCESS_SENDER: '§6Party §8| §fYou have successfully accepted a party request from %player%'
+PARTY_ADD_SUCCESS_MEMBER: '§6Party §8| %player% §faccepted your application as a PARTY!'
+PARTY_SUCCESS_MEMBER: '§6Party §8| %player% §foffers to become your PARTY!'
+PARTY_SUCCESS_SENDER: '§6Party §8| §fYou have successfully submitted your application %player% §f, wait for his response!!!'
+PARTY_ALERT: '§6Party §8| %player% §fприсоединился к группе'
+
 # Core online messages.
 message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6§lTynixCloud §8:: §fОбщий серверов по префиксу §e%prefix% - §e%online%'
