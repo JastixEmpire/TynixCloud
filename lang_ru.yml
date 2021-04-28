@@ -138,6 +138,49 @@ SURVIVAL_BOARD_LINES:
   - '§a'
   - '§6§lwww.TynixCloud.ru'
 
+# SkyWars scoreboard.
+SKYWARS_BOARD_TITLE:
+  - '§8» §6§lTynixCloud'
+  - '§8» §e§lTynixCloud'
+  - '§8» §b§lTynixCloud'
+SKYWARS_BOARD_LINES:
+  - '§1'
+  - ' §fРейтинг: §a%rating%'
+  - '§2'
+  - '§7Solo:'
+  - ' §fУбийств: §e%Solo_Kills%'
+  - ' §fПобед: §e%Solo_Wins%'
+  - ' §fСмертей: §e%Solo_Deaths%'
+  - '§6'
+  - '§7Doubles:'
+  - ' §fУбийств: §e%Doubles_Kills%'
+  - ' §fПобед: §e%Doubles_Wins%'
+  - ' §fСмертей: §e%Doubles_Deaths%'
+  - '§9'
+  - '§6§lwww.TynixCloud.ru'
+
+# OneBlock scoreboard.
+ONEBLOCK_BOARD_TITLE:
+  - '§8» §6§lSkyBlock OneBlock'
+  - '§8» §6§lSkyBlock OneBlock'
+  - '§8» §6§lSkyBlock OneBlock'
+ONEBLOCK_BOARD_LINES:
+  - '§7%date%'
+  - '§1'
+  - '§fБаланс: §a%balance%'
+  - '§fЗолота: §a%golds%'
+  - '§2'
+  - '§7[Остров]:'
+  - ' Уровень: §b%level%'
+  - ' Сломано: §e%%'
+  - ' Смертей: §c%deaths%'
+  - ''
+  - 'Онлайн сервера: §a%online%'
+  - 'Сервер: §a%server%'
+  - ''
+  - '§7Меню острова - §b/is'
+  - '§6§lwww.TynixCloud.ru'
+
 # Core player info messages.
 INFO:
   - '§6§lTynixCloud §8:: §fИнформация о игроке %player%'

@@ -159,7 +159,6 @@ SKYWARS_BOARD_TITLE:
 SKYWARS_BOARD_LINES:
   - '§1'
   - ' §fРейтинг: §a%rating%'
-  - ' §fДивизия: §7-'
   - '§2'
   - '§7Solo:'
   - ' §fУбийств: §e%Solo_Kills%'
