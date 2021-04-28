@@ -161,7 +161,7 @@ SKYWARS_BOARD_TITLE:
   - '§8» §b§lTynixCloud'
 SKYWARS_BOARD_LINES:
   - '§1'
-  - ' §fРейтинг: §a%rating%'
+  - '§fРейтинг: §a%rating%'
   - '§2'
   - '§7Solo:'
   - ' §fУбийств: §e%solo_kills%'
@@ -234,9 +234,6 @@ CHAT_HOVER:
 
 #Menu messages.
 MENU_TITLE: 'Игровое меню'
-
-#Donate menu messages
-DONATE_MENU_TITLE: 'Профиль ▸ Донат'
 
 # Profile messages.
 PROFILE_MENU_TITLE: 'Профиль'
