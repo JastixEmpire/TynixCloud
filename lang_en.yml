@@ -163,13 +163,14 @@ SKYWARS_BOARD_LINES:
   - '§7Solo:'
   - ' §fKills: §e%solo_kills%'
   - ' §fWins: §e%solo_wins%'
-  - ' §fDeaths: §e%solo_deaths%'
   - '§6'
   - '§7Doubles:'
   - ' §fKills: §e%doubles_kills%'
   - ' §fWins: §e%doubles_wins%'
-  - ' §fDeaths: §e%doubles_deaths%'
   - '§9'
+  - ' §fOnline: §a%online%'
+  - ' §fServer: §a%server_name%'
+  - '§7'
   - '§6§lwww.TynixCloud.ru'
 
 # OneBlock scoreboard.
