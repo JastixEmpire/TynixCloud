@@ -569,7 +569,7 @@ PARTY_ALERT: '§e§lParty §8:: %player% §fjoined to the party'
 # SkyWars messages.
 SKYWARS_PLAYER_JOIN: '§6§lSkyWars §8:: {player} §fjoined the game §7({online}/{max})'
 SKYWARS_PLAYER_QUIT: '§6§lSkyWars §8:: {player} §fleave the game §7({online}/{max})'
-SKYWARS_TIMER_TICK: '§6§lSkyWars §8:: §fGame started in §e{time} sec.'
+SKYWARS_PLAYER_TIMER_TICK: '§6§lSkyWars §8:: §fGame started in §e{time} sec.'
 
 SKYWARS_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cError, not enough coins!'
 SKYWARS_BOUGHT_ITEM_SUCCESS_BUY: '§6§lSkyWars §8:: §e{item_name} §fsuccessfully purchased'
