@@ -565,7 +565,6 @@ PARTY_SUCCESS_MEMBER: '§e§lParty §8:: %player% §foffers to become your PARTY
 PARTY_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully submitted your application %player% §f, wait for his response'
 PARTY_ALERT: '§e§lParty §8:: %player% §fjoined to the party'
 
-
 # SkyWars messages.
 SKYWARS_PLAYER_JOIN: '§6§lSkyWars §8:: {player} §fjoined the game §7({online}/{max})'
 SKYWARS_PLAYER_QUIT: '§6§lSkyWars §8:: {player} §fleave the game §7({online}/{max})'
