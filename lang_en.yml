@@ -516,24 +516,23 @@ FRIEND_HELP:
   - ' §7Decline friend request from player - §e/friends deny <player name>'
   - ' §7Friend list - §e/friends list'
   - ' §7Friend request list - §e/friends requests'
-FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lFriends §8:: §fДанный игрок уже приглашал Вас в друзья'
-FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lFriends §8:: §cОшибка, Вы уже запрашивали дружбу у данного игрока, ожидайте ответа от него!'
-FRIEND_ADD_ERROR_IS_FRIEND: '§e§lFriends §8:: §cОшибка, данный игрок уже является Вашим другом!'
-FRIEND_ADD_ERROR_YOURSELF_AS_FRIEND: '§e§lДрузья §8:: §cОшибка, Вы не можете отправить заявку в друзья самому себе'
-FRIEND_ADD_SUCCESS_SEND: '§e§lFriends §8:: §fПриглашение на дружбу было отправлено для %player%'
-FRIEND_REMOVE_ERROR_HAS_FRIEND: '§e§lFriends §8:: §cОшибка, данный игрок не является Вашим другом!'
-FRIEND_SUCCESS_REMOVE_FRIEND: '§e§lFriends §8:: §fВы успешно удалили из друзей %player%'
-FRIENDS_DONT_HAVE_INVITES: '§e§lFriends §8:: §fНа данный момент у Вас нет акутальных запросов в друзья!'
-FRIEND_LIST: "§e§lFriends §8:: §fСписок Ваших друзей: §e(%count%)"
+FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lFriends §8:: §fThis player has already invited you as a friend'
+FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lFriends §8:: §cError, You have already sent friend request to that player...'
+FRIEND_ADD_ERROR_IS_FRIEND: '§e§lFriends §8:: §cError, You are already friends with that player!'
+FRIEND_ADD_ERROR_YOURSELF_AS_FRIEND: '§e§lFriends §8:: §cError, You cannot add yourself to your friend list'
+FRIEND_ADD_SUCCESS_SEND: '§e§lFriends §8:: §fFriend request sent to player %player%'
+FRIEND_REMOVE_ERROR_HAS_FRIEND: '§e§lFriends §8:: §cError, this player is not your friend!'
+FRIEND_SUCCESS_REMOVE_FRIEND: '§e§lFriends §8:: §fPlayer %player% §fwas removed from your friend list'
+FRIENDS_DONT_HAVE_INVITES: '§e§lFriends §8:: §fAt the moment you have no actual friend requests!'
+FRIEND_LIST: "§e§lFriends §8:: §fList of your friends: §e(%count%)"
 FRIEND_LIST_NO_FRIENDS:
-  - "§cПростите, но список Ваших друзей пуст :("
-  - "§cПополните его, добавив их командой /friends add <player name>"
-FRIEND_LIST_REQUESTS: "§e§lFriends §8:: §fСписок актуальных запросов: §e(%count%)"
-FRIENDS_NEW_FRIEND: '§e§lFriends §8:: §fПоздравляем! Вы стали друзьями с игроком %player%'
-FRIENDS_YOU_REJECTED_REQUEST: '§e§lFriends §8:: §fВы отклонили запрос в друзья от игрока %player%'
-FRIENDS_REQUEST_REJECTED: '§e§lFriends §8:: §fИгрок %player% §fотклонил Ваш запрос в друзья'
-FRIENDS_ALREADY_FRIENDS: '§e§lFriends §8:: §cОшибка, Вы уже являетесь друзьями!'
-FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lFriends §8:: §cОшибка, данный игрок не отправлял Вам приглашение на дружбу!'
+  - "§cSorry, but your friends list is empty. :("
+  - "§cTop it up by adding them with the command /friends add <nickname>"
+FRIEND_LIST_REQUESTS: "§e§lFriends §8:: §fList of current requests: §e(%count%)"
+FRIENDS_NEW_FRIEND: '§e§lFriends §8:: §fCongratulations! You are now friends with %player%'
+FRIENDS_YOU_REJECTED_REQUEST: '§e§lFriends §8:: §fYou have rejected a friend request from %player%'
+FRIENDS_REQUEST_REJECTED: '§e§lFriends §8:: §fPlayer %player% §fhas rejected your friend request'
+FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lFriends §8:: §cError, this player did not send You a friend invitation!'
 
 # Party messages.
 PARTY_HELP:
@@ -562,6 +561,11 @@ PARTY_ADD_SUCCESS_MEMBER: '§e§lParty §8:: %player% §faccepted your applicati
 PARTY_SUCCESS_MEMBER: '§e§lParty §8:: %player% §foffers to become your PARTY'
 PARTY_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully submitted your application %player% §f, wait for his response'
 PARTY_ALERT: '§e§lParty §8:: %player% §fjoined to the party'
+
+# Core online messages.
+message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онлайн сервера - §e%online%'
+message-tynixcloud-online-prefix: '§6§lTynixCloud §8:: §fОбщий серверов по префиксу §e%prefix% - §e%online%'
+message-tynixcloud-online: '§6§lTynixCloud §8:: §fОнлайн сервера §e%prefix% - §e%online%'
 
 # SkyWars messages.
 SKYWARS_PLAYER_JOIN: '§6§lSkyWars §8:: {player} §fjoined the game §7({online}/{max})'
