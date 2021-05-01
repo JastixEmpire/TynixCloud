@@ -76,22 +76,6 @@ BUNGEE_ANNOUNCER_SECURITY_MESSAGE:
   - ''
 BUNGEE_ANNOUNCER_SECURITY_HOVER: '§cКликни, чтобы привязать аккаунт'
 
-BUNGEE_ANNOUNCER_VK_MESSAGE:
-  - ''
-  - '§a▪ §fВозникли какие-то §aпроблемы §fили §aвопросы?'
-  - '§e▪ §fОбратитесь в нашу техническую поддержку'
-  - '§6▪ §fДля этого перейдите в нашу группу ВК - §7(клик) §fи Вам §cобязательно помогут'
-  - ''
-BUNGEE_ANNOUNCER_VK_HOVER: '§cКликни, чтобы перейти в нашу группу ВК'
-
-BUNGEE_ANNOUNCER_DISCORD_MESSAGE:
-  - ''
-  - '§e▪ §fВступайте в наш §9Discord §fсервер - §7(клик)'
-  - '§6▪ §fТам §cВы §fсможете найти себе друзей'
-  - '§a▪ §eЖдем тебя в нашем §9дискорд §fсервере!'
-  - ''
-BUNGEE_ANNOUNCER_DISCORD_HOVER: '§9Кликни, чтобы вступить в дискорд сервер'
-
 # Whitelist message
 WHITELIST_KICK_MESSAGE:
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
@@ -173,12 +157,12 @@ MMORPG_BOARD_LINES:
   - '§a'
   - '§6§lwww.TynixCloud.ru'
 
-# Vanilla scoreboard.
-SURVIVAL_BOARD_TITLE:
+# Grief scoreboard.
+GRIEF_BOARD_TITLE:
   - '§8» §6§lTynixCloud'
   - '§8» §e§lTynixCloud'
   - '§8» §b§lTynixCloud'
-SURVIVAL_BOARD_LINES:
+GRIEF_BOARD_LINES:
   - '§1'
   - '§7Information:'
   - ' §fBalance: §a%balance%'
