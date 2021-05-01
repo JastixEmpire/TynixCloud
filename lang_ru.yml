@@ -47,6 +47,8 @@ EXT_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fпотушил
 FEED_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fнакормили себя!'
 FLY_MESSAGE: '§6§lTynixCloud §8:: §fРазрешение на полёт: %fly%'
 HEAL_MESSAGE: '§6§lTynixCloud §8:: §fВаше здоровье §aуспешно §fвосстановлено!'
+PING_YOURSELF_MESSAGE: '§6§lTynixCloud §8:: §fВаш пинг §a%ping% §fms'
+PING_OTHER_MESSAGE: '§6§lTynixCloud §8:: §fПинг игрока %player% §f- §a%ping% §fms'
 
 # Whitelist message
 WHITELIST_KICK_MESSAGE:
@@ -59,6 +61,19 @@ WHITELIST_KICK_MESSAGE:
   - '§9vk.com/tynixcloud'
   - '§4'
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+# Announcer message
+BUNGEE_ANNOUNCER_DONATE_MESSAGE:
+  - '§6▪ §fХочешь получить какую-то §9привилегию §f на сервере?'
+  - '§e▪ §fЗаходи в &d&nменю с донатом§f , и смотри §b§nуникальные&f возможности донатеров'
+  - '§c▪ §fКоманда для попадания в меню §9§o/donate'
+BUNGEE_ANNOUNCER_DONATE_HOVER: '§6Кликни, чтобы купить донат))'
+
+BUNGEE_ANNOUNCER_IP_COPY_MESSAGE:
+  - '§4▪ §fРасскажите о нашем сервере своим §cдрузьям'
+  - '§e▪ §fНаш IP: §6TynixCloud.ru'
+  - '§b▪ §fЭтим вы поможете развиваться §eсерверу §fнамного §bбыстрее'
+BUNGEE_ANNOUNCER_IP_COPY_HOVER: '§9Кликни, чтобы скопировать IP'
 
 # Survival
 HELP_SURVIVAL_BASE:
