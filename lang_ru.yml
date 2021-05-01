@@ -64,15 +64,19 @@ WHITELIST_KICK_MESSAGE:
 
 # Announcer message
 BUNGEE_ANNOUNCER_DONATE_MESSAGE:
+  - ''
   - '§6▪ §fХочешь получить какую-то §9привилегию §f на сервере?'
-  - '§e▪ §fЗаходи в &d&nменю с донатом§f , и смотри §b§nуникальные&f возможности донатеров'
+  - '§e▪ §fЗаходи в §d§nменю с донатом §f, и смотри §b§nуникальные §fвозможности донатеров'
   - '§c▪ §fКоманда для попадания в меню §9§o/donate'
+  - ''
 BUNGEE_ANNOUNCER_DONATE_HOVER: '§6Кликни, чтобы купить донат))'
 
 BUNGEE_ANNOUNCER_IP_COPY_MESSAGE:
+  - ''
   - '§4▪ §fРасскажите о нашем сервере своим §cдрузьям'
   - '§e▪ §fНаш IP: §6TynixCloud.ru'
   - '§b▪ §fЭтим вы поможете развиваться §eсерверу §fнамного §bбыстрее'
+  - ''
 BUNGEE_ANNOUNCER_IP_COPY_HOVER: '§9Кликни, чтобы скопировать IP'
 
 # Survival
