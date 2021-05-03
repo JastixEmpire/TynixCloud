@@ -205,16 +205,16 @@ SKYWARS_BOARD_TITLE:
 SKYWARS_BOARD_LINES:
   - '§7SkyWars %date%'
   - '§2'
-  - '&7Statistic:'
-  - ' §fSolo Kills: §b%solo_kills%'
-  - ' §fSolo Wins: §b%solo_wins%'
-  - ' §fDoubles Kills: §b%doubles_kills%'
-  - ' §fDoubles Wins: §b%doubles_wins%'
+  - '&7Статистика:'
+  - ' §fОдиночные убийства: §b%solo_kills%'
+  - ' §fОдиночные победы: §b%solo_wins%'
+  - ' §fКомандные убийства: §b%doubles_kills%'
+  - ' §fКомандные победы: §b%doubles_wins%'
   - '§9'
-  - '§fRating: §a%rating%'
+  - '§fРейтинг: §a%rating%'
   - '§0'
-  - '§fOnline: §a%online%'
-  - '§fServer: §7%server_name%'
+  - '§fОнлайн: §a%online%'
+  - '§fСервер: §7%server_name%'
   - '§7'
   - '§6§lwww.TynixCloud.ru'
 
@@ -417,16 +417,6 @@ DONATE_STATUS_LINE:
   - '§a↪ §fОборудование §a●●●§7●●●●●●●● §730%'
   - '§a↪ §fРазработка режимов §a●●§7●●●●●●●●● §720%'
   - ''
-DONATE_STATUS_WOOD_TITLE: '§fСтатус §e§lWOOD'
-DONATE_STATUS_WOOD_LORE:
-  - ''
-  - '§8§l· §fУникальные возможности'
-  - '§8§l· §fВозможность зайти на полный сервер'
-  - '§8§l· §fМножитель монет §cx1.2'
-  - ''
-  - ' §fЦена: §a§l100 §aрублей'
-  - ''
-  - '§e▸ Нажмите, чтобы узнать подробнее'
 DONATE_STATUS_GOLD_TITLE: '§fСтатус §6§lGOLD'
 DONATE_STATUS_GOLD_LORE:
   - ''
@@ -434,11 +424,21 @@ DONATE_STATUS_GOLD_LORE:
   - '§8§l· §fВозможность зайти на полный сервер'
   - '§8§l· §fМножитель монет §cx1.4'
   - ''
+  - ' §fЦена: §a§l100 §aрублей'
+  - ''
+  - '§e▸ Нажмите, чтобы узнать подробнее'
+DONATE_STATUS_KNIGHT_TITLE: '§fСтатус §e§lKNIGHT'
+DONATE_STATUS_KNIGHT_LORE:
+  - ''
+  - '§8§l· §fУникальные возможности'
+  - '§8§l· §fВозможность зайти на полный сервер'
+  - '§8§l· §fМножитель монет §cx1.2'
+  - ''
   - ' §fЦена: §a§l240 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_SUPREME_TITLE: '§fСтатус §9§lSUPREME §6§l§nBEST'
-DONATE_STATUS_SUPREME_LORE:
+DONATE_STATUS_LEGENDARY_TITLE: '§fСтатус §9§lLEGENDARY §6§l§nBEST'
+DONATE_STATUS_LEGENDARY_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
   - '§8§l· §fВозможность зайти на полный сервер'
@@ -467,8 +467,8 @@ DONATE_STATUS_RUBY_LORE:
   - ' §fЦена: §a§l950 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_AVENGER_TITLE: '§fСтатус §c§lAVENGER §c§l§nNEW'
-DONATE_STATUS_AVENGER_LORE:
+DONATE_STATUS_TYNIX_TITLE: '§fСтатус §c§lTYNIX §c§l§nNEW'
+DONATE_STATUS_TYNIX_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
   - '§8§l· §fВозможность зайти на полный сервер'
@@ -515,7 +515,7 @@ DONATE_MENU_JOINER_LINES:
   - '§7у которого при-входе на сервер'
   - '§7своё личное сообщение'
   - ''
-  - '§7Доступно от §e§lWOOD'
+  - '§7Доступно от §6§lGOLD'
   - ''
   - '§e▸ Нажмите чтобы настроить сообщение'
 
@@ -530,12 +530,12 @@ JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: §fВы приобрели §eСоо
 # Status messages.
 STATUS_MENU_TITLE: 'Профиль ▸ Донат'
 
-DONATE_WOOD_TITLE: 'Донат ▸ WOOD'
 DONATE_GOLD_TITLE: 'Донат ▸ GOLD'
-DONATE_SUPREME_TITLE: 'Донат ▸ SUPREME'
+DONATE_KNIGHT_TITLE: 'Донат ▸ KNIGHT'
+DONATE_LEGENDARY_TITLE: 'Донат ▸ LEGENDARY'
 DONATE_QUANTUM_TITLE: 'Донат ▸ QUANTUM'
 DONATE_RUBY_TITLE: 'Донат ▸ RUBY'
-DONATE_AVENGER_TITLE: 'Донат ▸ AVENGER'
+DONATE_TYNIX_TITLE: 'Донат ▸ TYNIX'
 
 DONATE_BUY_MESSAGE:
   - '§e'
