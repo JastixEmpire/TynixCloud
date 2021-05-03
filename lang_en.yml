@@ -335,15 +335,17 @@ PROFILE_MENU_STATISTIC_LINES:
   - '§7собрана со всех наших режимов'
   - ''
   - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_SOCIAL_TITLE: '§bSocial network §8§k§l|'
-PROFILE_MENU_SOCIAL_LINES:
-  - '§8Вы можете найти нас тут :)'
+PROFILE_MENU_HELP_TITLE: '§bПомощь по серверу §8§k§l|'
+PROFILE_MENU_HELP_LINES:
+  - '§8Здесь вы сможете узнать:'
   - ''
-  - '§fСсылки на наши группы, сайты,'
+  - '§fВсю нужную информацию включающую в себя:'
+  - '§fПомощь по командам сервера,'
+  - '§fссылки на наши группы, сайты,'
   - '§fфорумы и много чего другого'
   - '§fчтобы связаться с нами'
   - ''
-  - '§e▶ Click to open.'
+  - '§e▶ Нажмите чтобы открыть.'
 PROFILE_MENU_LEVEL_TITLE: '§bLevels §8§k§l|'
 PROFILE_MENU_LEVEL_LINES:
   - ''
