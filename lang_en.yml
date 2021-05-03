@@ -382,7 +382,7 @@ HELP_MENU_NAVIGATION_LINES:
   - '§6/online §f- Общий онлайн проекта'
   - '§6/money §f- Ваш баланс'
   - ''
-  - '§e▶ Нажмите, чтобы выполнения.'
+  - '§e▶ Нажмите, чтобы узнать подробнее.'
 HELP_MENU_SOCIAL_TITLE: '§bСсылки'
 HELP_MENU_SOCIAL_LINES:
   - '§7Адресс сервера: §6mc.tynixcloud.ru'
@@ -393,7 +393,7 @@ HELP_MENU_SOCIAL_LINES:
   - ''
   - '§7Почта сервера: §dsupport@tynixcloud.ru'
   - ''
-  - '§e▶ Нажмите, чтобы выполнения.'
+  - '§e▶ Нажмите, чтобы узнать подробнее.'
 
 #SOCIAL_MENU_TITLE: 'Profile ▸ Links'
 #SOCIAL_MENU_DISCORD_TITLE: '§9Discord'
