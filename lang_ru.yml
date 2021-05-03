@@ -382,7 +382,8 @@ HELP_MENU_NAVIGATION_LINES:
   - '§7Полезные команды для игры на сервере:'
   - ''
   - '§6/menu §7- Главное меню'
-  - '§6/online §- Общий онлайн проекта'
+  - '§6/online §7- Общий онлайн проекта'
+  - '§6/money §f- Ваш баланс'
   - ''
   - '§e▶ Нажмите, чтобы выполнения.'
 HELP_MENU_SOCIAL_TITLE: '§bСсылки'
@@ -393,7 +394,7 @@ HELP_MENU_SOCIAL_LINES:
   - '§7ВКонтакте сервера: §bvk.com/TynixCloud'
   - '§7Сайт сервера: §6www.TynixCloud.ru'
   - ''
-  - 'Почта сервера: §dsupport@tynixcloud.ru'
+  - '§7Почта сервера: §dsupport@tynixcloud.ru'
   - ''
   - '§e▶ Нажмите, чтобы выполнения.'
 
