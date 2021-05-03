@@ -373,28 +373,49 @@ PROFILE_MENU_GADGET_LINES:
   - ''
   - '§e▶ Click to open the gadgets menu.'
 
-SOCIAL_MENU_TITLE: 'Profile ▸ Links'
-SOCIAL_MENU_DISCORD_TITLE: '§9Discord'
-SOCIAL_MENU_DISCORD_LINES:
+HELP_MENU_TITLE: 'Профиль ▸ Помощь'
+HELP_MENU_NAVIGATION_TITLE: '§bНавигация'
+HELP_MENU_NAVIGATION_LINES:
+  - '§7Полезные команды для игры на сервере:'
   - ''
-  - '§fLink to our §9discord§f:'
-  - ' §8◉ §9discord.io/TynixCloud'
+  - '§6/menu §7- Главное меню'
+  - '§6/online §- Общий онлайн проекта'
   - ''
-  - '§e▶ Click to get link.'
-SOCIAL_MENU_SITE_TITLE: '§6Site'
-SOCIAL_MENU_SITE_LINES:
+  - '§e▶ Нажмите, чтобы выполнения.'
+HELP_MENU_SOCIAL_TITLE: '§bСсылки'
+HELP_MENU_SOCIAL_LINES:
+  - '§7Адресс сервера: §6mc.tynixcloud.ru'
   - ''
-  - '§fLink to our §6site§f:'
-  - ' §8◉ §6www.TynixCloud.ru'
+  - '§7Дискорд сервера: §9discord.io/TynixCloud'
+  - '§7ВКонтакте сервера: §bvk.com/TynixCloud'
+  - '§7Сайт сервера: §6www.TynixCloud.ru'
   - ''
-  - '§e▶ Click to get link.'
-SOCIAL_MENU_VK_TITLE: '§bVKontakte'
-SOCIAL_MENU_VK_LINES:
+  - 'Почта сервера: §dsupport@tynixcloud.ru'
   - ''
-  - '§fLink to our §bvkontakte§f:'
-  - ' §8◉ §bvk.com/TynixCloud'
-  - ''
-  - '§e▶ Click to get link.'
+  - '§e▶ Нажмите, чтобы выполнения.'
+
+#SOCIAL_MENU_TITLE: 'Profile ▸ Links'
+#SOCIAL_MENU_DISCORD_TITLE: '§9Discord'
+#SOCIAL_MENU_DISCORD_LINES:
+#  - ''
+#  - '§fLink to our §9discord§f:'
+#  - ' §8◉ §9discord.io/TynixCloud'
+#  - ''
+#  - '§e▶ Click to get link.'
+#SOCIAL_MENU_SITE_TITLE: '§6Site'
+#SOCIAL_MENU_SITE_LINES:
+#  - ''
+#  - '§fLink to our §6site§f:'
+#  - ' §8◉ §6www.TynixCloud.ru'
+#  - ''
+#  - '§e▶ Click to get link.'
+#SOCIAL_MENU_VK_TITLE: '§bVKontakte'
+#SOCIAL_MENU_VK_LINES:
+#  - ''
+#  - '§fLink to our §bvkontakte§f:'
+#  - ' §8◉ §bvk.com/TynixCloud'
+#  - ''
+#  - '§e▶ Click to get link.'
 
 BACK_TITLE: '§cBack'
 BACK_LINES:
@@ -489,9 +510,9 @@ DONATE_STATUS_YOUTUBE_LORE:
   - '§6www.TynixCloud.ru, mc.tynixcloud.ru'
 
 # Links.
-DISCORD_MESSAGE: '§8◦ §fDiscord §8▸ §9https://discord.io/TynixCloud'
-SITE_MESSAGE: '§8◦ §fSite §8▸ §6http://TynixCloud.ru'
-VK_MESSAGE: '§8◦ §fVKontakte §8▸ §bhttps://vk.com/TynixCloud'
+#DISCORD_MESSAGE: '§8◦ §fDiscord §8▸ §9https://discord.io/TynixCloud'
+#SITE_MESSAGE: '§8◦ §fSite §8▸ §6http://TynixCloud.ru'
+#VK_MESSAGE: '§8◦ §fVKontakte §8▸ §bhttps://vk.com/TynixCloud'
 
 # DonateMenu Inventory
 DONATE_MENU_TITLE: 'Donate Menu'
