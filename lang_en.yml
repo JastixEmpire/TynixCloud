@@ -627,7 +627,7 @@ FRIEND_HELP:
   - ' §7Decline friend request from player - §e/friends deny <player name>'
   - ' §7Friend list - §e/friends list'
   - ' §7Friend request list - §e/friends requests'
-  - ' §7Teleport to your friend server §e/friends tp <player name>'
+  - ' §7Teleport to your friend server - §e/friends tp <player name>'
 FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lFriends §8:: §fThis player has already invited you as a friend'
 FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lFriends §8:: §cError, You have already sent friend request to that player...'
 FRIEND_ADD_ERROR_IS_FRIEND: '§e§lFriends §8:: §cError, You are already friends with that player!'
