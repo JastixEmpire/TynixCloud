@@ -618,6 +618,7 @@ FRIENDS_ADD_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/f add <player name>'
 FRIENDS_REMOVE_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/f remove <player name>'
 FRIENDS_ACCEPT_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/f accept <player name>'
 FRIENDS_DENY_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/f deny <player name>'
+FRIENDS_TP_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/f tp <player name>'
 FRIEND_HELP:
   - '§e§lFriends §8:: §fПомощь по командам:'
   - ' §7Add player to friends list - §e/friends add <player name>'
