@@ -628,6 +628,7 @@ FRIEND_HELP:
   - ' §7Отклонить запрос в друзья - §e/friends deny <ник>'
   - ' §7Посмотреть список своих друзей - §e/friends list'
   - ' §7Посмотреть список запросов в друзья - §e/friends requests'
+  - ' §7Телепортация на сервер друга §e/friends tp <player name>'
 FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lДрузья §8:: §fДанный игрок уже приглашал Вас в друзья'
 FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lДрузья §8:: §cОшибка, Вы уже отправляли запрос в друзья данному игроку...'
 FRIEND_ADD_ERROR_IS_FRIEND: '§e§lДрузья §8:: §cОшибка, Вы уже являетесь друзьями!'
