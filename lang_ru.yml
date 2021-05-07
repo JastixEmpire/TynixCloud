@@ -655,6 +655,18 @@ PARTY_HELP:
   - ' §7Удалить игрока из группы - §e/party remove <ник игрока>'
   - ' §7Список игроков в группе - §e/party list'
   - ' §7Список приглашений в группу - §e/party requests'
+PARTY_ADD_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/party invite <ник игрока>'
+PARTY_REMOVE_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/party remove <ник игрока>'
+
+PARTY_ADD_DUPLICATE: '§e§lParty §8:: §cError, you can t add yourself as a PARTY!'
+PARTY_ADD_IS_PARTY: '§e§lParty §8:: §cError, this player is already your PARTY!'
+PARTY_ADD_HAS_REQUEST: '§e§lParty §8:: §cError, you have already submitted a request to add this player as a party!'
+PARTY_ADD_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully accepted a party request from %player%'
+PARTY_ADD_SUCCESS_MEMBER: '§e§lParty §8:: %player% §faccepted your application as a PARTY!'
+PARTY_SUCCESS_MEMBER: '§e§lParty §8:: %player% §foffers to become your PARTY!'
+PARTY_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully submitted your application %player% §f, wait for his response!!!'
+PARTY_ALERT: '§e§lParty §8:: %player% §fприсоединился к группе'
+
 PARTY_MENU_LIST_TITLE: 'Party list'
 PARTY_MENU_LIST_ONLINE_INFO:
   - ''
@@ -666,15 +678,6 @@ PARTY_MENU_LIST_ONLINE_INFO:
   - '§fСервер: §c%server%'
   - ''
   - '§cClick to remove a party'
-PARTY_ADD_USAGE: '§6§lTynixCloud §8:: §fИспользуйте - §6/party invite <ник игрока>'
-PARTY_ADD_ERROR_DUPLICATE: '§e§lParty §8:: §cError, you can t add yourself as a PARTY!'
-PARTY_ADD_ERROR_IS_PARTY: '§e§lParty §8:: §cError, this player is already your PARTY!'
-PARTY_ADD_ERROR_HAS_REQUEST: '§e§lParty §8:: §cError, you have already submitted a request to add this player as a party!'
-PARTY_ADD_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully accepted a party request from %player%'
-PARTY_ADD_SUCCESS_MEMBER: '§e§lParty §8:: %player% §faccepted your application as a PARTY!'
-PARTY_SUCCESS_MEMBER: '§e§lParty §8:: %player% §foffers to become your PARTY!'
-PARTY_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully submitted your application %player% §f, wait for his response!!!'
-PARTY_ALERT: '§e§lParty §8:: %player% §fприсоединился к группе'
 
 # Core online messages.
 message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онлайн сервера - §e%online%'
