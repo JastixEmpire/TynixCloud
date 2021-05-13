@@ -139,7 +139,7 @@ BUNGEE_ANNOUNCER_QUANTUM_1_MESSAGE:
 BUNGEE_ANNOUNCER_QUANTUM_1_HOVER: '§fНажми сюда, чтобы перейти сайт'
 BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
   - ''
-  - '§e▪ §fПривилегия §a§lQUANTUM §дает большое'
+  - '§e▪ §fПривилегия §a§lQUANTUM §fдает большое'
   - '§2▪ §fколичество §bбонусов§f и §eвозможностей§f за умеренную цену.'
   - '§9▪ §fЗаинтересовало? Покупай на сайте §6www.tynixcloud.ru'
   - ''
