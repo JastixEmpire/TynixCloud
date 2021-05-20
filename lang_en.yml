@@ -21,12 +21,12 @@ PASSWORD_NOT_VALID: '§6§lTynixCloud §8:: §cError, This password is too short
 PASSWORD_NOT_MATCH: '§6§lTynixCloud §8:: §cError, these passwords do not match!'
 ACCOUNT_NOT_LINKED_VK:
   - ''
-  - '§c§l⚠ Attention! §FYou do not have a §bVKontakte page linked to your account.'
+  - '§c§l⚠ Attention! §fYou do not have a §bVKontakte page linked to your account.'
   - 'By doing this, you will be able to manage your account.'
   - 'If you get hacked, you can easily restore your account!'
   - 'Do it now by writing in group messages: §evk.com/TynixCloud'
   - 'Command - §6!привязать [player] [password]'
-PLAYER_SUCCESS_AUTH: '§6Authorization §8| §f6You successfully registered!'
+PLAYER_SUCCESS_AUTH: '§6§lTynixCloud §8:: §f6You successfully registered!'
 NO_VK: '§8▪ §fVK - §cNot linked'
 VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
 RULES: '§6§lTynixCloud §8:: §fFull list of server rules: §dhttps://vk.com/topic-196564626_46728627'
@@ -204,7 +204,7 @@ TELEPORT_MESSAGE:
   - '§6* §fТелепортировать одного игрока к другому - §e/teleport <player> <player>'
   - '§6* §fТелепортация по координатам - §e/teleport <x> <y> <z>'
   - '§6* §fТелепортация игрока по координатам - §e/teleport <player> <x> <y> <z>'
-TELEPORT_SUCCESS_TELEPORT: '§6TynixCloud §8| §fВы были §aуспешно §fтелепортированы к игроку %player%'
+TELEPORT_SUCCESS_TELEPORT: '§6§lTynixCloud §8:: §fВы были §aуспешно §fтелепортированы к игроку %player%'
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:

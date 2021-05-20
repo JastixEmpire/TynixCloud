@@ -749,12 +749,12 @@ PARTY_MENU_LIST_ONLINE_INFO:
   - ''
   - '§fОнлайн: §a%online%'
   - ''
-  - '§fVK: §c%vk%'
-  - '§fLanguage: §c%language%'
+  - '§fВКонтакте: §c%vk%'
+  - '§fЯзык: §c%language%'
   - ''
   - '§fСервер: §c%server%'
   - ''
-  - '§cClick to remove a party'
+  - '§cКлик чтобы удалить из группы'
 
 # Core online messages.
 message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онлайн сервера - §e%online%'
