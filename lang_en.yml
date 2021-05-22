@@ -200,31 +200,23 @@ PLAY_STATS_MESSAGE:
   - ' [Classifications]:'
 TELEPORT_MESSAGE:
   - '§6§lTynixCloud §8:: §fСписок доступных команд:'
-  - '§6* §fТелепортироваться к игроку - §e/teleport <player>'
-  - '§6* §fТелепортировать одного игрока к другому - §e/teleport <player> <player>'
-  - '§6* §fТелепортация по координатам - §e/teleport <x> <y> <z>'
-  - '§6* §fТелепортация игрока по координатам - §e/teleport <player> <x> <y> <z>'
+  - ' §7Телепортироваться к игроку - §e/teleport <player>'
+  - ' §7Телепортировать одного игрока к другому - §e/teleport <player> <player>'
+  - ' §7Телепортация по координатам - §e/teleport <x> <y> <z>'
+  - ' §7Телепортация игрока по координатам - §e/teleport <player> <x> <y> <z>'
 TELEPORT_SUCCESS_TELEPORT: '§6§lTynixCloud §8:: §fВы были §aуспешно §fтелепортированы к игроку %player%'
 
 # Level
-LVL_UP_TITLE: '§a§l§kX§r §c§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
+LVL_UP_TITLE: '§a§l§kX§c§l LEVEL UP §a§l§kX§r'
+LVL_UP_SUBTITLE: '§7Level upgraded from §b%old_level% §fto §d%new_level%'
+
 LVL_UP_MESSAGE:
   - ''
-  - '  §8&k|§r §a§lНОВЫЙ УРОВЕНЬ §8§k|'
   - ''
-  - '  §fВаш уровень: §e%level%'
-  - '  §fСледующий уровень: §e%next_level%'
-  - '  §fПрогресс: %progress% §b%percent%%'
+  - '  §8&k|§6§l LEVEL UP §8§k|'
+  - '   §a▸ §fYou have upgraded your level from §b%old_level% §fto §d%new_level%'
+  - '   §a▸ §fTo next level required §e%total_exp% &fexperience'
   - ''
-  - '  §fОпыт: §e%xp%'
-  - '  §fОпыта до следующего уровня: §e%xprequired%'
-  - ''
-MAX_LVL_MESSAGE:
-  - ''
-  - '  §8§k|§r §a§lДОСТИГНУТ МАКСИМАЛЬНЫЙ УРОВЕНЬ §8§k|'
-  - ''
-  - '  §fВаш уровень: §e%level%'
-  - '  §fОпыт: §e%xp%'
   - ''
 
 # Hub scoreboard.
