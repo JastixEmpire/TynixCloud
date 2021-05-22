@@ -208,6 +208,27 @@ TELEPORT_MESSAGE:
 
 TELEPORT_SUCCESS_TELEPORT: '§6§lTynixCloud §8:: §fВы были §aуспешно §fтелепортированы к игроку %player%'
 
+# Level
+LVL_UP_TITLE: '§a§l§kX§r §c§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
+LVL_UP_MESSAGE:
+  - ''
+  - '  §8&k|§r §a§lНОВЫЙ УРОВЕНЬ §8§k|'
+  - ''
+  - '  §fВаш уровень: §e%level%'
+  - '  §fСледующий уровень: §e%next_level%'
+  - '  §fПрогресс: %progress% §b%percent%%'
+  - ''
+  - '  §fОпыт: §e%xp%'
+  - '  §fОпыта до следующего уровня: §e%xprequired%'
+  - ''
+MAX_LVL_MESSAGE:
+  - ''
+  - '  §8§k|§r §a§lДОСТИГНУТ МАКСИМАЛЬНЫЙ УРОВЕНЬ §8§k|'
+  - ''
+  - '  §fВаш уровень: §e%level%'
+  - '  §fОпыт: §e%xp%'
+  - ''
+
 # Hub scoreboard.
 HUB_BOARD_TITLE:
   - '§8» §6§lTynixCloud'
