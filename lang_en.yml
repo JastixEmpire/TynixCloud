@@ -213,7 +213,7 @@ LVL_UP_SUBTITLE: '§7Level upgraded from §b%old_level% §fto §d%new_level%'
 LVL_UP_MESSAGE:
   - ''
   - ''
-  - '  §8&k|§6§l LEVEL UP §8§k|'
+  - '             §b§kXXX§6§l NEW LEVEL §b§kXXX'
   - '   §a▸ §fYou have upgraded your level from §b%old_level% §fto §d%new_level%'
   - '   §a▸ §fTo next level required §e%total_exp% &fexperience'
   - ''
