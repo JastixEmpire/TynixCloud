@@ -215,7 +215,7 @@ LVL_UP_SUBTITLE: '§7Вы повысили свой уровень с §b%old_le
 LVL_UP_MESSAGE:
   - ''
   - ''
-  - '             §b§kXXX§6§l НОВЫЙ УРОВЕНЬ §b§kXXX'
+  - '             §b§kX§6§l НОВЫЙ УРОВЕНЬ §b§kX'
   - '   §a▸ §fВы повысили свой уровень с §b%old_level% §fдо §d%new_level%'
   - '   §a▸ §fДо следущего уровня необходимо §e%total_exp% &fопыта'
   - ''
