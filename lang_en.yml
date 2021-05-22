@@ -208,13 +208,13 @@ TELEPORT_SUCCESS_TELEPORT: '§6§lTynixCloud §8:: §fВы были §aуспе�
 
 # Level
 LVL_UP_TITLE: '§a§l§kX§c§l LEVEL UP §a§l§kX§r'
-LVL_UP_SUBTITLE: '§fLevel upgraded from §b%old_level% §fto §d%new_level%'
+LVL_UP_SUBTITLE: '§fYou have reached §b%new_level% §flevel'
 
 LVL_UP_MESSAGE:
   - ''
   - ''
   - '            §b§kX§6§l NEW LEVEL §b§kX'
-  - '  §a▸ §fYou have upgraded your level from §b%old_level% §fto §d%new_level%'
+  - '  §a▸ §fYou have reached §b%new_level% §flevel'
   - '  §a▸ §fTo next level required §e%total_exp% §fexperience'
   - ''
   - ''
