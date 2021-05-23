@@ -240,9 +240,6 @@ STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fYour &7%stream_title% &fstream has
 HUB_BOARD_TITLE:
   - '  §6§lTynixCloud §8» §eHub'
   - '  §6§lTynixCloud §8 §eHub'
-  - '  §6§lTynixCloud §8» §eHub'
-  - '  §6§lTynixCloud §8 §eHub'
-  - '  §6§lTynixCloud §8» §eHub'
 HUB_BOARD_LINES:
   - '§1'
   - ' §e§lProfile:'
