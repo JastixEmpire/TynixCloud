@@ -222,10 +222,19 @@ LVL_UP_MESSAGE:
 # Streams
 STREAM_NEW_ANNOUNCE:
   - ''
-  - '§c§lВНИМАНИЕ! §fНа сервере идет стрим с §a%count% §fзрителями'
-  - '§fТрансляция проходит на платформе %platform%§f, стример - %streamer%'
+  - '§c§lATTENTION! §f%streamer% started streaming live with §a%viewers% §fviewers:'
+  - '&e%stream_title%'
+  - '§fthe broadcast takes place on the platform %platform%§f'
   - ''
-  - ' §8§l↪ §7(Перейти на трансляцию) §8§l↩'
+  - ' §8§l↪ §7(Go to stream link) §8§l↩'
+
+STREAMS_ANNOUNCE:
+  - ''
+  - '§c§lATTENTION! §fthe server is now running &b%count% &flive streams!'
+  - ' §8§l↪ §7(Open the list of streams) §8§l↩'
+  - ''
+
+STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fYour &7%stream_title% &fstream has been deleted because it`s no longer actual'
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:

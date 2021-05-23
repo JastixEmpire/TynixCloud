@@ -224,10 +224,19 @@ LVL_UP_MESSAGE:
 # Streams
 STREAM_NEW_ANNOUNCE:
   - ''
-  - '§c§lВНИМАНИЕ! §fНа сервере идет стрим с §a%count% §fзрителями'
-  - '§fТрансляция проходит на платформе %platform%§f, стример - %streamer%'
+  - '§c§lВНИМАНИЕ! §f%streamer% начал трансляцию с §a%viewers% §fзрителями:'
+  - '&e%stream_title%'
+  - '§fТрансляция проходит на платформе %platform%§f'
   - ''
   - ' §8§l↪ §7(Перейти на трансляцию) §8§l↩'
+
+STREAMS_ANNOUNCE:
+  - ''
+  - '§c§lВНИМАНИЕ! §fНа сервере сейчас идет &b%count% &fпрямых трансляций!'
+  - ' §8§l↪ §7(Открыть список трансляций) §8§l↩'
+  - ''
+
+STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fВаш стрим &7%stream_title% &fбыл удален, так как он больше не актуален!'
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
