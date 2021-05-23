@@ -41,8 +41,6 @@ SEND_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/send <ник>
 CRASH_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/crash <ник>'
 FIND_MESSAGE: '§6§lTynixCloud §8:: %player% §fнаходится на сервере §e%server%'
 MONEY_MESSAGE: '§6§lTynixCloud §8:: §fВаш баланс: §e%money% §fи §6%golds%'
-RANDOM_MESSAGE: '§6§lTynixCloud §8:: §fРандомный человек - %player%'
-AUTO_FLY_MESSAGE: '§6§lTynixCloud §8:: §fДля Вас включён автоматический Fly!'
 EXT_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fпотушили себя!'
 FEED_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fнакормили себя!'
 FLY_MESSAGE: '§6§lTynixCloud §8:: §fРазрешение на полёт: %fly%'
