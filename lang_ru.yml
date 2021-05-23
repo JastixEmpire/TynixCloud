@@ -221,6 +221,14 @@ LVL_UP_MESSAGE:
   - ''
   - ''
 
+# Streams
+STREAM_NEW_ANNOUNCE:
+  - ''
+  - '§c§lВНИМАНИЕ! §fНа сервере идет стрим с §a%count% §fзрителями'
+  - '§fТрансляция проходит на платформе %platform%§f, стример - %streamer%'
+  - ''
+  - ' §8§l↪ §7(Перейти на трансляцию) §8§l↩'
+
 # Hub scoreboard.
 HUB_BOARD_TITLE:
   - '§8» §6§lTynixCloud'
