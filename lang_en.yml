@@ -230,7 +230,7 @@ STREAM_NEW_ANNOUNCE:
 
 STREAMS_ANNOUNCE:
   - ''
-  - '§c§lATTENTION! §fthe server is now running &b%count% &flive streams!'
+  - '§c§lATTENTION! §fthe server is now running §b%count% &flive streams!'
   - ' §8§l↪ §7(Open the list of streams) §8§l↩'
   - ''
 
