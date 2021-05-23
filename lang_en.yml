@@ -231,22 +231,22 @@ STREAM_NEW_ANNOUNCE:
 STREAMS_ANNOUNCE:
   - ''
   - '§c§lATTENTION! §fthe server is now running §b%count% &flive streams!'
-  - ' §8§l↪ §7(Open the list of streams) §8§l↩'
   - ''
+  - ' §8§l↪ §7(Open the list of streams) §8§l↩'
 
 STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fYour &7%stream_title% &fstream has been deleted because it`s no longer actual'
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '  §6§lTynixCloud §8» §eХаб'
+  - '  §e§lTynixCloud §8» §eХаб'
+  - '  §b§lTynixCloud §8» §eХаб'
 HUB_BOARD_LINES:
   - '§1'
-  - '§7Information:'
+  - '§eProfile:'
   - ' §fStatus: %status%'
-  - ' §fBalance: §a%balance%'
-  - ' §fGolds: §a%golds%'
+  - ' §fBalance: §b%balance%'
+  - ' §fGolds: §e%golds%'
   - ' §fLevel: §d%level%'
   - ' §fEXP: §a%level_exp%§8/§c%level_max_exp%'
   - '§e'
@@ -256,7 +256,7 @@ HUB_BOARD_LINES:
   - ' §fOnline: §a%online%'
   - ' §fServer: §7%server_name%'
   - '§a'
-  - '§6§lwww.TynixCloud.ru'
+  - '   §6§lwww.TynixCloud.ru'
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
