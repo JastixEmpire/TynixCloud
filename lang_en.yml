@@ -47,6 +47,15 @@ HEAL_MESSAGE: '§6§lTynixCloud §8:: §fYour health §asuccess §frecovered!'
 PING_YOURSELF_MESSAGE: '§6§lTynixCloud §8:: §fYour ping is §a%ping% §fms'
 PING_OTHER_MESSAGE: '§6§lTynixCloud §8:: §fПинг игрока %player% §f- §a%ping% §fms'
 
+# Welcome messages
+WELCOME_MESSAGE:
+  - ''
+  - '  §8§k§l| §fДобро пожаловать на §6§lTynixCloud  §8§k§l|'
+  - ''
+  - ' §8▪ §fЗдесь вы можете §aхорошо §fпровести своё время.'
+  - ' §8▪ §fВещи в инвентаре помогут вам разобраться!'
+  - ''
+
 # Announcer message
 BUNGEE_ANNOUNCER_DONATE_MESSAGE:
   - ''
