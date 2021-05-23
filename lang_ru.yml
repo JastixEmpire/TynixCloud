@@ -240,25 +240,27 @@ STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fВаш стрим &7%stream_title%
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '  §6§lTynixCloud §8» §eХаб'
+  - '  §6§lTynixCloud §8 §eХаб'
+  - '  §6§lTynixCloud §8» §eХаб'
+  - '  §6§lTynixCloud §8 §eХаб'
+  - '  §6§lTynixCloud §8» §eХаб'
 HUB_BOARD_LINES:
   - '§1'
-  - '§7Информация:'
-  - ' §fСтатус: %status%'
-  - ' §fБаланс: §a%balance%'
-  - ' §fЗолота: §a%golds%'
-  - ' §fУровень: §d%level%'
-  - ' §fEXP: §a%level_exp%§8/§c%level_max_exp%'
+  - ' §e§lПрофиль:'
+  - '  §fСтатус: %status%'
+  - '  §fБаланс: §a%balance%'
+  - '  §fЗолота: §e%golds%'
+  - '  §fУровень: §d%level%'
+  - '  §fEXP: §a%level_exp%§8/§c%level_max_exp%'
   - '§e'
-  - '§fПрогресс уровня: §a%level_exp_percent%'
-  - ' §a↪ %level_bar%'
+  - ' §fПрогресс уровня: §a%level_exp_percent%'
+  - '  §a↪ %level_bar%'
   - '§6'
   - ' §fОнлайн: §a%online%'
   - ' §fСервер: §7%server_name%'
   - '§a'
-  - '§6§lwww.TynixCloud.ru'
+  - '   §6§lwww.TynixCloud.ru'
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
