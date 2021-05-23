@@ -48,6 +48,15 @@ HEAL_MESSAGE: '§6§lTynixCloud §8:: §fВаше здоровье §aуспеш
 PING_YOURSELF_MESSAGE: '§6§lTynixCloud §8:: §fВаш пинг §a%ping% §fms'
 PING_OTHER_MESSAGE: '§6§lTynixCloud §8:: §fПинг игрока %player% §f- §a%ping% §fms'
 
+# Welcome messages
+WELCOME_MESSAGE:
+  - ''
+  - '§8§k§l|   §r§fДобро пожаловать на §6§lTynixCloud  §8§k§l|'
+  - ''
+  - ' §8▪ §fЗдесь вы можете §aхорошо §fпровести своё время.'
+  - ' §8▪ §fВещи в инвентаре помогут вам разобраться!'
+  - ''
+
 # Announcer message
 BUNGEE_ANNOUNCER_DONATE_MESSAGE:
   - ''
@@ -239,7 +248,8 @@ STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fВаш стрим &7%stream_title%
 # Hub scoreboard.
 HUB_BOARD_TITLE:
   - '  §6§lTynixCloud §8» §eХаб'
-  - '  §6§lTynixCloud §8 §eХаб'
+  - '  §6§lTynixCloud §8» §eХаб'
+  - '  §6§lTynixCloud §8» §eХаб'
 HUB_BOARD_LINES:
   - '§1'
   - ' §e§lПрофиль:'
