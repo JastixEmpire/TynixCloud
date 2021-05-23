@@ -223,7 +223,7 @@ LVL_UP_MESSAGE:
 STREAM_NEW_ANNOUNCE:
   - ''
   - '§c§lATTENTION! §f%streamer% started streaming live with §a%viewers% §fviewers:'
-  - '&e%stream_title%'
+  - '§e%stream_title%'
   - '§fthe broadcast takes place on the platform %platform%§f'
   - ''
   - ' §8§l↪ §7(Go to stream link) §8§l↩'
