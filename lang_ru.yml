@@ -401,10 +401,10 @@ PROFILE_MENU_BASE_LINES:
   - '§8▪ §fЗолота: §6%golds%'
   - '§8▪ §fУровень: §d%level% %level_progress% §6%level_percent%%'
   - ''
-  - '§8▪ §fЯзык: §f%language%'
+  - '§8▪ §fЯзык: §7%language%'
   - ''
-  - '§8▪ §fТекущий сервер: §f%server%'
-  - '§8▪ §fИгровая версия: §f%version%'
+  - '§8▪ §fТекущий сервер: §a%server%'
+  - '§8▪ §fИгровая версия: §d%version%'
 PROFILE_MENU_DONATE_TITLE: '§bПривилегии §8§k§l|'
 PROFILE_MENU_DONATE_LINES:
   - '§8Список донат привилегий'

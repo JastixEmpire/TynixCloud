@@ -398,10 +398,10 @@ PROFILE_MENU_BASE_LINES:
   - '§8▪ §fGolds: §6%golds%'
   - '§8▪ §fLevel: §d%level% %level_progress% §6%level_percent%%'
   - ''
-  - '§8▪ §fLanguage: §f%language%'
+  - '§8▪ §fLanguage: §7%language%'
   - ''
-  - '§8▪ §fCurrent server: §f%server%'
-  - '§8▪ §fGame version: §f%version%'
+  - '§8▪ §fCurrent server: §a%server%'
+  - '§8▪ §fGame version: §d%version%'
 PROFILE_MENU_DONATE_TITLE: '§bDonate §8§k§l|'
 PROFILE_MENU_DONATE_LINES:
   - '§8Список донат привилегий'
