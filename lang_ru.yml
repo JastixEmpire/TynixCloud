@@ -399,7 +399,7 @@ PROFILE_MENU_BASE_LINES:
   - ''
   - '§8▪ §fМонет: §a%balance%'
   - '§8▪ §fЗолота: §6%golds%'
-  - '§8▪ §fУровень: §d%level% %level_progress% §6%level_percent%%'
+  - '§8▪ §fУровень: §d%level% §6%level_percent%%'
   - ''
   - '§8▪ §fЯзык: §7%language%'
   - ''
