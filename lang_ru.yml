@@ -189,14 +189,6 @@ WHITELIST_KICK_MESSAGE:
   - '§4'
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
-# Survival
-HELP_SURVIVAL_BASE:
-  - 'Помощь по выживанию от §6TynixCloud§f:'
-  - ' [Основные команды]:'
-  - '  - Телепортироваться домой - §e/home'
-  - '  - Установить точку дома - §e/sethome'
-  - '  - Удалить точку дома - §e/removehome'
-  - ''
 PLAY_STATS_MESSAGE:
   - '§fСтатистика игрока: %player%'
   - ' §f[Статистика режима]:'
@@ -212,7 +204,6 @@ TELEPORT_MESSAGE:
   - ' §7Телепортировать одного игрока к другому - §e/teleport <игрок> <игрок>'
   - ' §7Телепортация по координатам - §e/teleport <x> <y> <z>'
   - ' §7Телепортация игрока по координатам - §e/teleport <ник игрока> <x> <y> <z>'
-
 TELEPORT_SUCCESS_TELEPORT: '§6§lTynixCloud §8:: §fВы были §aуспешно §fтелепортированы к игроку %player%'
 
 # Level
@@ -269,9 +260,9 @@ HUB_BOARD_LINES:
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '  §6§lTynixCloud §8» §eМморпг'
+  - '  §6§lTynixCloud §8» §eМморпг'
+  - '  §6§lTynixCloud §8» §eМморпг'
 MMORPG_BOARD_LINES:
   - '§1'
   - '§7Информация:'
@@ -699,10 +690,10 @@ DONATE_MENU_JOINER_LINES:
   - '§e▸ Нажмите чтобы настроить сообщение'
 
 # Fastmessage
-FASTMESSAGE_MENU_TITLE: '§8Donate Menu ▸ Fast Messages'
+FASTMESSAGE_MENU_TITLE: '§8Донат меню ▸ Быстрые сообщения'
 
 # Joiner
-JOINER_MENU_TITLE: '§8Donate Menu ▸ Joiner'
+JOINER_MENU_TITLE: '§8Донат меню ▸ Сообщения при входе'
 JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fВы выбрали §eСообщение #%id% §fиз категории %category%'
 JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: §fВы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
 

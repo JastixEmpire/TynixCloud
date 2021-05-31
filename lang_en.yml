@@ -45,24 +45,24 @@ FEED_MESSAGE: '§6§lTynixCloud §8:: §fYou §successfully §ffeed yourself!'
 FLY_MESSAGE: '§6§lTynixCloud §8:: §fFlight mode: %fly%'
 HEAL_MESSAGE: '§6§lTynixCloud §8:: §fYour health §asuccess §frecovered!'
 PING_YOURSELF_MESSAGE: '§6§lTynixCloud §8:: §fYour ping is §a%ping% §fms'
-PING_OTHER_MESSAGE: '§6§lTynixCloud §8:: §fПинг игрока %player% §f- §a%ping% §fms'
+PING_OTHER_MESSAGE: '§6§lTynixCloud §8:: §fPlayer Ping %player% §f- §a%ping% §fms'
 
 # Welcome messages
 WELCOME_MESSAGE:
   - ''
-  - '§8§k§l|§r§1  §fДобро пожаловать на §6§lTynixCloud  §8§k§l|'
+  - '§8§k§l|§r§1  §fWelcome to §6§lTynixCloud  §8§k§l|'
   - ''
-  - ' §8▪ §fЗдесь вы можете §aхорошо §fпровести своё время.'
-  - ' §8▪ §fВещи в инвентаре помогут вам разобраться!'
+  - ' §8▪ §fHere you can have a §agood time.'
+  - ' §8▪ §fThe items in your inventory will help you!'
   - ''
 
 # Announcer message
 BUNGEE_ANNOUNCER_DONATE_MESSAGE:
   - ''
-  - '§6▪ §fХочешь получить какую-то §9привилегию §f на сервере?'
-  - '§e▪ §fЗаходи в §d§nменю с донатом§f, и смотри §b§nуникальные§f возможности донатеров'
+  - '§6▪ §fDo you want to get some §9donate §fon the server?'
+  - '§e▪ §fGo to the §d§nmenu with a donation§f, and look §b§nunique features §ffeatures of donators'
   - ''
-  - ' §8§l↪ §7(Открыть меню) §8§l↩'
+  - ' §8§l↪ §7(Open menu) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_DONATE_HOVER: '§fНажми сюда, чтобы открыть меню доната'
 BUNGEE_ANNOUNCER_IP_COPY_MESSAGE:
@@ -71,7 +71,7 @@ BUNGEE_ANNOUNCER_IP_COPY_MESSAGE:
   - '§e▪ §fНаш IP: §6TynixCloud.ru'
   - '§b▪ §fЭтим вы поможете развиваться §eсерверу §fнамного §bбыстрее'
   - ''
-  - ' §8§l↪ §7(Скопировать IP) §8§l↩'
+  - ' §8§l↪ §7(Copy IP) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_IP_COPY_HOVER: '§9Кликни, чтобы скопировать IP'
 BUNGEE_ANNOUNCER_SECURITY_MESSAGE:
@@ -81,7 +81,7 @@ BUNGEE_ANNOUNCER_SECURITY_MESSAGE:
   - '§a▪ §fДля этого перейдите в личные сообщения нашего ВК бота'
   - '§4▪ §fКоманда - §e!привязать [ник] [пароль]'
   - ''
-  - ' §8§l↪ §7(Привязать аккаунт к VK) §8§l↩'
+  - ' §8§l↪ §7(Link an account to VK) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_SECURITY_HOVER: '§fПерейдите по ссылке и напишите боту команду §cПРИВЯЗАТЬ'
 BUNGEE_ANNOUNCER_VK_MESSAGE:
@@ -188,14 +188,6 @@ WHITELIST_KICK_MESSAGE:
   - '§4'
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
-# Survival
-HELP_SURVIVAL_BASE:
-  - 'Survival help from §6TynixCloud§f:'
-  - ' [Basic commands]:'
-  - '  - Teleport home - §e/home'
-  - '  - Set point at home - §e/sethome'
-  - '  - Delete home point - §e/removehome'
-  - ''
 PLAY_STATS_MESSAGE:
   - '§fPlayer stats: %player%'
   - ' §f[Mode statistics]:'
@@ -267,9 +259,9 @@ HUB_BOARD_LINES:
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '  §6§lTynixCloud §8» §eMmorpg'
+  - '  §6§lTynixCloud §8» §eMmorpg'
+  - '  §6§lTynixCloud §8» §eMmorpg'
 MMORPG_BOARD_LINES:
   - '§1'
   - '§7Information:'
@@ -471,8 +463,8 @@ PROFILE_MENU_LEVEL_LINES:
   - ' §7Current level: §d%level%'
   - ''
   - ' §fProgress §e↷'
-  - ' §c↪ §7Собрано §e%level_progress%% §7опыта до следующего уровня'
-  - ' §c↪ §7До §a%level_nextlvl% §7уровня необходимо еще §d%level_exp_required% §7EXP (%level_percent%%)'
+  - ' §c↪ §7Collected §e%level_progress%% §7experience up to the next level'
+  - ' §c↪ §7Before §a%level_nextlvl% §7level needs more §d%level_exp_required% §7EXP (%level_percent%%)'
   - ''
 PROFILE_MENU_REWARD_TITLE: '§bRewards §8§k§l|'
 PROFILE_MENU_REWARD_LINES:
