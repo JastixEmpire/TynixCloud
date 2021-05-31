@@ -260,9 +260,9 @@ HUB_BOARD_LINES:
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
-  - '  §6§lTynixCloud §8» §eМморпг'
-  - '  §6§lTynixCloud §8» §eМморпг'
-  - '  §6§lTynixCloud §8» §eМморпг'
+  - '  §6§lTynixCloud §8» §eMMORPG'
+  - '  §6§lTynixCloud §8» §eMMORPG'
+  - '  §6§lTynixCloud §8» §eMMORPG'
 MMORPG_BOARD_LINES:
   - '§1'
   - '§7Информация:'

@@ -259,9 +259,9 @@ HUB_BOARD_LINES:
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
-  - '  §6§lTynixCloud §8» §eMmorpg'
-  - '  §6§lTynixCloud §8» §eMmorpg'
-  - '  §6§lTynixCloud §8» §eMmorpg'
+  - '  §6§lTynixCloud §8» §eMMORPG'
+  - '  §6§lTynixCloud §8» §eMMORPG'
+  - '  §6§lTynixCloud §8» §eMMORPG'
 MMORPG_BOARD_LINES:
   - '§1'
   - '§7Information:'
@@ -379,16 +379,16 @@ CHAT_HOVER:
 
 #Menu messages.
 MENU_TITLE: 'Game Menu'
-MENU_HELP_TITLE: '§bПомощь по серверу §8§k§l|'
+MENU_HELP_TITLE: '§bHelp on the server §8§k§l|'
 MENU_HELP_LINES:
-  - '§8Здесь вы сможете узнать:'
+  - '§8Here you can find out:'
   - ''
-  - '§7Всю нужную информацию включающую в себя:'
-  - '§7Помощь по командам сервера,'
-  - '§7ссылки на наши группы, сайты,'
-  - '§7форумы и много чего другого'
+  - '§7All the necessary information including:'
+  - '§7Help with server commands,'
+  - '§7links to our groups, websites,'
+  - '§7forums and much more'
   - ''
-  - '§e▶ Нажмите чтобы открыть.'
+  - '§e▸ Click to open.'
 
 # Profile messages.
 PROFILE_MENU_TITLE: 'Profile'
@@ -411,7 +411,7 @@ PROFILE_MENU_DONATE_LINES:
   - '§7Все возможности привилегий'
   - '§7расписаны в этом разделе.'
   - ''
-  - '§e▸ Нажми, чтобы открыть меню'
+  - '§e▸ Click to open.'
 PROFILE_MENU_DONATEMENU_TITLE: '§dDonate-Menu §8§k§l|'
 PROFILE_MENU_DONATEMENU_LINES:
   - '§8Плюшки для донатеров'
@@ -434,7 +434,7 @@ PROFILE_MENU_LANGUAGE_LINES:
   - ''
   - '§cWARNING! Translation can be uncorrected.'
   - ''
-  - '§e▶ Click to switch language'
+  - '§e▸ Click to switch language'
 PROFILE_MENU_BOOSTER_TITLE: '§eBooster §8§k§l|'
 PROFILE_MENU_BOOSTER_LINES:
   - '§8Персональный бустер'
@@ -443,7 +443,7 @@ PROFILE_MENU_BOOSTER_LINES:
   - '§7ускоритель для ускоренного'
   - '§7получение опыта и монет'
   - ''
-  - '§e▶ Нажмите чтобы открыть.'
+  - '§e▸ Нажмите чтобы открыть.'
 PROFILE_MENU_STATISTIC_TITLE: '§eMode statistics §8§k§l|'
 PROFILE_MENU_STATISTIC_LINES:
   - '§8Статистика со всех режимов'
@@ -451,7 +451,7 @@ PROFILE_MENU_STATISTIC_LINES:
   - '§7Ваша статистика которая'
   - '§7собрана со всех наших режимов'
   - ''
-  - '§e▶ Нажмите чтобы открыть.'
+  - '§e▸ Нажмите чтобы открыть.'
 PROFILE_MENU_LEVEL_TITLE: '§bLevels §8§k§l|'
 PROFILE_MENU_LEVEL_LINES:
   - ''
@@ -466,20 +466,6 @@ PROFILE_MENU_LEVEL_LINES:
   - ' §c↪ §7Collected §e%level_progress%% §7experience up to the next level'
   - ' §c↪ §7Before §a%level_nextlvl% §7level needs more §d%level_exp_required% §7EXP (%level_percent%%)'
   - ''
-PROFILE_MENU_REWARD_TITLE: '§bRewards §8§k§l|'
-PROFILE_MENU_REWARD_LINES:
-  - ''
-  - '§fRegular coin bonuses,'
-  - '§fexperience and chests for everything!'
-  - ''
-  - '§e▶ Click to open the rewards menu.'
-PROFILE_MENU_GADGET_TITLE: '§bGadgets §8§k§l|'
-PROFILE_MENU_GADGET_LINES:
-  - ''
-  - '§fTired of just running around the lobby?'
-  - '§fThen use the game cosmetics.!'
-  - ''
-  - '§e▶ Click to open the gadgets menu.'
 
 HELP_MENU_TITLE: 'Профиль ▸ Помощь'
 HELP_MENU_NAVIGATION_TITLE: '§bНавигация'
@@ -491,7 +477,7 @@ HELP_MENU_NAVIGATION_LINES:
   - '§6/online §f- Global online'
   - '§6/money §f- Your balance'
   - ''
-  - '§e▶ Нажмите, чтобы узнать подробнее.'
+  - '§e▸ Нажмите, чтобы узнать подробнее.'
 HELP_MENU_SOCIAL_TITLE: '§bLinks'
 HELP_MENU_SOCIAL_LINES:
   - '§7Адресс сервера: §6mc.tynixcloud.ru'
@@ -502,7 +488,7 @@ HELP_MENU_SOCIAL_LINES:
   - ''
   - '§7Почта сервера: §dsupport@tynixcloud.ru'
   - ''
-  - '§e▶ Нажмите, чтобы узнать подробнее.'
+  - '§e▸ Нажмите, чтобы узнать подробнее.'
 HELP_MENU_DONATE_TITLE: '§bПривилегии'
 HELP_MENU_DONATE_LINES:
   - '§7Список привилегий:'
@@ -531,7 +517,7 @@ HELP_MENU_FRIENDS_LINES:
   - '§7Подробнее о системе друзей можно'
   - '§7узнать написав команду §6/friends'
   - ''
-  - '§e▶ Нажмите, чтобы узнать подробнее.'
+  - '§e▸ Нажмите, чтобы узнать подробнее.'
 HELP_MENU_SECURITY_TITLE: '§bБезопасность аккаунта'
 HELP_MENU_SECURITY_LINES:
   - '§7После регистрации рекомендуем'
@@ -568,7 +554,7 @@ HELP_MENU_MSG_LINES:
 BACK_TITLE: '§cBack'
 BACK_LINES:
   - ''
-  - '§e▶ Press to return to the previous menu.'
+  - '§e▸ Press to return to the previous menu.'
 
 # Donate Inventory
 DONATE_STATUS_TITLE: '§7Информация'
