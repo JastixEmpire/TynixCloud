@@ -789,6 +789,83 @@ message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онла
 message-tynixcloud-online-prefix: '§6§lTynixCloud §8:: §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6§lTynixCloud §8:: §fОнлайн сервера §e%prefix% - §e%online%'
 
+# StickDuels messages
+STICK_DUELS_PLAYER_JOIN: '§6§lStickDuels §8:: {player} §fjoined the game §7({online}/{max})'
+STICK_DUELS_PLAYER_QUIT: '§6§lStickDuels §8:: {player} §fleave the game §7({online}/{max})'
+STICK_DUELS_PLAYER_TIMER_TICK: '§6§lStickDuels §8:: §fGame started in §e{time} sec.'
+STICK_DUELS_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cError, not enough coins!'
+
+STICK_DUELS_BOUGHT_ITEM_SUCCESS_BUY: '§6§lStickDuels §8:: §e{item_name} §fsuccessfully purchased'
+
+STICK_DUELS_GAME_WAIT_TIMER_5: 'Game started in: §a❺'
+STICK_DUELS_GAME_WAIT_TIMER_4: 'Game started in: §e❹'
+STICK_DUELS_GAME_WAIT_TIMER_3: 'Game started in: §6❸'
+STICK_DUELS_GAME_WAIT_TIMER_2: 'Game started in: §c❷'
+STICK_DUELS_GAME_WAIT_TIMER_1: 'Game started in: §4❶'
+
+STICK_DUELS_GAME_STARTED_TITLE: '§6§lSTICK DUELS'
+STICK_DUELS_GAME_STARTED_SUBTITLE: '§fGo sky battles!'
+
+STICK_DUELS_GAME_START_BROADCAST:
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  - ''
+  - '                         §6§lSTICK DUELS'
+  - ''
+  - '     §7Какое-то описание игры'
+  - '         §7оно же совсем не важно наверное'
+  - ' §7вы ведь правда в это верите?'
+  - '                  §7ок?'
+  - ''
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+STICK_DUELS_GAME_ENDED_TITLE: '§c§lGAME END!'
+STICK_DUELS_GAME_ENDED_SUBTITLE: '§fWrite §e/leave §fto leave the game'
+
+STICK_DUELS_GAME_END_BROADCAST:
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  - ''
+  - '                        §6§lSTICK DUELS'
+  - ''
+  - '                    §f§lGame winners:'
+  - '                     {winner}'
+  - ''
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+STICK_DUELS_BOARDS_WAITING_NAME:
+  - '§6§lStick Duels'
+STICK_DUELS_BOARDS_WAITING_LINES:
+  - '§7%date'
+  - '§1'
+  - 'Players: §a%players§f/§c%max'
+  - 'Map: §a%map'
+  - '§2'
+  - 'Game status:'
+  - ' §e%game_status'
+  - '§3'
+  - '§6www.TynixCloud.ru'
+STICK_DUELS_BOARDS_GAME_NAME:
+  - '§6§lStick Duels'
+STICK_DUELS_BOARDS_GAME_LINES:
+  - '§7%date'
+  - '§0'
+  - 'Time: §a%time'
+  - 'Kills: §a%kills'
+  - '§1'
+  - 'Alive players: §a%players§f/§c%max'
+  - '§2'
+  - 'Map: §a%map'
+  - '§4'
+  - '§6www.TynixCloud.ru'
+STICK_DUELS_BOARDS_END_NAME:
+  - '§6§lStick Duels'
+STICK_DUELS_BOARDS_END_LINES:
+  - '§7%date'
+  - '§1'
+  - 'Winners:'
+  - ' %winners'
+  - '§2'
+  - '§6www.TynixCloud.ru'
+
 # SkyWars messages.
 SKYWARS_PLAYER_JOIN: '§6§lSkyWars §8:: {player} §fjoined the game §7({online}/{max})'
 SKYWARS_PLAYER_QUIT: '§6§lSkyWars §8:: {player} §fleave the game §7({online}/{max})'
