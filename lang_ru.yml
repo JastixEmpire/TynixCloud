@@ -800,27 +800,27 @@ message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онла
 message-tynixcloud-online-prefix: '§6§lTynixCloud §8:: §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6§lTynixCloud §8:: §fОнлайн сервера §e%prefix% - §e%online%'
 
-# StickDuels messages
-STICK_DUELS_PLAYER_JOIN: '§6§lStickDuels §8:: {player} §fприсоединился к игре §7({online}/{max})'
-STICK_DUELS_PLAYER_QUIT: '§6§lStickDuels §8:: {player} §fвышел из игры §7({online}/{max})'
-STICK_DUELS_PLAYER_TIMER_TICK: '§6§lStickDuels §8:: §fИгра начнется через §e{time} sec.'
-STICK_DUELS_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cОшибка, недостаточно коинов!'
+# StickFight messages
+STICK_FIGHT_PLAYER_JOIN: '§6§lStickFight §8:: {player} §fприсоединился к игре §7({online}/{max})'
+STICK_FIGHT_PLAYER_QUIT: '§6§lStickFight §8:: {player} §fвышел из игры §7({online}/{max})'
+STICK_FIGHT_PLAYER_TIMER_TICK: '§6§lStickFight §8:: §fИгра начнется через §e{time} sec.'
+STICK_FIGHT_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cОшибка, недостаточно коинов!'
 
-STICK_DUELS_BOUGHT_ITEM_SUCCESS_BUY: '§6§lStickDuels §8:: §e{item_name} §fуспешно куплен'
+STICK_FIGHT_BOUGHT_ITEM_SUCCESS_BUY: '§6§lStickFight §8:: §e{item_name} §fуспешно куплен'
 
-STICK_DUELS_GAME_WAIT_TIMER_5: 'До начала игры: §a❺'
-STICK_DUELS_GAME_WAIT_TIMER_4: 'До начала игры: §e❹'
-STICK_DUELS_GAME_WAIT_TIMER_3: 'До начала игры: §6❸'
-STICK_DUELS_GAME_WAIT_TIMER_2: 'До начала игры: §c❷'
-STICK_DUELS_GAME_WAIT_TIMER_1: 'До начала игры: §4❶'
+STICK_FIGHT_GAME_WAIT_TIMER_5: 'До начала игры: §a❺'
+STICK_FIGHT_GAME_WAIT_TIMER_4: 'До начала игры: §e❹'
+STICK_FIGHT_GAME_WAIT_TIMER_3: 'До начала игры: §6❸'
+STICK_FIGHT_GAME_WAIT_TIMER_2: 'До начала игры: §c❷'
+STICK_FIGHT_GAME_WAIT_TIMER_1: 'До начала игры: §4❶'
 
-STICK_DUELS_GAME_STARTED_TITLE: '§6§lSTICK DUELS'
-STICK_DUELS_GAME_STARTED_SUBTITLE: '§fБой начался!'
+STICK_FIGHT_GAME_STARTED_TITLE: '§6§lSTICK FIGHT'
+STICK_FIGHT_GAME_STARTED_SUBTITLE: '§fБой начался!'
 
-STICK_DUELS_GAME_START_BROADCAST:
+STICK_FIGHT_GAME_START_BROADCAST:
   - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
   - ''
-  - '                         §6§lSTICK DUELS'
+  - '                         §6§lSTICK FIGHT'
   - ''
   - '     §7Какое-то описание игры'
   - '         §7оно же совсем не важно наверное'
@@ -829,22 +829,22 @@ STICK_DUELS_GAME_START_BROADCAST:
   - ''
   - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
-STICK_DUELS_GAME_ENDED_TITLE: '§c§lИГРА ОКОНЧЕНА!'
-STICK_DUELS_GAME_ENDED_SUBTITLE: '§fЧтобы выйти из игры, напишите - §e/leave'
+STICK_FIGHT_GAME_ENDED_TITLE: '§c§lИГРА ОКОНЧЕНА!'
+STICK_FIGHT_GAME_ENDED_SUBTITLE: '§fЧтобы выйти из игры, напишите - §e/leave'
 
-STICK_DUELS_GAME_END_BROADCAST:
+STICK_FIGHT_GAME_END_BROADCAST:
   - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
   - ''
-  - '                        §6§lSTICK DUELS'
+  - '                        §6§lSTICK FIGHT'
   - ''
   - '                    §f§lПобедитель:'
   - '                     {winner}'
   - ''
   - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
-STICK_DUELS_BOARDS_WAITING_NAME:
-  - '§6§lStick Duels'
-STICK_DUELS_BOARDS_WAITING_LINES:
+STICK_FIGHT_BOARDS_WAITING_NAME:
+  - '§6§lStick FIGHT'
+STICK_FIGHT_BOARDS_WAITING_LINES:
   - '§7%date'
   - '§1'
   - 'Игроков: §a%players§f/§c%max'
@@ -854,9 +854,9 @@ STICK_DUELS_BOARDS_WAITING_LINES:
   - ' §e%game_status'
   - '§3'
   - '§6www.TynixCloud.ru'
-STICK_DUELS_BOARDS_GAME_NAME:
-  - '§6§lStick Duels'
-STICK_DUELS_BOARDS_GAME_LINES:
+STICK_FIGHT_BOARDS_GAME_NAME:
+  - '§6§lStick FIGHT'
+STICK_FIGHT_BOARDS_GAME_LINES:
   - '§7%date'
   - '§0'
   - 'Осталось времени: §a%time'
@@ -867,9 +867,9 @@ STICK_DUELS_BOARDS_GAME_LINES:
   - 'Карта: §a%map'
   - '§4'
   - '§6www.TynixCloud.ru'
-STICK_DUELS_BOARDS_END_NAME:
-  - '§6§lStick Duels'
-STICK_DUELS_BOARDS_END_LINES:
+STICK_FIGHT_BOARDS_END_NAME:
+  - '§6§lStick FIGHT'
+STICK_FIGHT_BOARDS_END_LINES:
   - '§7%date'
   - '§1'
   - 'Победитель:'
