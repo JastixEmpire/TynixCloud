@@ -176,6 +176,15 @@ BUNGEE_ANNOUNCER_VK_ANNOUNCER_MESSAGE:
   - ' §8§l↪ §7(Перейти в ВК) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_VK_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
+BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_MESSAGE:
+  - ''
+  - '§a▪ §fПосетите нашу группу §9VK§f и вы будете всегда'
+  - '§9▪ §fв курсе последних новостей §eсервера'
+  - '§b▪ §fПереходите по ссылке §bvk.com/tynixcloud'
+  - ''
+  - ' §8§l↪ §7(Проголосовать за проект) §8§l↩'
+  - ''
+BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
 
 # Whitelist message
 WHITELIST_KICK_MESSAGE:
@@ -401,7 +410,7 @@ PROFILE_MENU_BASE_LINES:
   - ''
   - '§8▪ §fМонет: §a%balance%'
   - '§8▪ §fЗолота: §6%golds%'
-  - '§8▪ §fУровень: §d%level% §6%level_percent%%'
+  - '§8▪ §fУровень: §d%level% §e%level_percent%%'
   - ''
   - '§8▪ §fЯзык: §7%language%'
   - ''
@@ -423,7 +432,6 @@ PROFILE_MENU_DONATEMENU_LINES:
   - ''
   - '§8▪ §fБыстрые сообщения'
   - '§8▪ §fСообщения при входе'
-  - '§8▪ §f...'
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
 PROFILE_MENU_LANGUAGE_TITLE: '§bВыбор языка §8§k§l|'
@@ -483,6 +491,15 @@ PROFILE_MENU_GADGET_LINES:
   - '§fТогда воспользуйся игровой косметикой!'
   - ''
   - '§e▶ Нажмите, чтобы открыть меню гаджетов.'
+PROFILE_MENU_CONVERT_TITLE: '§bКонвертация уровня §8§k§l|'
+PROFILE_MENU_CONVERT_LINES:
+  - ''
+  - '§fВы отдаете свой уровень, конвертируя'
+  - '§fсвой уровень в монеты!'
+  - '§fКонвертация уровня доступа с §c5 §fуровня!'
+  - ''
+  - '§e▶ Нажмите, чтобы открыть меню конвертации.'
+
 
 HELP_MENU_TITLE: 'Профиль ▸ Помощь'
 HELP_MENU_NAVIGATION_TITLE: '§bНавигация'
