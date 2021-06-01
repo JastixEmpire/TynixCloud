@@ -465,6 +465,20 @@ PROFILE_MENU_LEVEL_LINES:
   - ' §c↪ §7Collected §e%level_progress%% §7experience up to the next level'
   - ' §c↪ §7Before §a%level_nextlvl% §7level needs more §d%level_exp_required% §7EXP (%level_percent%%)'
   - ''
+PROFILE_MENU_REWARD_TITLE: '§bНаграды §8§k§l|'
+PROFILE_MENU_REWARD_LINES:
+  - ''
+  - '§fРегулярные бонусы с монетами,'
+  - '§fопытом и сундуками для всех!'
+  - ''
+  - '§e▶ Нажмите, чтобы открыть меню наград.'
+PROFILE_MENU_GADGET_TITLE: '§bГаджеты §8§k§l|'
+PROFILE_MENU_GADGET_LINES:
+  - ''
+  - '§fНадоело просто бегать по лобби?'
+  - '§fТогда воспользуйся игровой косметикой!'
+  - ''
+  - '§e▶ Нажмите, чтобы открыть меню гаджетов.'
 PROFILE_MENU_CONVERT_TITLE: '§bКонвертация уровня §8§k§l|'
 PROFILE_MENU_CONVERT_LINES:
   - ''
