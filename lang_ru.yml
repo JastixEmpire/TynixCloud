@@ -121,7 +121,7 @@ BUNGEE_ANNOUNCER_FULL_SLOTS_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_FULL_SLOTS_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_FULL_SLOTS_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_QUANTUM_1_MESSAGE:
   - ''
   - '§2▪ §fПокупайте §a§lQUANTUM §fпо очень §dпривлекательной§f цене'
@@ -130,7 +130,7 @@ BUNGEE_ANNOUNCER_QUANTUM_1_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_QUANTUM_1_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_QUANTUM_1_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
   - ''
   - '§e▪ §fПривилегия §a§lQUANTUM §fдает большое'
@@ -139,7 +139,7 @@ BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_QUANTUM_2_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_QUANTUM_2_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_TYNIX_1_MESSAGE:
   - ''
   - '§a▪ §c§lTYNIX §f- лучшая привилегия сервера,'
@@ -148,7 +148,7 @@ BUNGEE_ANNOUNCER_TYNIX_1_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_TYNIX_1_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_TYNIX_1_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_QUESTION_MESSAGE:
   - ''
   - '§6▪ §fПоявились §eвопросы§f, на которые Вы §cне знаете ответ?'
@@ -185,6 +185,25 @@ BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_MESSAGE:
   - ' §8§l↪ §7(Проголосовать за проект) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
+BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_MESSAGE:
+  - ''
+  - '§a▪ §fПокупая §dпривилегии§f, вы не просто помогаете серверу'
+  - '§9▪ §fВы открываете для себя §cмножество §fвозможностей'
+  - '§b▪ §fПоэтому мы делаем скидку в §c50% §fпо промокоду §6PROMO'
+  - '§e▪ §fНа покупку абсолютно любой привилегии!'
+  - ''
+  - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
+  - ''
+BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти на сайт'
+BUNGEE_ANNOUNCER_BUY_DONATE_2_ANNOUNCER_MESSAGE:
+  - ''
+  - '§a▪ §fПокупая §dпривилегию§f, вы §aпомогаете §fв §bразвитии §fпроекта!'
+  - '§9▪ §fПри покупке привилегии мы даем §dуйму §fвозможностей для вас'
+  - '§b▪ §fПосмотреть возможности: §d/donate'
+  - ''
+  - ' §8§l↪ §7(Открыть меню) §8§l↩'
+  - ''
+BUNGEE_ANNOUNCER_BUY_DONATE_2_ANNOUNCER_HOVER: '§fНажми сюда, чтобы открыть меню'
 
 # Whitelist message
 WHITELIST_KICK_MESSAGE:
