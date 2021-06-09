@@ -388,8 +388,6 @@ INFO_OFFLINE:
 # Language chat messages.
 LANGUAGE_SELECT_MENU_TITLE: 'Switch language'
 LANG_SELECT: '§6§lTynixCloud §8:: §fYour language has been changed to §cEnglish!'
-LANG_JOIN:
-  - '§6§lTynixCloud §8:: §fYou have the language §cEnglish'
 CHAT_HOVER:
   - '§7Statistics of %prefix% %player%§7:'
   - ' §8| §7Level: §d%level%'
