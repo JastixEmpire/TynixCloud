@@ -221,6 +221,19 @@ LVL_UP_MESSAGE:
   - ''
   - ''
 
+# Holographics
+HOLOGRAM_CASES_LINE_1: '&d&lМистический сундук'
+HOLOGRAM_CASES_LINE_2: '&7Ожидает своего пробуждения'
+HOLOGRAM_CASES_LINE_3: '&7от Великого мага'
+
+HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_1: '%game_name%'
+HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_3: '&cНет свободных серверов'
+HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_4: '&7Сейчас играет &f%players% &7игроков'
+
+HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_1: '%game_name%'
+HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_3: '&eНажмите, чтобы подключиться!'
+HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_4: '&7Сейчас играет &f%players% &7игроков'
+
 # Streams
 STREAM_NEW_ANNOUNCE:
   - ''
