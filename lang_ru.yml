@@ -41,14 +41,21 @@ SEND_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/send <ник>
 CRASH_HELP: '§6§lTynixCloud §8:: §fИспользуйте - §e/crash <ник>'
 FIND_MESSAGE: '§6§lTynixCloud §8:: %player% §fнаходится на сервере §e%server%'
 MONEY_MESSAGE: '§6§lTynixCloud §8:: §fВаш баланс: §e%money% §fи §6%golds%'
-RANDOM_MESSAGE: '§6§lTynixCloud §8:: §fРандомный человек - %player%'
-AUTO_FLY_MESSAGE: '§6§lTynixCloud §8:: §fДля Вас включён автоматический Fly!'
 EXT_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fпотушили себя!'
 FEED_MESSAGE: '§6§lTynixCloud §8:: §fВы §aуспешно §fнакормили себя!'
 FLY_MESSAGE: '§6§lTynixCloud §8:: §fРазрешение на полёт: %fly%'
 HEAL_MESSAGE: '§6§lTynixCloud §8:: §fВаше здоровье §aуспешно §fвосстановлено!'
 PING_YOURSELF_MESSAGE: '§6§lTynixCloud §8:: §fВаш пинг §a%ping% §fms'
 PING_OTHER_MESSAGE: '§6§lTynixCloud §8:: §fПинг игрока %player% §f- §a%ping% §fms'
+
+# Welcome messages
+WELCOME_MESSAGE:
+  - ''
+  - '§8§k§l|§r§1  §fДобро пожаловать на §6§lTynixCloud  §8§k§l|'
+  - ''
+  - ' §8▪ §fЗдесь вы можете §aхорошо §fпровести своё время.'
+  - ' §8▪ §fВещи в инвентаре помогут вам разобраться!'
+  - ''
 
 # Announcer message
 BUNGEE_ANNOUNCER_DONATE_MESSAGE:
@@ -114,7 +121,7 @@ BUNGEE_ANNOUNCER_FULL_SLOTS_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_FULL_SLOTS_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_FULL_SLOTS_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_QUANTUM_1_MESSAGE:
   - ''
   - '§2▪ §fПокупайте §a§lQUANTUM §fпо очень §dпривлекательной§f цене'
@@ -123,7 +130,7 @@ BUNGEE_ANNOUNCER_QUANTUM_1_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_QUANTUM_1_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_QUANTUM_1_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
   - ''
   - '§e▪ §fПривилегия §a§lQUANTUM §fдает большое'
@@ -132,7 +139,7 @@ BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_QUANTUM_2_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_QUANTUM_2_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_TYNIX_1_MESSAGE:
   - ''
   - '§a▪ §c§lTYNIX §f- лучшая привилегия сервера,'
@@ -141,7 +148,7 @@ BUNGEE_ANNOUNCER_TYNIX_1_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_TYNIX_1_HOVER: '§fНажми сюда, чтобы перейти сайт'
+BUNGEE_ANNOUNCER_TYNIX_1_HOVER: '§fНажми сюда, чтобы перейти на сайт'
 BUNGEE_ANNOUNCER_QUESTION_MESSAGE:
   - ''
   - '§6▪ §fПоявились §eвопросы§f, на которые Вы §cне знаете ответ?'
@@ -169,6 +176,34 @@ BUNGEE_ANNOUNCER_VK_ANNOUNCER_MESSAGE:
   - ' §8§l↪ §7(Перейти в ВК) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_VK_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
+BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_MESSAGE:
+  - ''
+  - '§a▪ §fПосетите нашу группу §9VK§f и вы будете всегда'
+  - '§9▪ §fв курсе последних новостей §eсервера'
+  - '§b▪ §fПереходите по ссылке §bvk.com/tynixcloud'
+  - ''
+  - ' §8§l↪ §7(Проголосовать за проект) §8§l↩'
+  - ''
+BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
+BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_MESSAGE:
+  - ''
+  - '§a▪ §fПокупая §dпривилегии§f, вы не просто помогаете серверу'
+  - '§9▪ §fВы открываете для себя §cмножество §fвозможностей'
+  - '§b▪ §fПоэтому мы делаем скидку в §c50% §fпо промокоду §6PROMO'
+  - '§e▪ §fНа покупку абсолютно любой привилегии!'
+  - ''
+  - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
+  - ''
+BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти на сайт'
+BUNGEE_ANNOUNCER_BUY_DONATE_2_ANNOUNCER_MESSAGE:
+  - ''
+  - '§a▪ §fПокупая §dпривилегию§f, вы §aпомогаете §fв §bразвитии §fпроекта!'
+  - '§9▪ §fПри покупке привилегии мы даем §dуйму §fвозможностей для вас'
+  - '§b▪ §fПосмотреть возможности: §d/donate'
+  - ''
+  - ' §8§l↪ §7(Открыть меню) §8§l↩'
+  - ''
+BUNGEE_ANNOUNCER_BUY_DONATE_2_ANNOUNCER_HOVER: '§fНажми сюда, чтобы открыть меню'
 
 # Whitelist message
 WHITELIST_KICK_MESSAGE:
@@ -182,14 +217,6 @@ WHITELIST_KICK_MESSAGE:
   - '§4'
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
-# Survival
-HELP_SURVIVAL_BASE:
-  - 'Помощь по выживанию от §6TynixCloud§f:'
-  - ' [Основные команды]:'
-  - '  - Телепортироваться домой - §e/home'
-  - '  - Установить точку дома - §e/sethome'
-  - '  - Удалить точку дома - §e/removehome'
-  - ''
 PLAY_STATS_MESSAGE:
   - '§fСтатистика игрока: %player%'
   - ' §f[Статистика режима]:'
@@ -205,7 +232,6 @@ TELEPORT_MESSAGE:
   - ' §7Телепортировать одного игрока к другому - §e/teleport <игрок> <игрок>'
   - ' §7Телепортация по координатам - §e/teleport <x> <y> <z>'
   - ' §7Телепортация игрока по координатам - §e/teleport <ник игрока> <x> <y> <z>'
-
 TELEPORT_SUCCESS_TELEPORT: '§6§lTynixCloud §8:: §fВы были §aуспешно §fтелепортированы к игроку %player%'
 
 # Level
@@ -237,47 +263,47 @@ HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_4: '&7Сейчас играет &f%p
 # Streams
 STREAM_NEW_ANNOUNCE:
   - ''
-  - '§c§lВНИМАНИЕ! §f%streamer% начал трансляцию с §a%viewers% §fзрителями:'
-  - '§e%stream_title%'
-  - '§fТрансляция проходит на платформе %platform%§f'
+  - ' §8| §c§lВНИМАНИЕ! %streamer% §fзапустил трансляцию на %platform%'
+  - ' §8| §fНазвание: §e%stream_title%'
+  - ' §8| §fЗрителей: §e§a%viewers%'
   - ''
   - ' §8§l↪ §7(Перейти на трансляцию) §8§l↩'
 
 STREAMS_ANNOUNCE:
   - ''
-  - '§c§lВНИМАНИЕ! §fНа сервере сейчас идет §b%count% &fпрямых трансляций!'
-  - ' §8§l↪ §7(Открыть список трансляций) §8§l↩'
+  - ' §8| §c§lВНИМАНИЕ! §fНа сервере сейчас идет §b%count% §fпрямых трансляций!'
   - ''
+  - ' §8§l↪ §7(Открыть список трансляций) §8§l↩'
 
 STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fВаш стрим &7%stream_title% &fбыл удален, так как он больше не актуален!'
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '  §6§lTynixCloud §8» §eХаб'
+  - '  §6§lTynixCloud §8» §eХаб'
+  - '  §6§lTynixCloud §8» §eХаб'
 HUB_BOARD_LINES:
   - '§1'
-  - '§7Информация:'
-  - ' §fСтатус: %status%'
-  - ' §fБаланс: §a%balance%'
-  - ' §fЗолота: §a%golds%'
-  - ' §fУровень: §d%level%'
-  - ' §fEXP: §a%level_exp%§8/§c%level_max_exp%'
+  - ' §e§lПрофиль:'
+  - '  §fСтатус: %status%'
+  - '  §fБаланс: §a%balance%'
+  - '  §fЗолота: §e%golds%'
+  - '  §fУровень: §d%level%'
+  - '  §fEXP: §a%level_exp%§8/§c%level_max_exp%'
   - '§e'
-  - '§fПрогресс уровня: §a%level_exp_percent%'
-  - ' §a↪ %level_bar%'
+  - ' §fПрогресс уровня: §a%level_exp_percent%'
+  - '  §a↪ %level_bar%'
   - '§6'
   - ' §fОнлайн: §a%online%'
   - ' §fСервер: §7%server_name%'
   - '§a'
-  - '§6§lwww.TynixCloud.ru'
+  - '   §6§lwww.TynixCloud.ru'
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '  §6§lTynixCloud §8» §eMMORPG'
+  - '  §6§lTynixCloud §8» §eMMORPG'
+  - '  §6§lTynixCloud §8» §eMMORPG'
 MMORPG_BOARD_LINES:
   - '§1'
   - '§7Информация:'
@@ -384,33 +410,41 @@ INFO_OFFLINE:
 # Language chat messages.
 LANGUAGE_SELECT_MENU_TITLE: 'Выбор игрового языка'
 LANG_SELECT: '§6§lTynixCloud §8:: §fВаш язык изменен на §cРусский!'
-LANG_JOIN:
-  - '§6§lTynixCloud §8:: §fУ вас установлен язык §cРусский'
 CHAT_HOVER:
   - '§7Статистика %prefix% %player%§7:'
   - ' §8| §7Уровень: §d%level%'
   - ' §8| §7EXP: §e%exp%§8/§c%max_exp%'
-  - ' §8| §7Игровая версия: &f%version%'
   - ''
   - '§e▸ Нажмите, чтобы отправить личное сообщение'
 
 #Menu messages.
 MENU_TITLE: 'Игровое меню'
+MENU_HELP_TITLE: '§bПомощь по серверу §8§k§l|'
+MENU_HELP_LINES:
+  - '§8Здесь вы сможете узнать:'
+  - ''
+  - '§7Всю нужную информацию включающую в себя:'
+  - '§7Помощь по командам сервера,'
+  - '§7ссылки на наши группы, сайты,'
+  - '§7форумы и много чего другого'
+  - ''
+  - '§e▸ Нажмите чтобы открыть.'
+
 
 # Profile messages.
 PROFILE_MENU_TITLE: 'Профиль'
 PROFILE_MENU_BASE_TITLE: '§bОбщая информация §8§k§l|'
 PROFILE_MENU_BASE_LINES:
-  - '§7Статус: %status%'
+  - '§8▪ §fСтатус: %status%'
   - ''
-  - '§7Текущий сервер: §f%server%'
+  - '§8▪ §fМонет: §a%balance%'
+  - '§8▪ §fЗолота: §6%golds%'
+  - '§8▪ §fУровень: §d%level% §e%level_percent%%'
   - ''
-  - '§7Монет: §6%balance%'
-  - '§7Золота: §e%golds%'
+  - '§8▪ §fЯзык: §7%language%'
   - ''
-  - '§7Язык: §f%language%'
-  - ''
-  - '§7Игровая версия: §f%version%'
+  - '§8▪ §fТекущий сервер: §a%server%'
+  - '§8▪ §fИгровая версия: §d%version%'
 PROFILE_MENU_DONATE_TITLE: '§bПривилегии §8§k§l|'
 PROFILE_MENU_DONATE_LINES:
   - '§8Список донат привилегий'
@@ -423,10 +457,11 @@ PROFILE_MENU_DONATEMENU_TITLE: '§dДонат-меню §8§k§l|'
 PROFILE_MENU_DONATEMENU_LINES:
   - '§8Плюшки для донатеров'
   - ''
-  - '§7Кастомизация игрока на сервере.'
-  - '§7В этом меню вы сможете отправить быстрое'
-  - '§7сообщение, сообщение при'
-  - '§7заходе и многое другое.'
+  - '§7Дополнительные возмонжости для донатеров:'
+  - ''
+  - '§8▪ §fБыстрые сообщения'
+  - '§8▪ §fСообщения при входе'
+  - '§8▪ §f...'
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
 PROFILE_MENU_LANGUAGE_TITLE: '§bВыбор языка §8§k§l|'
@@ -440,7 +475,7 @@ PROFILE_MENU_LANGUAGE_LINES:
   - ''
   - '§cВНИМАНИЕ! Перевод может быть некорректным.'
   - ''
-  - '§e▶ Нажмите чтобы выбрать язык.'
+  - '§e▸ Нажмите чтобы выбрать язык.'
 PROFILE_MENU_BOOSTER_TITLE: '§eУскоритель §8§k§l|'
 PROFILE_MENU_BOOSTER_LINES:
   - '§8Персональный бустер'
@@ -449,7 +484,7 @@ PROFILE_MENU_BOOSTER_LINES:
   - '§7ускоритель для ускоренного'
   - '§7получение опыта и монет'
   - ''
-  - '§e▶ Нажмите чтобы открыть.'
+  - '§e▸ Нажмите чтобы открыть.'
 PROFILE_MENU_STATISTIC_TITLE: '§eСтатистика режимов §8§k§l|'
 PROFILE_MENU_STATISTIC_LINES:
   - '§8Статистика со всех режимов'
@@ -457,17 +492,7 @@ PROFILE_MENU_STATISTIC_LINES:
   - '§7Ваша статистика которая'
   - '§7собрана со всех наших режимов'
   - ''
-  - '§e▶ Нажмите чтобы открыть.'
-PROFILE_MENU_HELP_TITLE: '§bПомощь по серверу §8§k§l|'
-PROFILE_MENU_HELP_LINES:
-  - '§8Здесь вы сможете узнать:'
-  - ''
-  - '§7Всю нужную информацию включающую в себя:'
-  - '§7Помощь по командам сервера,'
-  - '§7ссылки на наши группы, сайты,'
-  - '§7форумы и много чего другого'
-  - ''
-  - '§e▶ Нажмите чтобы открыть.'
+  - '§e▸ Нажмите чтобы открыть.'
 PROFILE_MENU_LEVEL_TITLE: '§bУровень §8§k§l|'
 PROFILE_MENU_LEVEL_LINES:
   - ''
@@ -485,17 +510,18 @@ PROFILE_MENU_LEVEL_LINES:
 PROFILE_MENU_REWARD_TITLE: '§bНаграды §8§k§l|'
 PROFILE_MENU_REWARD_LINES:
   - ''
-  - '§fРегулярные бонусы с монетами,'
-  - '§fопытом и сундуками для всех!'
+  - '§7Регулярные бонусы с монетами,'
+  - '§7опытом и сундуками для всех!'
   - ''
-  - '§e▶ Нажмите, чтобы открыть меню наград.'
-PROFILE_MENU_GADGET_TITLE: '§bГаджеты §8§k§l|'
-PROFILE_MENU_GADGET_LINES:
+  - '§e▸ Нажмите, чтобы открыть меню наград.'
+PROFILE_MENU_CONVERT_TITLE: '§dКонвертация уровня §8§k§l|'
+PROFILE_MENU_CONVERT_LINES:
   - ''
-  - '§fНадоело просто бегать по лобби?'
-  - '§fТогда воспользуйся игровой косметикой!'
+  - '§7Вы отдаете свой уровень, конвертируя'
+  - '§7свой уровень в монеты!'
+  - '§7Конвертация доступа с §c5 уровня!'
   - ''
-  - '§e▶ Нажмите, чтобы открыть меню гаджетов.'
+  - '§e▸ Нажмите, чтобы открыть меню конвертации.'
 
 HELP_MENU_TITLE: 'Профиль ▸ Помощь'
 HELP_MENU_NAVIGATION_TITLE: '§bНавигация'
@@ -580,6 +606,20 @@ HELP_MENU_MSG_LINES:
   - '§7личные сообщения от определенного'
   - '§7игрока, то отключите ему возможность'
   - '§7писать вам в ЛС: §6/ignore <Ник>'
+HELP_MENU_STREAM_TITLE: '§bПрямые трансляции'
+HELP_MENU_STREAM_LINES:
+  - '§7Хотите поддержать сервер и набрать §6новых зрителей§7?'
+  - ''
+  - '§7Специально для вас существует система'
+  - '§7прямых трансляций!'
+  - ''
+  - '§7Вы можете добавить свою трансляцию командой'
+  - '§6/stream <ссылка>'
+  - ''
+  - '§7Добавление стримов доступно от статуса %youtube%'
+  - ''
+  - '§7Если Вас нету в сети больше §c5 минут§7,'
+  - '§7стрим автоматически удалится'
 BACK_TITLE: '§cНазад'
 BACK_LINES:
   - ''
@@ -589,7 +629,6 @@ BACK_LINES:
 DONATE_STATUS_TITLE: '§7Информация'
 DONATE_STATUS_LINE:
   - '§fВсего статусов: §c§l7'
-  - '§eДонат статусов: §c§l6'
   - ''
   - '§7Все деньги полученные с покупок'
   - '§7доната, идут на развитие проекта:'
@@ -704,10 +743,10 @@ DONATE_MENU_JOINER_LINES:
   - '§e▸ Нажмите чтобы настроить сообщение'
 
 # Fastmessage
-FASTMESSAGE_MENU_TITLE: '§8Donate Menu ▸ Fast Messages'
+FASTMESSAGE_MENU_TITLE: '§8Донат меню ▸ Быстрые сообщения'
 
 # Joiner
-JOINER_MENU_TITLE: '§8Donate Menu ▸ Joiner'
+JOINER_MENU_TITLE: '§8Донат меню ▸ Сообщения при входе'
 JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fВы выбрали §eСообщение #%id% §fиз категории %category%'
 JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: §fВы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
 
@@ -803,6 +842,83 @@ PARTY_MENU_LIST_ONLINE_INFO:
 message-tynixcloud-online-global: '§6§lTynixCloud §8:: §fОбщий онлайн сервера - §e%online%'
 message-tynixcloud-online-prefix: '§6§lTynixCloud §8:: §fОбщий серверов по префиксу §e%prefix% - §e%online%'
 message-tynixcloud-online: '§6§lTynixCloud §8:: §fОнлайн сервера §e%prefix% - §e%online%'
+
+# StickFight messages
+STICK_FIGHT_PLAYER_JOIN: '§6§lStickFight §8:: {player} §fприсоединился к игре §7({online}/{max})'
+STICK_FIGHT_PLAYER_QUIT: '§6§lStickFight §8:: {player} §fвышел из игры §7({online}/{max})'
+STICK_FIGHT_PLAYER_TIMER_TICK: '§6§lStickFight §8:: §fИгра начнется через §e{time} sec.'
+STICK_FIGHT_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cОшибка, недостаточно коинов!'
+
+STICK_FIGHT_BOUGHT_ITEM_SUCCESS_BUY: '§6§lStickFight §8:: §e{item_name} §fуспешно куплен'
+
+STICK_FIGHT_GAME_WAIT_TIMER_5: 'До начала игры: §a❺'
+STICK_FIGHT_GAME_WAIT_TIMER_4: 'До начала игры: §e❹'
+STICK_FIGHT_GAME_WAIT_TIMER_3: 'До начала игры: §6❸'
+STICK_FIGHT_GAME_WAIT_TIMER_2: 'До начала игры: §c❷'
+STICK_FIGHT_GAME_WAIT_TIMER_1: 'До начала игры: §4❶'
+
+STICK_FIGHT_GAME_STARTED_TITLE: '§6§lSTICK FIGHT'
+STICK_FIGHT_GAME_STARTED_SUBTITLE: '§fБой начался!'
+
+STICK_FIGHT_GAME_START_BROADCAST:
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  - ''
+  - '                         §6§lSTICK FIGHT'
+  - ''
+  - '     §7Какое-то описание игры'
+  - '         §7оно же совсем не важно наверное'
+  - ' §7вы ведь правда в это верите?'
+  - '                  §7ок?'
+  - ''
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+STICK_FIGHT_GAME_ENDED_TITLE: '§c§lИГРА ОКОНЧЕНА!'
+STICK_FIGHT_GAME_ENDED_SUBTITLE: '§fЧтобы выйти из игры, напишите - §e/leave'
+
+STICK_FIGHT_GAME_END_BROADCAST:
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  - ''
+  - '                        §6§lSTICK FIGHT'
+  - ''
+  - '                    §f§lПобедитель:'
+  - '                     {winner}'
+  - ''
+  - '§8§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+
+STICK_FIGHT_BOARDS_WAITING_NAME:
+  - '§6§lStick FIGHT'
+STICK_FIGHT_BOARDS_WAITING_LINES:
+  - '§7%date'
+  - '§1'
+  - 'Игроков: §a%players§f/§c%max'
+  - 'Карта: §a%map'
+  - '§2'
+  - 'Статус:'
+  - ' §e%game_status'
+  - '§3'
+  - '§6www.TynixCloud.ru'
+STICK_FIGHT_BOARDS_GAME_NAME:
+  - '§6§lStick FIGHT'
+STICK_FIGHT_BOARDS_GAME_LINES:
+  - '§7%date'
+  - '§0'
+  - 'Осталось времени: §a%time'
+  - 'Убийств: §a%kills'
+  - '§1'
+  - 'Игроков: §a%players§f/§c%max'
+  - '§2'
+  - 'Карта: §a%map'
+  - '§4'
+  - '§6www.TynixCloud.ru'
+STICK_FIGHT_BOARDS_END_NAME:
+  - '§6§lStick FIGHT'
+STICK_FIGHT_BOARDS_END_LINES:
+  - '§7%date'
+  - '§1'
+  - 'Победитель:'
+  - ' %winners'
+  - '§2'
+  - '§6www.TynixCloud.ru'
 
 # SkyWars messages.
 SKYWARS_PLAYER_JOIN: '§6§lSkyWars §8:: {player} §fприсоединился к игре §7({online}/{max})'
