@@ -90,7 +90,7 @@ BUNGEE_ANNOUNCER_VK_MESSAGE:
   - '§e▪ §fОбратитесь в нашу техническую поддержку'
   - '§6▪ §fДля этого перейдите в нашу группу ВК и Вам §cобязательно помогут'
   - ''
-  - ' §8§l↪ §7(Задать вопрос) §8§l↩'
+  - ' §8§l↪ §7(Ask a question) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_VK_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
 BUNGEE_ANNOUNCER_DISCORD_MESSAGE:
@@ -100,7 +100,7 @@ BUNGEE_ANNOUNCER_DISCORD_MESSAGE:
   - '§a▪ §eЖдем тебя в нашем §9дискорд §fсервере!'
   - '§4▪ §fОгромный выбор каналов и ролей ждут тебя'
   - ''
-  - ' §8§l↪ §7(Перейти в Discord) §8§l↩'
+  - ' §8§l↪ §7(Go to Discord) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_DISCORD_HOVER: '§fНажми сюда, чтобы перейти в Discord'
 BUNGEE_ANNOUNCER_REPORT_MESSAGE:
@@ -109,7 +109,7 @@ BUNGEE_ANNOUNCER_REPORT_MESSAGE:
   - '§6▪ §fНа нашем сервере есть система жалоб, которая доступна всем игрокам'
   - '§a▪ §fОтправляя жалобу ты помогаешь серверу в избавлении от нарушителей'
   - ''
-  - ' §8§l↪ §7(Отправить жалобу) §8§l↩'
+  - ' §8§l↪ §7(Send report) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_REPORT_HOVER: '§fИспользуй команду - §c/report <ник> <причина>'
 BUNGEE_ANNOUNCER_FULL_SLOTS_MESSAGE:
@@ -118,7 +118,7 @@ BUNGEE_ANNOUNCER_FULL_SLOTS_MESSAGE:
   - '§e▪ §fПриобретите §e§lKNIGHT §fна сайте §6www.tynixcloud.ru'
   - '§6▪ §fи данная проблема будет решена'
   - ''
-  - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
+  - ' §8§l↪ §7(Go to the website) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_FULL_SLOTS_HOVER: '§fНажми сюда, чтобы перейти сайт'
 BUNGEE_ANNOUNCER_QUANTUM_1_MESSAGE:
@@ -127,7 +127,7 @@ BUNGEE_ANNOUNCER_QUANTUM_1_MESSAGE:
   - '§9▪ §fУже с ней вы получите достойное количество §eвозможностей'
   - '§e▪ §fкоторые сделают вашу игру §aинтереснее'
   - ''
-  - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
+  - ' §8§l↪ §7(Go to the website) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_QUANTUM_1_HOVER: '§fНажми сюда, чтобы перейти сайт'
 BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
@@ -136,7 +136,7 @@ BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
   - '§2▪ §fколичество §bбонусов§f и §eвозможностей§f за умеренную цену.'
   - '§9▪ §fЗаинтересовало? Покупай на сайте §6www.tynixcloud.ru'
   - ''
-  - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
+  - ' §8§l↪ §7(Go to the website) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_QUANTUM_2_HOVER: '§fНажми сюда, чтобы перейти сайт'
 BUNGEE_ANNOUNCER_TYNIX_1_MESSAGE:
@@ -145,7 +145,7 @@ BUNGEE_ANNOUNCER_TYNIX_1_MESSAGE:
   - '§6▪ §fсочетает в себе максимальное количество'
   - '§b▪ §eвозможностей§f и §dбонусов§f для комфортной игры'
   - ''
-  - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
+  - ' §8§l↪ §7(Go to the website) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_TYNIX_1_HOVER: '§fНажми сюда, чтобы перейти сайт'
 BUNGEE_ANNOUNCER_QUESTION_MESSAGE:
@@ -163,7 +163,7 @@ BUNGEE_ANNOUNCER_DONATE_MENU_MESSAGE:
   - '§9▪ §fПокупайте донат у нас и получайте доступ к'
   - '§b▪ §fдонат-меню командой §c/donatemenu'
   - ''
-  - ' §8§l↪ §7(Открыть меню) §8§l↩'
+  - ' §8§l↪ §7(Open menu) §8§l↩'
   - ''
 BUNGEE_ANNOUNCER_DONATE_MENU_HOVER: '§fНажми сюда, чтобы открыть меню'
 BUNGEE_ANNOUNCER_VK_ANNOUNCER_MESSAGE:
@@ -174,8 +174,7 @@ BUNGEE_ANNOUNCER_VK_ANNOUNCER_MESSAGE:
   - ''
   - ' §8§l↪ §7(Перейти в ВК) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_VK_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
-BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
+BUNGEE_ANNOUNCER_VK_ANNOUNCER_HOVER: '§f§fClick, for open VK url'
 BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_MESSAGE:
   - ''
   - '§a▪ §fПокупая §dпривилегии§f, вы не просто помогаете серверу'
@@ -183,18 +182,18 @@ BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_MESSAGE:
   - '§b▪ §fПоэтому мы делаем скидку в §c50% §fпо промокоду §6PROMO'
   - '§e▪ §fНа покупку абсолютно любой привилегии!'
   - ''
-  - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
+  - ' §8§l↪ §7(Go to the website) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_HOVER: '§fНажми сюда, чтобы перейти на сайт'
+BUNGEE_ANNOUNCER_BUY_DONATE_ANNOUNCER_HOVER: '§fClick, for open site'
 BUNGEE_ANNOUNCER_BUY_DONATE_2_ANNOUNCER_MESSAGE:
   - ''
   - '§a▪ §fПокупая §dпривилегию§f, вы §aпомогаете §fв §bразвитии §fпроекта!'
   - '§9▪ §fПри покупке привилегии мы даем §dуйму §fвозможностей для вас'
   - '§b▪ §fПосмотреть возможности: §d/donate'
   - ''
-  - ' §8§l↪ §7(Открыть меню) §8§l↩'
+  - ' §8§l↪ §7(Open menu) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_BUY_DONATE_2_ANNOUNCER_HOVER: '§fНажми сюда, чтобы открыть меню'
+BUNGEE_ANNOUNCER_BUY_DONATE_2_ANNOUNCER_HOVER: '§fClick, for open menu'
 
 # Whitelist message
 WHITELIST_KICK_MESSAGE:
@@ -346,9 +345,9 @@ SKYWARS_BOARD_LINES:
 
 # OneBlock scoreboard.
 ONEBLOCK_BOARD_TITLE:
-  - '§8» §6§lSkyBlock OneBlock'
-  - '§8» §6§lSkyBlock OneBlock'
-  - '§8» §6§lSkyBlock OneBlock'
+  - '§8» §6§lOneBlock'
+  - '§8» §6§lOneBlock'
+  - '§8» §6§lOneBlock'
 ONEBLOCK_BOARD_LINES:
   - '§7%date%'
   - '§1'
@@ -426,20 +425,20 @@ PROFILE_MENU_BASE_LINES:
   - '§8▪ §fGame version: §d%version%'
 PROFILE_MENU_DONATE_TITLE: '§bDonate §8§k§l|'
 PROFILE_MENU_DONATE_LINES:
-  - '§8Список донат привилегий'
+  - '§8List of donate status'
   - ''
-  - '§7Все возможности привилегий'
-  - '§7расписаны в этом разделе.'
+  - '§7All the possibilities of donate'
+  - '§7they are described in this section.'
   - ''
   - '§e▸ Click to open.'
 PROFILE_MENU_DONATEMENU_TITLE: '§dDonate-Menu §8§k§l|'
 PROFILE_MENU_DONATEMENU_LINES:
-  - '§8Плюшки для донатеров'
+  - '§8Bonus for donate status'
   - ''
-  - '§7Дополнительные возмонжости для донатеров:'
+  - '§7Additional features for donaters:'
   - ''
-  - '§8▪ §fБыстрые сообщения'
-  - '§8▪ §fСообщения при входе'
+  - '§8▪ §fFast Messages'
+  - '§8▪ §fJoiner Messages'
   - '§8▪ §f...'
   - ''
   - '§e▸ Click to open.'

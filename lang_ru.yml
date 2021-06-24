@@ -354,9 +354,9 @@ SKYWARS_BOARD_LINES:
 
 # OneBlock scoreboard.
 ONEBLOCK_BOARD_TITLE:
-  - '§8» §6§lSkyBlock OneBlock'
-  - '§8» §6§lSkyBlock OneBlock'
-  - '§8» §6§lSkyBlock OneBlock'
+  - '§8» §6§lOneBlock'
+  - '§8» §6§lOneBlock'
+  - '§8» §6§lOneBlock'
 ONEBLOCK_BOARD_LINES:
   - '§7%date%'
   - '§1'
