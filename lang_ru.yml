@@ -217,15 +217,6 @@ WHITELIST_KICK_MESSAGE:
   - '§4'
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
-PLAY_STATS_MESSAGE:
-  - '§fСтатистика игрока: %player%'
-  - ' §f[Статистика режима]:'
-  - '  - §fСмертей: §c%deaths%'
-  - '  - §fИгроков убито: §a%player_kills%'
-  - '  - §fМобов убито: §a%mob_kills%'
-  - '  - §fПрыжков: §e%jump%'
-  - '  - §fСундуков открыто: §6%chest_opened%'
-  - ' [Классификации]:'
 TELEPORT_MESSAGE:
   - '§6§lTynixCloud §8:: §fСписок доступных команд:'
   - ' §7Телепортироваться к игроку - §e/teleport <ник игрока>'
@@ -254,11 +245,8 @@ HOLOGRAM_CASES_LINE_3: '§7от Великого мага'
 
 HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_1: '%game_name%'
 HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_3: '§cНет свободных серверов'
-HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_4: '§7Сейчас играет §f%players% §7игроков'
-
-HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_1: '%game_name%'
 HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_3: '§eНажмите, чтобы подключиться!'
-HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_4: '§7Сейчас играет §f%players% §7игроков'
+HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_4: '§7Сейчас играет §f%players% §7игроков'
 
 # Streams
 STREAM_NEW_ANNOUNCE:
@@ -634,11 +622,11 @@ DONATE_STATUS_LINE:
   - '§7доната, идут на развитие проекта:'
   - ''
   - '§a↪ §fОплата качественного оборудования'
-  - '   §a●●●●●§7●●●●● §8:: §a40%'
+  - '   §a●●●●§7●●●●●● §8:: §a40%'
   - '§a↪ §fПоддержание онлайна (Развитие сервера рекламой)'
-  - '   §a●●●●●§7●●●●● §8:: §a30%'
+  - '   §a●●●§7●●●●●●● §8:: §a30%'
   - '§a↪ §fРазработка режимов и обновление текущих'
-  - '   §a●●●●●§7●●●●● §8:: §a30%'
+  - '   §a●●●●§7●●●●●● §8:: §a30%'
   - ''
 DONATE_STATUS_GOLD_TITLE: '§fСтатус §6§lGOLD'
 DONATE_STATUS_GOLD_LORE:

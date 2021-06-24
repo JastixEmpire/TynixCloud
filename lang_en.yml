@@ -208,15 +208,6 @@ WHITELIST_KICK_MESSAGE:
   - '§4'
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
-PLAY_STATS_MESSAGE:
-  - '§fPlayer stats: %player%'
-  - ' §f[Mode statistics]:'
-  - '  - §fDeaths: §c%deaths%'
-  - '  - §fPlayer kills: §a%player_kills%'
-  - '  - §fMob kills: §a%mob_kills%'
-  - '  - §fJump: §e%jump%'
-  - '  - §fChest opened: §6%chest_opened%'
-  - ' [Classifications]:'
 TELEPORT_MESSAGE:
   - '§6§lTynixCloud §8:: §fСписок доступных команд:'
   - ' §7Телепортироваться к игроку - §e/teleport <player>'
@@ -246,12 +237,8 @@ HOLOGRAM_CASES_LINE_3: '§7the Great Magician'
 HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_1: '%game_name%'
 HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_2: ''
 HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_3: '§cNo free servers'
-HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_4: '§7Now playing §f%players% §7players'
-
-HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_1: '%game_name%'
-HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_2: ''
 HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_3: '§eClick to connect!'
-HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_4: '§7Now playing §f%players% §7players'
+HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_4: '§7Now playing §f%players% §7players'
 
 # Streams
 STREAM_NEW_ANNOUNCE:
@@ -627,11 +614,11 @@ DONATE_STATUS_LINE:
   - '§7доната, идут на развитие проекта:'
   - ''
   - '§a↪ §fОплата качественного оборудования'
-  - '   §a●●●●●§7●●●●● §8:: §a40%'
+  - '   §a●●●●§7●●●●●● §8:: §a40%'
   - '§a↪ §fПоддержание онлайна (Развитие сервера рекламой)'
-  - '   §a●●●●●§7●●●●● §8:: §a30%'
+  - '   §a●●●§7●●●●●● §8:: §a30%'
   - '§a↪ §fРазработка режимов и обновление текущих'
-  - '   §a●●●●●§7●●●●● §8:: §a30%'
+  - '   §a●●●●§7●●●●●● §8:: §a30%'
   - ''
 DONATE_STATUS_GOLD_TITLE: '§fСтатус §6§lGOLD'
 DONATE_STATUS_GOLD_LORE:
