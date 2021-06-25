@@ -701,6 +701,8 @@ DONATE_STATUS_YOUTUBE_LORE:
   - '§fВ описании и название видео или стрима'
   - '§fдолжен быть указан IP и сайт проекта:'
   - '§6www.TynixCloud.ru, mc.tynixcloud.ru'
+  - ''
+  - '§7'
 
 # Links.
 #DISCORD_MESSAGE: '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
@@ -729,6 +731,13 @@ DONATE_MENU_JOINER_LINES:
   - '§7Доступно от §6§lGOLD'
   - ''
   - '§e▸ Нажмите чтобы настроить сообщение'
+DONATE_MENU_PREFIX_TITLE: '§eСмена префикса'
+DONATE_MENU_PREFIX_LINES:
+  - '§7Смена цвета префикса'
+  - ''
+  - '§7Доступно от §c§lTYNIX'
+  - ''
+  - '§e▸ Нажмите чтобы изменить цвет префикса'
 
 # Fastmessage
 FASTMESSAGE_MENU_TITLE: '§8Донат меню ▸ Быстрые сообщения'

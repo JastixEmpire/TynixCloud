@@ -710,7 +710,7 @@ DONATE_MENU_FASTMESSAGE_LINES:
   - '§7To quickly open the menu, use'
   - '§7command §a/fm §7or §a/fastmessage'
   - ''
-  - '§e▶ Click to open.'
+  - '§e▶ Click to open'
 DONATE_MENU_JOINER_TITLE: '§6Message for join'
 DONATE_MENU_JOINER_LINES:
   - '§7Become a really cool donator'
@@ -719,15 +719,22 @@ DONATE_MENU_JOINER_LINES:
   - ''
   - '§7Available from §6§lGOLD'
   - ''
-  - '§e▸ Click to customize the message.'
+  - '§e▸ Click to customize the message'
+DONATE_MENU_PREFIX_TITLE: '§eChange prefix'
+DONATE_MENU_PREFIX_LINES:
+  - '§7Change prefix color'
+  - ''
+  - '§7Available from §c§lTYNIX'
+  - ''
+  - '§e▸ Click to change prefix color'
 
 # Fastmessage
 FASTMESSAGE_MENU_TITLE: '§8Donate Menu ▸ Fast Messages'
 
 # Joiner
 JOINER_MENU_TITLE: '§8Donate Menu ▸ Joiner'
-JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fВы выбрали §eСообщение #%id% §fиз категории %category%'
-JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: §fВы приобрели §eСообщение #%id% §fиз категории %category% §fза §6%cost% золота'
+JOINER_SELECT_MESSAGE: '§6§lTynixCloud §8:: §fSelect §eMessage #%id% §fof category %category%'
+JOINER_BUY_MESSAGE: '§6§lTynixCloud §8:: §fSuccessfully buy §eMessage #%id% §fof category %category% §ffor §6%cost% gold'
 
 # Status messages.
 STATUS_MENU_TITLE: 'Profile ▸ Donate'
@@ -741,17 +748,17 @@ DONATE_TYNIX_TITLE: 'Donate ▸ TYNIX'
 
 DONATE_BUY_MESSAGE:
   - '§e'
-  - '§8◦ §fПокупка на сайте  §8▸  §6www.TynixCloud.ru'
+  - '§8◦ §fBuy on site  §8▸  §6www.TynixCloud.ru'
   - '§9'
 
 # Core chat system.
 DONATE_CHAT_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/donatechat <message>'
-DONATE_CHAT_ERROR_DUPLICATE_ON: '§6§lTynixCloud §8:: §cЧат донатеров для Вас уже включен!'
-DONATE_CHAT_ERROR_DUPLICATE_OFF: '§6§lTynixCloud §8:: §cЧат донатеров для Вас уже выключен!'
-DONATE_CHAT_SUCCESS_ON: '§6§lTynixCloud §8:: §fЧат донатеров был успешно включен!'
-DONATE_CHAT_SUCCESS_OFF: '§6§lTynixCloud §8:: §fЧат донатеров был успешно выключен!'
-DONATE_CHAT_OFF: '§6§lTynixCloud §8:: §cЧат донатеров отключен, Вы не можете сюда писать!'
-DONATE_CHAT_COOLDOWN: '§6§lTynixCloud §8:: §cОшибка, до повторного использования данной команды подождите еще %time%'
+DONATE_CHAT_ERROR_DUPLICATE_ON: '§6§lTynixCloud §8:: §cDonate Chat is already included for you!'
+DONATE_CHAT_ERROR_DUPLICATE_OFF: '§6§lTynixCloud §8:: §cDonate Chat chat is already off for you!'
+DONATE_CHAT_SUCCESS_ON: '§6§lTynixCloud §8:: §fDonate Chat was turned on successfully!'
+DONATE_CHAT_SUCCESS_OFF: '§6§lTynixCloud §8:: §fDonate Chat was turned off successfully!'
+DONATE_CHAT_OFF: '§6§lTynixCloud §8:: §cDonate Chat switched off, You cannot write here!'
+DONATE_CHAT_COOLDOWN: '§6§lTynixCloud §8:: §cError, wait time before using this command again %time%'
 
 # Core friends messages.
 FRIENDS_ADD_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/f add <player name>'
@@ -760,7 +767,7 @@ FRIENDS_ACCEPT_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/f accept <player nam
 FRIENDS_DENY_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/f deny <player name>'
 FRIENDS_TP_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/f tp <player name>'
 FRIEND_HELP:
-  - '§e§lFriends §8:: §fПомощь по командам:'
+  - '§e§lFriends §8:: §fHelp commands:'
   - ' §7Add player to friends list - §e/friends add <player name>'
   - ' §7Remove player from friends list - §e/friends remove <player name>'
   - ' §7Accept friend request from player - §e/friends accept <player name>'
@@ -779,7 +786,7 @@ FRIENDS_DONT_HAVE_INVITES: '§e§lFriends §8:: §fAt the moment you have no act
 FRIEND_LIST: "§e§lFriends §8:: §fList of your friends: §e(%count%)"
 FRIEND_LIST_NO_FRIENDS:
   - "§cSorry, but your friends list is empty. :("
-  - "§cTop it up by adding them with the command /friends add <nickname>"
+  - "§cTop it up by adding them with the command /friends add <player name>"
 FRIEND_LIST_REQUESTS: "§e§lFriends §8:: §fList of current requests: §e(%count%)"
 FRIENDS_NEW_FRIEND: '§e§lFriends §8:: §fCongratulations! You are now friends with %player%'
 FRIENDS_YOU_REJECTED_REQUEST: '§e§lFriends §8:: §fYou have rejected a friend request from %player%'
@@ -788,32 +795,32 @@ FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lFriends §8:: §cError, this player did n
 
 # Party messages.
 PARTY_HELP:
-  - '§e§lParty §8:: §fПомощь по командам:'
-  - ' §7Отправить запрос - §e/party invite <ник игрока>'
-  - ' §7Удалить игрока из группы - §e/party remove <ник игрока>'
+  - '§e§lParty §8:: §fHelp commands:'
+  - ' §7Отправить запрос - §e/party invite <player name>'
+  - ' §7Удалить игрока из группы - §e/party remove <player name>'
   - ' §7Список игроков в группе - §e/party list'
   - ' §7Список приглашений в группу - §e/party requests'
-PARTY_ADD_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/party invite <ник игрока>'
-PARTY_REMOVE_FORMAT: '§6§lTynixCloud §8:: §fИспользуйте - §6/party remove <ник игрока>'
+PARTY_ADD_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/party invite <player name>'
+PARTY_REMOVE_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/party remove <player name>'
 
-PARTY_ADD_DUPLICATE: '§e§lParty §8:: §cError, you can t add yourself as a PARTY!'
-PARTY_ADD_IS_PARTY: '§e§lParty §8:: §cError, this player is already your PARTY!'
+PARTY_ADD_DUPLICATE: '§e§lParty §8:: §cError, you can t add yourself as a party!'
+PARTY_ADD_IS_PARTY: '§e§lParty §8:: §cError, this player is already your party!'
 PARTY_ADD_HAS_REQUEST: '§e§lParty §8:: §cError, you have already submitted a request to add this player as a party!'
 PARTY_ADD_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully accepted a party request from %player%'
-PARTY_ADD_SUCCESS_MEMBER: '§e§lParty §8:: %player% §faccepted your application as a PARTY!'
+PARTY_ADD_SUCCESS_MEMBER: '§e§lParty §8:: %player% §faccepted your application as a party!'
 PARTY_SUCCESS_MEMBER: '§e§lParty §8:: %player% §foffers to become your PARTY!'
-PARTY_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully submitted your application %player% §f, wait for his response!!!'
-PARTY_ALERT: '§e§lParty §8:: %player% §fприсоединился к группе'
+PARTY_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully submitted your application %player% §f, wait for his response!'
+PARTY_ALERT: '§e§lParty §8:: %player% §fjoined the group'
 
 PARTY_MENU_LIST_TITLE: 'Party list'
 PARTY_MENU_LIST_ONLINE_INFO:
   - ''
-  - '§fОнлайн: §a%online%'
+  - '§fOnline: §a%online%'
   - ''
   - '§fVK: §c%vk%'
   - '§fLanguage: §c%language%'
   - ''
-  - '§fСервер: §c%server%'
+  - '§fServer: §c%server%'
   - ''
   - '§cClick to remove a party'
 
@@ -828,7 +835,7 @@ STICK_FIGHT_PLAYER_QUIT: '§6§lStickFight §8:: {player} §fleave the game §7(
 STICK_FIGHT_PLAYER_TIMER_TICK: '§6§lStickFight §8:: §fGame started in §e{time} sec.'
 STICK_FIGHT_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cError, not enough coins!'
 
-STICK_FIGHT_BOUGHT_ITEM_SUCCESS_BUY: '§6§lStickDuels §8:: §e{item_name} §fsuccessfully purchased'
+STICK_FIGHT_BOUGHT_ITEM_SUCCESS_BUY: '§6§lStickFight §8:: §e{item_name} §fsuccessfully purchased'
 
 STICK_FIGHT_GAME_WAIT_TIMER_5: 'Game started in: §a❺'
 STICK_FIGHT_GAME_WAIT_TIMER_4: 'Game started in: §e❹'
