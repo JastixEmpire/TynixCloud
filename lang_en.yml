@@ -792,15 +792,22 @@ FRIENDS_REQUEST_REJECTED: '§e§lFriends §8:: §fPlayer %player% §fhas rejecte
 FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lFriends §8:: §cError, this player did not send You a friend invitation!'
 
 # Party messages.
-PARTY_HELP:
-  - '§e§lParty §8:: §fHelp commands:'
-  - ' §7Отправить запрос - §e/party invite <player name>'
-  - ' §7Удалить игрока из группы - §e/party remove <player name>'
+NO_PARTY_HELP:
+  - '§e§lParty §8:: §fПомощь по командам:'
+  - ' §7Отправить запрос - §e/party invite <ник игрока>'
+  - ' §7Принять запрос - §e/party accept <ник игрока>'
+  - ' §7Отклонить запрос - §e/party cancel <ник игрока>'
+HAS_PARTY_HELP:
+  - '§e§lParty §8:: §fПомощь по командам:'
+  - ' §7Отправить запрос - §e/party invite <ник игрока>'
+  - ' §7Чат группы - §e/party chat <сообщение>'
   - ' §7Список игроков в группе - §e/party list'
-  - ' §7Список приглашений в группу - §e/party requests'
+  - ' §7Удалить игрока из группы - §e/party kick <ник игрока>'
+  - ' §7Телепортировать группу на сервер - §e/party warp'
+  - ' §7Выйти из группы - §e/party leave'
+  - ' §7Удалить группу - §e/party disband'
 PARTY_ADD_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/party invite <player name>'
 PARTY_REMOVE_FORMAT: '§6§lTynixCloud §8:: §fUse - §6/party remove <player name>'
-
 PARTY_ADD_DUPLICATE: '§e§lParty §8:: §cError, you can t add yourself as a party!'
 PARTY_ADD_IS_PARTY: '§e§lParty §8:: §cError, this player is already your party!'
 PARTY_ADD_HAS_REQUEST: '§e§lParty §8:: §cError, you have already submitted a request to add this player as a party!'
