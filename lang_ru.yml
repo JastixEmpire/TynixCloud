@@ -702,12 +702,8 @@ DONATE_STATUS_YOUTUBE_LORE:
   - '§fдолжен быть указан IP и сайт проекта:'
   - '§6www.TynixCloud.ru, mc.tynixcloud.ru'
   - ''
-  - '§7'
-
-# Links.
-#DISCORD_MESSAGE: '§8◦ §fДискорд §8▸ §9https://discord.io/TynixCloud'
-#SITE_MESSAGE: '§8◦ §fСайт §8▸ §6http://TynixCloud.ru'
-#VK_MESSAGE: '§8◦ §fВКонтакте §8▸ §bhttps://vk.com/TynixCloud'
+  - '§7Статус имеет возможности доната §c§lTYNIX'
+  - '§7Может добавлять стримы - §6/stream <ссылка>'
 
 # DonateMenu Inventory
 DONATE_MENU_TITLE: 'Донат меню'
