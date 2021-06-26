@@ -439,7 +439,7 @@ PROFILE_MENU_DONATEMENU_LINES:
   - ''
   - '§8▪ §fFast Messages'
   - '§8▪ §fJoiner Messages'
-  - '§8▪ §fChange prefix'
+  - '§8▪ §fChange color prefix'
   - ''
   - '§e▸ Click to open.'
 PROFILE_MENU_LANGUAGE_TITLE: '§bSwitch language §8§k§l|'
