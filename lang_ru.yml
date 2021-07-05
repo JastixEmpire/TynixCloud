@@ -300,7 +300,6 @@ MMORPG_BOARD_LINES:
   - ' §fСмертей: §c%deaths%'
   - '§9'
   - ' §fОнлайн: §a%online%'
-  - ' §fСервер: §7%server_name%'
   - '§a'
   - '§6§lwww.TynixCloud.ru'
 
@@ -322,7 +321,6 @@ GRIEF_BOARD_LINES:
   - ' §fСмертей: §c%deaths%'
   - '§9'
   - ' §fОнлайн: §a%online%'
-  - ' §fСервер: §7%server_name%'
   - '§a'
   - '§6§lwww.TynixCloud.ru'
 
@@ -343,7 +341,6 @@ SKYWARS_BOARD_LINES:
   - '§fРейтинг: §a%rating%'
   - '§0'
   - '§fОнлайн: §a%online%'
-  - '§fСервер: §7%server_name%'
   - '§7'
   - '§6§lwww.TynixCloud.ru'
 
@@ -364,7 +361,6 @@ ONEBLOCK_BOARD_LINES:
   - ' Смертей: §c%deaths%'
   - ''
   - 'Онлайн сервера: §a%online%'
-  - 'Сервер: §a%server%'
   - ''
   - '§7Меню острова - §b/is'
   - '§6§lwww.TynixCloud.ru'
