@@ -259,6 +259,8 @@ STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fYour &7%stream_title% &fstream has
 # Hub scoreboard.
 HUB_BOARD_TITLE:
   - '§8» §eHub'
+  - '§8» §eHub'
+  - '§8» §eHub'
 HUB_BOARD_LINES:
   - '§1'
   - ' §fGroup: %status%'
@@ -271,7 +273,7 @@ HUB_BOARD_LINES:
   - '  §a↪ %level_bar%'
   - '§6'
   - ' §fOnline: §a%online%'
-  - '   §6§lwww.TynixCloud.ru'
+  - ' §6§lwww.TynixCloud.ru'
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
@@ -284,28 +286,25 @@ MMORPG_BOARD_LINES:
   - ' §fBalance: §a%balance%'
   - ' §fGolds: §a%golds%'
   - ' §fLevel: §d%level%'
-  - ' §fGuild: §cN/A'
   - '§6'
   - '§7Statistic:'
   - ' §fKills: §e%kills%'
   - ' §fDeaths: §c%deaths%'
   - '§9'
-  - ' §fOnline: §a%online%'
-  - '§a'
+  - '§fOnline: §a%online%'
   - '§6§lwww.TynixCloud.ru'
 
 # Grief scoreboard.
 GRIEF_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '§8» §eGrief'
+  - '§8» §eGrief'
+  - '§8» §eGrief'
 GRIEF_BOARD_LINES:
   - '§1'
   - '§7Information:'
   - ' §fBalance: §a%balance%'
   - ' §fGolds: §a%golds%'
   - ' §fLevel: §d%level%'
-  - ' §fGuild: §cN/A'
   - '§6'
   - '§7Statistic:'
   - ' §fKills: §e%kills%'

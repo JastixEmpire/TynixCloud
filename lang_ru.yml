@@ -268,6 +268,8 @@ STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fВаш стрим &7%stream_title%
 # Hub scoreboard.
 HUB_BOARD_TITLE:
   - '§8» §eЛобби'
+  - '§8» §eЛобби'
+  - '§8» §eЛобби'
 HUB_BOARD_LINES:
   - '§1'
   - ' §fСтатус: %status%'
@@ -280,41 +282,38 @@ HUB_BOARD_LINES:
   - '  §a↪ %level_bar%'
   - '§6'
   - ' §fОнлайн: §a%online%'
-  - '   §6§lwww.TynixCloud.ru'
+  - ' §6§lwww.TynixCloud.ru'
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
-  - '  §6§lTynixCloud §8» §eMMORPG'
-  - '  §6§lTynixCloud §8» §eMMORPG'
-  - '  §6§lTynixCloud §8» §eMMORPG'
+  - '§8» §eMMORPG'
+  - '§8» §eMMORPG'
+  - '§8» §eMMORPG'
 MMORPG_BOARD_LINES:
   - '§1'
   - '§7Информация:'
   - ' §fБаланс: §a%balance%'
   - ' §fЗолота: §a%golds%'
   - ' §fУровень: §d%level%'
-  - ' §fГильдия: §cN/A'
   - '§6'
   - '§7Статистика:'
   - ' §fУбийств: §e%kills%'
   - ' §fСмертей: §c%deaths%'
   - '§9'
-  - ' §fОнлайн: §a%online%'
-  - '§a'
+  - '§fОнлайн: §a%online%'
   - '§6§lwww.TynixCloud.ru'
 
 # Grief scoreboard.
 GRIEF_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '§8» §eГриф'
+  - '§8» §eГриф'
+  - '§8» §eГриф'
 GRIEF_BOARD_LINES:
   - '§1'
   - '§7Информация:'
   - ' §fБаланс: §a%balance%'
   - ' §fЗолота: §a%golds%'
   - ' §fУровень: §d%level%'
-  - ' §fГильдия: §cN/A'
   - '§6'
   - '§7Статистика:'
   - ' §fУбийств: §e%kills%'
@@ -346,9 +345,9 @@ SKYWARS_BOARD_LINES:
 
 # OneBlock scoreboard.
 ONEBLOCK_BOARD_TITLE:
-  - '§8» §6§lOneBlock'
-  - '§8» §6§lOneBlock'
-  - '§8» §6§lOneBlock'
+  - '§8» §eОдин блок'
+  - '§8» §eОдин блок'
+  - '§8» §eОдин блок'
 ONEBLOCK_BOARD_LINES:
   - '§7%date%'
   - '§1'
