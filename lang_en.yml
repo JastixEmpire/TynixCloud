@@ -67,42 +67,42 @@ BUNGEE_ANNOUNCER_DONATE_MESSAGE:
 BUNGEE_ANNOUNCER_DONATE_HOVER: '§fНажми сюда, чтобы открыть меню доната'
 BUNGEE_ANNOUNCER_IP_COPY_MESSAGE:
   - ''
-  - '§4▪ §fРасскажите о нашем сервере своим §cдрузьям'
-  - '§e▪ §fНаш IP: §6TynixCloud.ru'
-  - '§b▪ §fЭтим вы поможете развиваться §eсерверу §fнамного §bбыстрее'
+  - '§4▪ §fTell your server about our §cfriends'
+  - '§e▪ §fOur IP: §6TynixCloud.ru'
+  - '§b▪ §fThis will help the §aserver §fdevelop §cfaster'
   - ''
   - ' §8§l↪ §7(Copy IP) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_IP_COPY_HOVER: '§9Кликни, чтобы скопировать IP'
+BUNGEE_ANNOUNCER_IP_COPY_HOVER: '§9Click, to copy IP'
 BUNGEE_ANNOUNCER_SECURITY_MESSAGE:
   - ''
-  - '§e▪ §fХочешь, чтобы твой §aаккаунт §fбыл в безопасности?'
-  - '§6▪ §fТогда привяжи §aаккаунт к §bВКонтакте'
-  - '§a▪ §fДля этого перейдите в личные сообщения нашего ВК бота'
-  - '§4▪ §fКоманда - §e!привязать [ник] [пароль]'
+  - '§e▪ §fWant, your §account §fwas security?'
+  - '§6▪ §fThen link the §aaccount to §bVKonkatke'
+  - '§a▪ §fTo do this, go to the private messages of our VK bot'
+  - '§4▪ §fCommand - §e!привязать [player] [password]'
   - ''
-  - ' §8§l↪ §7(Link an account to VK) §8§l↩'
+  - ' §8§l↪ §7(Linked account to VK) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_SECURITY_HOVER: '§fПерейдите по ссылке и напишите боту команду §cПРИВЯЗАТЬ'
+BUNGEE_ANNOUNCER_SECURITY_HOVER: '§fFollow the link and write the §cBIND command to the bot'
 BUNGEE_ANNOUNCER_VK_MESSAGE:
   - ''
-  - '§a▪ §fВозникли какие-то §aпроблемы §fили §aвопросы?'
-  - '§e▪ §fОбратитесь в нашу техническую поддержку'
-  - '§6▪ §fДля этого перейдите в нашу группу ВК и Вам §cобязательно помогут'
+  - '§a▪ §fAre there §a problems §for §a questions?'
+  - '§e▪ §fContact our technical support'
+  - '§6▪ §fTo do this, go to our VK group and §c will definitely help you'
   - ''
   - ' §8§l↪ §7(Ask a question) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_VK_HOVER: '§fНажми сюда, чтобы перейти в группу ВК'
+BUNGEE_ANNOUNCER_VK_HOVER: '§fClick here to go to the VK group'
 BUNGEE_ANNOUNCER_DISCORD_MESSAGE:
   - ''
-  - '§e▪ §fИщешь новых друзей или просто скучно играть одному?'
-  - '§6▪ §fПрисоединяйся к нашему голосовому чату §9Discord §fи развлекайся!'
-  - '§a▪ §eЖдем тебя в нашем §9дискорд §fсервере!'
-  - '§4▪ §fОгромный выбор каналов и ролей ждут тебя'
+  - '§e▪ §fAre you looking for new friends or is it just boring to play alone?'
+  - '§6▪ §fJoin our §9Discord §fvoice chat and have fun!'
+  - '§a▪ §eWe are waiting for you in our §9discord §fserver!'
+  - '§4▪ §fA huge selection of channels and roles are waiting for you'
   - ''
   - ' §8§l↪ §7(Go to Discord) §8§l↩'
   - ''
-BUNGEE_ANNOUNCER_DISCORD_HOVER: '§fНажми сюда, чтобы перейти в Discord'
+BUNGEE_ANNOUNCER_DISCORD_HOVER: '§fClick here to go to Discord'
 BUNGEE_ANNOUNCER_REPORT_MESSAGE:
   - ''
   - '§e▪ §fЗаметил §cнарушителя §f? Отправляй §cжалобу §fпрямо сейчас!'
@@ -242,7 +242,7 @@ HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_4: '§7Now playing §f%players% §7
 # Streams
 STREAM_NEW_ANNOUNCE:
   - ''
-  - ' §8| §c§lATTENTION! §f%streamer% started streaming live on %platform%'
+  - ' §8| §c§lWARNING! §f%streamer% started streaming live on %platform%'
   - ' §8| §fTitle: §e%stream_title%'
   - ' §8| §fViewers: §e§a%viewers%'
   - ''
@@ -250,7 +250,7 @@ STREAM_NEW_ANNOUNCE:
 
 STREAMS_ANNOUNCE:
   - ''
-  - ' §8| §c§lATTENTION! §fthe server is now running §b%count% §flive streams!'
+  - ' §8| §c§lWARNING! §fthe server is now running §b%count% §flive streams!'
   - ''
   - ' §8§l↪ §7(Open the list of streams) §8§l↩'
 
@@ -258,9 +258,7 @@ STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fYour &7%stream_title% &fstream has
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
-  - '  §6§lTynixCloud §8» §eHub'
-  - '  §6§lTynixCloud §8» §eHub'
-  - '  §6§lTynixCloud §8» §eHub'
+  - '§8» §eHub'
 HUB_BOARD_LINES:
   - '§1'
   - ' §e§lProfile:'
@@ -274,7 +272,6 @@ HUB_BOARD_LINES:
   - '  §a↪ %level_bar%'
   - '§6'
   - ' §fOnline: §a%online%'
-  - ' §fServer: §7%server_name%'
   - '§a'
   - '   §6§lwww.TynixCloud.ru'
 
@@ -360,7 +357,6 @@ ONEBLOCK_BOARD_LINES:
   - ' Смертей: §c%deaths%'
   - ''
   - 'Онлайн сервера: §a%online%'
-  - 'Сервер: §a%server%'
   - ''
   - '§7Меню острова - §b/is'
   - '§6§lwww.TynixCloud.ru'
@@ -501,8 +497,8 @@ PROFILE_MENU_CONVERT_LINES:
   - ''
   - '§e▸ Click to open.'
 
-HELP_MENU_TITLE: 'Профиль ▸ Помощь'
-HELP_MENU_NAVIGATION_TITLE: '§bНавигация'
+HELP_MENU_TITLE: 'Profile ▸ Help'
+HELP_MENU_NAVIGATION_TITLE: '§bNavigation'
 HELP_MENU_NAVIGATION_LINES:
   - '§7Полезные команды для игры на сервере:'
   - ''
@@ -523,7 +519,7 @@ HELP_MENU_SOCIAL_LINES:
   - '§7Почта сервера: §dsupport@tynixcloud.ru'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее.'
-HELP_MENU_DONATE_TITLE: '§bПривилегии'
+HELP_MENU_DONATE_TITLE: '§bDonate status'
 HELP_MENU_DONATE_LINES:
   - '§7Список привилегий:'
   - ' §8▸ %gold% §7- §f100Р'
@@ -539,7 +535,7 @@ HELP_MENU_DONATE_LINES:
   - '§7Приобрести привилегии можно'
   - '§7на сайте §dwww.tynixcloud.ru'
 
-HELP_MENU_FRIENDS_TITLE: '§bИгра с друзьями'
+HELP_MENU_FRIENDS_TITLE: '§bPlaying with friends'
 HELP_MENU_FRIENDS_LINES:
   - '§7Для комфортной игры с друзьями'
   - '§7используйте команды ниже:'
@@ -552,7 +548,7 @@ HELP_MENU_FRIENDS_LINES:
   - '§7узнать написав команду §6/friends'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее.'
-HELP_MENU_SECURITY_TITLE: '§bБезопасность аккаунта'
+HELP_MENU_SECURITY_TITLE: '§bAccount security'
 HELP_MENU_SECURITY_LINES:
   - '§7После регистрации рекомендуем'
   - '§7привязать к аккаунту свой ВКонтакте:'
@@ -561,7 +557,7 @@ HELP_MENU_SECURITY_LINES:
   - '§7При утере пароля пишите команду:'
   - '§6!восстановить'
   - '§7На Ваш аккаунт придет новый пароль'
-HELP_MENU_SKIN_TITLE: '§bУстановка скина'
+HELP_MENU_SKIN_TITLE: '§bInstalling the skin'
 HELP_MENU_SKIN_LINES:
   - '§7На нашем сервере действует система скинов,'
   - '§7которая позволяет установить себе'
@@ -571,7 +567,7 @@ HELP_MENU_SKIN_LINES:
   - '§6/skin clear §7- Вернуть свой скин'
   - ''
   - '§7Скин меняется сразу. Перезаходить не нужно!'
-HELP_MENU_MSG_TITLE: '§bОбщение'
+HELP_MENU_MSG_TITLE: '§bMessage'
 HELP_MENU_MSG_LINES:
   - '§7Если вы хотите написать конкретное'
   - '§7сообщение определенному игроку, то'
@@ -585,7 +581,7 @@ HELP_MENU_MSG_LINES:
   - '§7личные сообщения от определенного'
   - '§7игрока, то отключите ему возможность'
   - '§7писать вам в ЛС: §6/ignore <Ник>'
-HELP_MENU_STREAM_TITLE: '§bПрямые трансляции'
+HELP_MENU_STREAM_TITLE: '§bLive streams'
 HELP_MENU_STREAM_LINES:
   - '§7Хотите поддержать сервер и набрать §6новых зрителей§7?'
   - ''
@@ -605,7 +601,7 @@ BACK_LINES:
   - '§e▸ Press to return to the previous menu.'
 
 # Donate Inventory
-DONATE_STATUS_TITLE: '§7Информация'
+DONATE_STATUS_TITLE: '§7Information'
 DONATE_STATUS_LINE:
   - '§fВсего статусов: §c§l7'
   - ''
@@ -619,7 +615,7 @@ DONATE_STATUS_LINE:
   - '§a↪ §fРазработка режимов и обновление текущих'
   - '   §a●●●●§7●●●●●● §8:: §a30%'
   - ''
-DONATE_STATUS_GOLD_TITLE: '§fСтатус §6§lGOLD'
+DONATE_STATUS_GOLD_TITLE: '§fStatus §6§lGOLD'
 DONATE_STATUS_GOLD_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
@@ -629,7 +625,7 @@ DONATE_STATUS_GOLD_LORE:
   - ' §fЦена: §a§l100 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_KNIGHT_TITLE: '§fСтатус §e§lKNIGHT'
+DONATE_STATUS_KNIGHT_TITLE: '§fStatus §e§lKNIGHT'
 DONATE_STATUS_KNIGHT_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
@@ -639,7 +635,7 @@ DONATE_STATUS_KNIGHT_LORE:
   - ' §fЦена: §a§l240 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_LEGENDARY_TITLE: '§fСтатус §9§lLEGENDARY §6§l§nBEST'
+DONATE_STATUS_LEGENDARY_TITLE: '§fStatus §9§lLEGENDARY §6§l§nBEST'
 DONATE_STATUS_LEGENDARY_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
@@ -649,7 +645,7 @@ DONATE_STATUS_LEGENDARY_LORE:
   - ' §fЦена: §a§l370 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_QUANTUM_TITLE: '§fСтатус §a§lQUANTUM'
+DONATE_STATUS_QUANTUM_TITLE: '§fStatus §a§lQUANTUM'
 DONATE_STATUS_QUANTUM_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
@@ -659,7 +655,7 @@ DONATE_STATUS_QUANTUM_LORE:
   - ' §fЦена: §a§l620 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_RUBY_TITLE: '§fСтатус §d§lRUBY'
+DONATE_STATUS_RUBY_TITLE: '§fStatus §d§lRUBY'
 DONATE_STATUS_RUBY_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
@@ -669,7 +665,7 @@ DONATE_STATUS_RUBY_LORE:
   - ' §fЦена: §a§l950 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_TYNIX_TITLE: '§fСтатус §c§lTYNIX §c§l§nNEW'
+DONATE_STATUS_TYNIX_TITLE: '§fStatus §c§lTYNIX §c§l§nNEW'
 DONATE_STATUS_TYNIX_LORE:
   - ''
   - '§8§l· §fУникальные возможности'
@@ -679,7 +675,7 @@ DONATE_STATUS_TYNIX_LORE:
   - ' §fЦена: §a§l1500 §aрублей'
   - ''
   - '§e▸ Нажмите, чтобы узнать подробнее'
-DONATE_STATUS_YOUTUBE_TITLE: '§fСтатус §6§lYOUTUBE'
+DONATE_STATUS_YOUTUBE_TITLE: '§fStatus §6§lYOUTUBE'
 DONATE_STATUS_YOUTUBE_LORE:
   - ''
   - '§7Как получить данный статус?'
