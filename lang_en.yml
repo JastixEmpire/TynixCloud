@@ -258,9 +258,9 @@ STREAM_UPDATE_REMOVED: '&6&lTynixCloud &8:: &fYour &7%stream_title% &fstream has
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
-  - '§8» §eHub'
-  - '§8» §eHub'
-  - '§8» §eHub'
+  - '§8» §e§lHub'
+  - '§8» §e§lHub'
+  - '§8» §e§lHub'
 HUB_BOARD_LINES:
   - '§1'
   - ' §fGroup: %status%'
@@ -277,9 +277,9 @@ HUB_BOARD_LINES:
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
-  - '§8» §eMMORPG'
-  - '§8» §eMMORPG'
-  - '§8» §eMMORPG'
+  - '§8» §e§lMMORPG'
+  - '§8» §e§lMMORPG'
+  - '§8» §e§lMMORPG'
 MMORPG_BOARD_LINES:
   - '§1'
   - '§7Information:'
@@ -296,9 +296,9 @@ MMORPG_BOARD_LINES:
 
 # Grief scoreboard.
 GRIEF_BOARD_TITLE:
-  - '§8» §eGrief'
-  - '§8» §eGrief'
-  - '§8» §eGrief'
+  - '§8» §e§lGrief'
+  - '§8» §e§lGrief'
+  - '§8» §e§lGrief'
 GRIEF_BOARD_LINES:
   - '§1'
   - '§7Information:'
@@ -316,9 +316,9 @@ GRIEF_BOARD_LINES:
 
 # SkyWars scoreboard.
 SKYWARS_BOARD_TITLE:
-  - '§8» §6§lTynixCloud'
-  - '§8» §e§lTynixCloud'
-  - '§8» §b§lTynixCloud'
+  - '§8» §e§lSkyWars'
+  - '§8» §e§lSkyWars'
+  - '§8» §e§lSkyWars'
 SKYWARS_BOARD_LINES:
   - '§7SkyWars %date%'
   - '§2'
@@ -329,7 +329,6 @@ SKYWARS_BOARD_LINES:
   - ' §fDoubles Wins: §b%doubles_wins%'
   - '§9'
   - '§fRating: §a%rating%'
-  - '§0'
   - '§fOnline: §a%online%'
   - '§7'
   - '§6§lwww.TynixCloud.ru'
