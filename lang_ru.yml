@@ -270,18 +270,16 @@ HUB_BOARD_TITLE:
   - '§8» §eЛобби'
 HUB_BOARD_LINES:
   - '§1'
-  - ' §e§lПрофиль:'
-  - '  §fСтатус: %status%'
-  - '  §fБаланс: §a%balance%'
-  - '  §fЗолота: §e%golds%'
-  - '  §fУровень: §d%level%'
-  - '  §fEXP: §a%level_exp%§8/§c%level_max_exp%'
+  - ' §fСтатус: %status%'
+  - ' §fБаланс: §a%balance%'
+  - ' §fЗолота: §e%golds%'
+  - ' §fУровень: §d%level%'
+  - ' §fEXP: §a%level_exp%§8/§c%level_max_exp%'
   - '§e'
   - ' §fПрогресс уровня: §a%level_exp_percent%'
   - '  §a↪ %level_bar%'
   - '§6'
   - ' §fОнлайн: §a%online%'
-  - '§a'
   - '   §6§lwww.TynixCloud.ru'
 
 # MMORPG scoreboard.
